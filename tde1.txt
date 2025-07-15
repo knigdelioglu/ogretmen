@@ -1,0 +1,225 @@
+[OKUL_ADI] [EGITIM_YILI]	[SECILI_BRANS] DERSİ SENE BAŞI ZÜMRE ÖĞRETMENLER KURULU TOPLANTI TUTANAĞI
+
+
+
+
+Bölüm 1: Toplantı Künyesi ve Katılım
+
+	•	Toplantı No: 1
+	•	Toplantı Tarihi: [TARIH]
+	•	Toplantı Saati: [SAAT]
+	•	Toplantı Yeri: [YER]
+	•	Katılımcılar: [KATILIMCILAR]
+	•	Gündem:
+
+Açılış, Yoklama, Zümre Başkanı ve Yazman Seçimi
+
+Bir Önceki Zümre Toplantısı Kararlarının Değerlendirilmesi
+
+Mevzuatın İncelenmesi ve Yıllık Çalışma Planına Esas Teşkil Edecek Hususların Tespiti
+
+Öğretim Yöntem ve Teknikleri, Materyal Geliştirme ve Teknoloji Kullanımı
+
+Ölçme ve Değerlendirme Esaslarının Belirlenmesi
+
+Diğer Zümreler ile İş Birliği
+
+Öğrenci Gelişimini Destekleyici Çalışmalar ve Rehberlik Hizmetleri
+
+Sosyal, Kültürel ve Sportif Etkinlikler, Projeler ve Yarışmalar
+
+Dilek, Temenniler ve Kapanış    
+
+
+Bölüm 2: Gündem Maddelerinin Görüşülmesi
+
+[SECILI_BRANS] dersi sene başı zümre öğretmenler kurulu toplantısı, belirtilen tarih, saat ve yerde, yukarıda adı geçen katılımcılarla başlamıştır. Gündem maddeleri, kurul üyelerine Millî Eğitim Bakanlığı Eğitim Kurulları ve Zümreleri Yönergesi'nin ilgili hükümleri uyarınca toplantıdan en az beş gün önce yazılı olarak ve bilişim araçlarıyla duyurulmuştur.1 Toplantı, ders saatleri dışında gerçekleştirilmiştir.1
+
+1. Açılış, Yoklama, Zümre Başkanı ve Yazman Seçimi
+
+Toplantı, tarafından eğitim-öğretim yılının tüm zümre öğretmenleri için başarılı ve verimli geçmesi dilekleriyle açılmıştır. Yapılan yoklamada, katılım listesinde adı bulunan tüm öğretmenlerin hazır olduğu görülmüştür.
+MEB Eğitim Kurulları ve Zümreleri Yönergesi'nin 11. maddesi gereğince, kurumsallığı ve devamlılığı sağlamak amacıyla bir önceki eğitim-öğretim yılı zümre başkanı olan [SOZ_ALAN], geçen yılki zümre çalışmaları, alınan kararların uygulama sonuçları ve karşılaşılan zorluklar hakkında kurula özet bir bilgilendirme yapmıştır.2 Bu bilgilendirme, yeni dönem planlamaları için bir temel teşkil etmiştir.
+Yönerge uyarınca, eylül ayından itibaren geçerli olmak üzere iki yıl süreyle görev yapacak zümre başkanı ve toplantı tutanaklarını kaleme alacak yazman seçimine geçilmiştir.1 Zümre başkanlığı için öncelikle gönüllülük esası gözetilmiştir. Yapılan oylama sonucunda,		[ZUMRE_BASKANI] oy çokluğu ile Zümre Başkanı olarak seçilmiştir. Toplantı tutanaklarını yazmak üzere ise [SOZ_ALAN] oy birliği ile yazman olarak belirlenmiştir. Seçilen başkanın bilgileri, okul yönetimi tarafından MEBBİS modülüne işlenecektir.2
+
+2. Bir Önceki Zümre Toplantısı Kararlarının Değerlendirilmesi
+
+Zümre yazmanı [[TUTANAK_OKUYAN]], eğitim-öğretim yılı sonunda yapılan zümre öğretmenler kurulu toplantısının tutanağını ve alınan kararları okumuştur.4 Kararlar maddeler halinde tek tek ele alınarak uygulama düzeyleri değerlendirilmiştir.
+[SOZ_ALAN], yıl sonu zümresinde kararlaştırılan "klasik eser okuma teşvik programı"nın öğrenciler arasında olumlu karşılandığını, ancak belirlenen eser listesinin bazı şubelerin seviyesinin üzerinde kaldığını belirtmiştir. Bu yılki planlamada, sınıf seviyelerine ve öğrencilerin hazırbulunuşluk düzeylerine göre farklılaştırılmış okuma listeleri oluşturulmasının daha isabetli olacağını ifade etmiştir.
+[SOZ_ALAN], Tarih zümresi ile ortaklaşa planlanan "Edebiyatta Tarihsel Gerçeklik" konulu panelin, planlama ve koordinasyon eksiklikleri nedeniyle verimli gerçekleştirilemediğini belirtmiştir. Bu eğitim-öğretim yılında disiplinlerarası iş birliği faaliyetlerinin takvime bağlanarak daha erken bir tarihte somutlaştırılması gerektiğini vurgulamıştır. Alınan kararların genel olarak uygulandığı, aksayan yönlerin bu toplantıda yeniden ele alınacağı teyit edilmiştir.6
+
+3. Mevzuatın İncelenmesi ve Yıllık Çalışma Planına Esas Teşkil Edecek Hususların Tespiti
+
+Zümre başkanı [ZUMRE_BASKANI] , zümre çalışmalarının temelini oluşturan yasal çerçeveyi hatırlatmıştır. Bu kapsamda, 1739 sayılı Millî Eğitim Temel Kanunu'nun 2. maddesinde belirtilen Türk Millî Eğitimi'nin Genel Amaçları ve Temel İlkeleri okunmuş, dersinin bu amaçlara ulaşmadaki rolü ve sorumlulukları üzerinde durulmuştur.7
+[SUNUM_YAPAN], Talim ve Terbiye Kurulu Başkanlığı tarafından yayımlanan en güncel Türk Dili ve Edebiyatı Dersi Öğretim Programı ile "Türkiye Yüzyılı Maarif Modeli" olarak adlandırılan yeni müfredat taslağının getirdiği temel yaklaşımlar hakkında bir sunum gerçekleştirmiştir.8 Sunumda, yeni modelin vurguladığı yetkinlik temelli ve bütüncül eğitim anlayışı, beceri odaklı öğretim süreçleri, erdem-değer-eylem bütünlüğü ve özellikle Türk Dili ve Edebiyatı dersi için kritik olan "sosyal-duygusal öğrenme becerileri" ve "çoklu okuryazarlık becerileri" gibi kavramlar açıklanmıştır. Planlamaların bu yeni yaklaşımlara uygun olarak yapılması gerektiği kararlaştırılmıştır.5
+Atatürkçülükle ilgili konuların yıllık planlara ve ders içeriklerine entegrasyonu, 2104 ve 2488 sayılı Tebliğler Dergileri doğrultusunda detaylı olarak görüşülmüştür.7 Bu konuların belirli gün ve haftalara sıkıştırılmak yerine, dersin doğal akışı içinde, ilgili metinler (örneğin, Nutuk'tan bölümler, Atatürk'ün sanat ve edebiyat üzerine düşünceleri, Milli Mücadele dönemi edebi eserleri) aracılığıyla anlamlı bir bağlamda işlenmesinin önemi vurgulanmıştır. Bu planlamanın somutlaştırılması amacıyla aşağıdaki tablonun oluşturulmasına karar verilmiştir.
+
+Tablo 1: Atatürkçülük Konuları Yıllık Dağılım Planı
+
+Sınıf Düzeyi
+Konu Başlığı
+İlişkilendirileceği Ünite/Edebi Metin
+Planlanan Zaman Dilimi
+Kullanılacak Yöntem/Materyal
+9. Sınıf
+Atatürk'ün Hayatı ve Öğrenim Yılları
+Biyografi/Otobiyografi ünitesi, "Hikâye" ünitesindeki olay çevresinde gelişen metinler.
+10-16 Kasım Atatürk Haftası
+Metin analizi, belgesel izleme, karşılaştırmalı okuma.
+10. Sınıf
+Atatürk İlkeleri ve Milli Kültür
+"Söylev (Nutuk)" metni, "Destan/Efsane" ünitesindeki milli değerler.
+29 Ekim Cumhuriyet Bayramı haftası
+Kavram haritası oluşturma, münazara, EBA içerikleri.
+11. Sınıf
+Atatürkçü Düşünce Sistemi ve Edebiyat
+Cumhuriyet Dönemi Türk Edebiyatı, özellikle toplumcu gerçekçi ve milli edebiyat zevkini sürdüren eserler.
+19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı haftası
+Panel, makale incelemesi, yazar-eser-dönem ilişkisi kurma.
+12. Sınıf
+Atatürk ve Sanat/Dil Devrimi
+"Deneme" ve "Eleştiri" üniteleri, Atatürk'ün dil ve edebiyat üzerine görüşleri.
+Yıl geneline yayılarak ilgili metinlerde
+Kaynak metin incelemesi, sunum hazırlama, proje çalışması.
+
+4. Öğretim Yöntem ve Teknikleri, Materyal Geliştirme ve Teknoloji Kullanımı
+
+Derslerin işlenişinde uygulanacak öğretim yöntem ve tekniklerinin çeşitlendirilmesi ve öğrenci merkezli bir yaklaşımın benimsenmesi gerektiği üzerinde durulmuştur.5
+[SOZ_ALAN], özellikle münazara, panel, forum, drama, eleştirel okuma atölyeleri ve yaratıcı yazma etkinlikleri gibi öğrencilerin aktif katılımını sağlayan yöntemlerin yıllık planlara entegre edilmesini önermiştir.
+Eğitimde teknoloji kullanımının bir amaç değil, pedagojik hedeflere ulaşmada bir araç olduğu ilkesi benimsenmiştir. [SOZ_ALAN], EBA platformu, Öğrenme Bilişim Ağı (ÖBA), etkileşimli tahta ve diğer dijital eğitim araçlarının etkin kullanımı hakkında görüşlerini belirtmiştir. EBA'daki içeriklerin nitelik açısından değişkenlik gösterebildiği, bu nedenle zümre olarak ortak bir dijital materyal havuzu (ders sunumları, çalışma yaprakları, video ders bağlantıları, interaktif alıştırmalar) oluşturulmasının ve bu havuzun sürekli güncellenmesinin faydalı olacağı ifade edilmiştir.6
+[SOZ_ALAN], ders materyali olarak yalnızca ders kitabıyla sınırlı kalınmaması gerektiğini, güncel edebi dergilerin, makalelerin, filmlerin, belgesellerin ve dijital arşivlerin de ders sürecine dahil edilmesinin öğrencilerin çok yönlü gelişimine katkı sağlayacağını belirtmiştir. Okul kütüphanesinin ve yerel halk kütüphanesi imkanlarının daha etkin kullanılması, yazar buluşmaları, çevrim içi söyleşiler ve sanal müze gezileri gibi etkinliklerin planlanması kararlaştırılmıştır.5
+
+5. Ölçme ve Değerlendirme Esaslarının Belirlenmesi
+
+Ölçme ve değerlendirme faaliyetlerinin, öğretim programının ayrılmaz bir parçası olduğu ve sadece sonuç odaklı değil, süreç odaklı da olması gerektiği vurgulanmıştır. MEB Ortaöğretim Kurumları Yönetmeliği'nin ilgili maddeleri ve zümrenin ortak kararları doğrultusunda yılı ölçme ve değerlendirme esasları belirlenmiştir.4
+[ZUMRE_BASKANI], yazılı sınavlarda bilginin hatırlanmasına dayalı sorulardan ziyade, öğrencilerin okuduğunu anlama, metinleri yorumlama, analiz-sentez yapma, metinler arası ilişki kurma ve eleştirel bakış açısı geliştirme gibi üst düzey bilişsel becerilerini ölçen sorulara ağırlık verilmesi gerektiğini ifade etmiştir. Bu amaçla, sınavlarda çoktan seçmeli soruların yanı sıra açık uçlu sorular, kısa cevaplı sorular, metin çözümleme ve kompozisyon gibi farklı soru türlerinin bir arada kullanılmasına karar verilmiştir.6
+Performans çalışmaları ve proje ödevlerinin konuları, öğrencilerin ilgi ve yetenekleri ile öğretim programının kazanımları dikkate alınarak belirlenmiştir. Örnek konular arasında "Bir Divan Şairinin Poetikası Üzerine Bir İnceleme", "Bir Roman Karakterinin Psikanalitik Tahlili", "Yaşayan Bir Halk Ozanı ile Görüşme ve Derleme Çalışması" gibi başlıklar yer almaktadır. Bu çalışmaların değerlendirilmesinde kullanılmak üzere, zümre tarafından ortak "Dereceli Puanlama Anahtarları" (Rubrik) hazırlanması ve bu kriterlerin çalışma öncesinde öğrencilerle paylaşılması kararlaştırılmıştır.5
+Sınavlar tamamlandıktan sonra, şube ve sınıf bazında sınav analizleri yapılarak öğrenme eksikliklerinin ve kavram yanılgılarının tespit edilmesi, bu sonuçlara göre telafi çalışmaları veya ek dersler planlanması gerektiği kararlaştırılmıştır.6 Yıl boyunca yapılacak tüm ölçme ve değerlendirme faaliyetlerinin takvimlendirilmesi için aşağıdaki tablonun oluşturulması benimsenmiştir.
+
+Tablo 2: Yıllık Sınav ve Değerlendirme Takvimi
+
+Sınıf Düzeyi
+Dönem
+Değerlendirme Türü
+Sınav Şekli
+Planlanan Tarih Aralığı
+Tüm Sınıflar
+I. Dönem
+1. Yazılı Sınav
+Ortak Sınav (Test + Kısa Cevaplı)
+Kasım Ayının 2. Haftası
+Tüm Sınıflar
+I. Dönem
+2. Yazılı Sınav
+Ortak Sınav (Klasik - Açık Uçlu)
+Ocak Ayının 1. Haftası
+Tüm Sınıflar
+I. Dönem
+Performans Çalışması Teslimi
+Bireysel
+Aralık Ayının Son Haftası
+Tüm Sınıflar
+II. Dönem
+1. Yazılı Sınav
+Ortak Sınav (Test + Kısa Cevaplı)
+Nisan Ayının 1. Haftası
+Tüm Sınıflar
+II. Dönem
+2. Yazılı Sınav
+Ortak Sınav (Klasik - Açık Uçlu)
+Mayıs Ayının Son Haftası
+Tüm Sınıflar
+II. Dönem
+Proje Ödevi Teslimi (Alanlar için)
+Bireysel / Grup
+Mayıs Ayının 2. Haftası
+
+6. Diğer Zümreler ile İş Birliği
+
+Eğitimde bütüncül bir yaklaşım sağlamak ve öğrencilerin farklı disiplinler arasında bağ kurma becerisini geliştirmek amacıyla diğer zümrelerle yapılacak iş birliği çalışmaları görüşülmüştür.5
+[SOZ_ALAN], "Türkiye Yüzyılı Maarif Modeli"nin de vurguladığı disiplinlerarası yaklaşımın, özellikle dersinin doğası gereği birçok alanla etkileşime açık olduğunu belirtmiştir. Bu doğrultuda aşağıdaki iş birliği faaliyetlerinin planlanmasına karar verilmiştir:
+	•	Tarih Zümresi ile: "Tanzimat'tan Cumhuriyet'e Türk Romanı" ünitesi işlenirken, dönemin siyasi ve sosyal olaylarının daha iyi anlaşılması için ortak ders anlatımları veya paneller düzenlenmesi. Özellikle "Yaban", "Ateşten Gömlek" gibi eserler incelenirken Milli Mücadele döneminin tarihsel arka planının birlikte ele alınması.6
+	•	Felsefe Grubu Zümresi ile: Edebî akımlar (Varoluşçuluk, Realizm, Romantizm vb.) işlenirken, bu akımların felsefi temellerinin Felsefe Grubu öğretmenleri tarafından anlatılacağı ortak bir oturum planlanması.
+	•	Müzik ve Görsel Sanatlar Zümreleri ile: "Şiir" ünitesi kapsamında, öğrencilerin seçtikleri bir şiiri bestelemeleri veya resmetmelerini içeren "Şiirden Nota'ya, Şiirden Tuvale" adlı bir proje yarışması düzenlenmesi.6
+	•	Coğrafya Zümresi ile: "Gezi Yazısı" türü incelenirken, Evliya Çelebi'nin veya modern gezi yazarlarının metinlerinde geçen coğrafi mekanların, kültürel coğrafya bağlamında haritalar ve görsellerle desteklenerek incelenmesi.
+	•	Yabancı Dil Zümreleri ile: Dünya Edebiyatı'ndan çeviri metinler okunurken, metnin orijinal dilindeki kültürel kodlar ve çeviri sürecindeki anlam kaymaları üzerine ortak bir atölye çalışması yapılması.
+
+7. Öğrenci Gelişimini Destekleyici Çalışmalar ve Rehberlik Hizmetleri
+
+Öğrencilerin akademik başarılarının yanı sıra sosyal ve duygusal gelişimlerinin de desteklenmesi gerektiği ilkesinden hareketle, okul rehberlik servisi ile yürütülecek ortak çalışmalar planlanmıştır. [SOZ_ALAN], özellikle 9. sınıfa yeni başlayan öğrencilerin okula uyum sürecinde ve 12. sınıf öğrencilerinin sınav kaygısıyla başa çıkma konusunda rehberlik servisinin desteğinin önemini vurgulamıştır. Verimli ders çalışma yöntemleri, zaman yönetimi, motivasyon ve meslek seçimi gibi konularda öğrencilere ve velilere yönelik seminerler düzenlenmesi için okul rehberlik servisi ile ortak bir takvim oluşturulmasına karar verilmiştir.5
+Zümredeki kaynaştırma/bütünleştirme yoluyla eğitim gören öğrenciler için hazırlanmış olan Bireyselleştirilmiş Eğitim Programları (BEP) tek tek incelenmiştir.10 Bu öğrencilerin ders içi etkinliklerinin, ödevlerinin ve sınavlarının BEP'lerinde yer alan kazanımlara ve hedeflere göre uyarlanması, değerlendirmelerinin de bu çerçevede yapılması gerektiği hususu tüm zümre öğretmenleri tarafından teyit edilmiştir.6
+Okuma, anlama ve yazılı anlatım becerilerinde belirgin zorluk yaşayan öğrenciler için, okul idaresinin onayı ve rehberlik servisinin yönlendirmesiyle destekleme ve yetiştirme kursları (DYK) kapsamında özel gruplar oluşturulması veya okul sonrası etüt çalışmaları planlanması konusu görüşülmüştür.5
+
+8. Sosyal, Kültürel ve Sportif Etkinlikler, Projeler ve Yarışmalar
+
+Öğrencilerin derste edindikleri bilgi ve becerileri sergileyebilecekleri, sosyalleşebilecekleri ve kendilerini ifade etme imkânı bulacakları etkinliklerin planlanması gündeme alınmıştır.5 Zümre öğretmenlerinin önerileriyle içinde gerçekleştirilmesi hedeflenen faaliyetler şu şekilde belirlenmiştir:
+	•	Okul Dergisi/E-Dergi: Öğrencilerin yazı, şiir, deneme ve çizimlerinden oluşan, dijital veya basılı bir okul dergisinin çıkarılması için yayın kurulunun oluşturulması.
+	•	Şiir ve Müzik Dinletisi: Belirli gün ve haftalarla (örneğin, Mehmet Akif Ersoy'u Anma Haftası, Yunus Emre ve Türkçe Yılı) ilişkilendirilerek veya tematik olarak (örneğin, "İstanbul Şiirleri") bir dinleti programı hazırlanması.
+	•	Münazara Turnuvası: Sınıflar arası veya okullar arası bir münazara turnuvası düzenlenerek öğrencilerin argüman geliştirme, topluluk önünde konuşma ve ikna kabiliyetlerinin geliştirilmesi.
+	•	Kültürel Geziler: İmkanlar dahilinde İstanbul'daki Edebiyat Müzeleri'ne, kitap fuarlarına veya Ankara'daki Milli Kütüphane'ye geziler düzenlenmesi.
+	•	Proje Yarışmalarına Katılım: Öğrencilerin, TÜBİTAK 2204-A Lise Öğrencileri Araştırma Projeleri Yarışması gibi ulusal yarışmalara alanında özgün projelerle katılmaları için teşvik edilmesi ve bu süreçte danışman öğretmen görevlendirmelerinin yapılması.7
+
+9. Dilek, Temenniler ve Kapanış
+
+Gündemin son maddesinde zümre öğretmenleri söz alarak görüş ve önerilerini dile getirmişlerdir.
+[SOZ_ALAN], zümre öğretmenleri arasında ders planları, materyaller, iyi uygulamalar ve karşılaşılan sorunlar hakkında anlık bilgi alışverişini sağlamak amacıyla bir dijital iletişim grubu kurulmasını önermiştir. Bu öneri, iletişimi ve iş birliğini güçlendireceği düşüncesiyle kurul tarafından olumlu karşılanmıştır.6
+[SOZ_ALAN], dersliklerde bulunan kitaplıkların hem nitelik hem de nicelik olarak yetersiz olduğunu, öğrencilerin seviyelerine uygun, güncel ve nitelikli eserlerle zenginleştirilmesi gerektiğini belirtmiştir. Bu konuda okul idaresi ve Okul Aile Birliği nezdinde girişimlerde bulunulması için zümre olarak ortak bir talep listesi hazırlanmasını teklif etmiştir.
+Zümre Başkanı [ZUMRE_BASKANI] , toplantıda alınan kararların hayata geçirilmesi için tüm zümre üyelerinin iş birliği içinde çalışmasının önemini vurgulamıştır. Toplantıya katılan ve görüşleriyle katkı sunan tüm öğretmenlere teşekkür ederek, eğitim-öğretim yılının öğrenciler, öğretmenler ve okul için hayırlı ve başarılı geçmesi temennisiyle toplantıyı sonlandırmıştır.6
+
+
+
+Bölüm 3: Alınan Kararlar
+
+çerçevesinde yapılan görüşmeler sonucunda aşağıdaki kararlar alınmıştır:
+	1	(Madde 1 ile ilgili): ve bir sonraki eğitim-öğretim yılını kapsayacak şekilde, iki yıl süreyle zümre başkanlığına [ZUMRE_BASKANI], toplantı yazmanlığına ise [SOZ_ALAN]'ın seçilmesine oy birliği ile karar verilmiştir.
+	2	(Madde 2 ile ilgili): Bir önceki yılın zümre kararlarının genel olarak uygulandığı, aksayan yönlerin (okuma listelerinin seviyelendirilmesi, disiplinlerarası etkinlik takvimi) bu yılki planlamada dikkate alınmasına oy birliği ile karar verilmiştir.
+	3	(Madde 3 ile ilgili): Yıllık planların ve ders içeriklerinin, güncel öğretim programları, "Türkiye Yüzyılı Maarif Modeli" yaklaşımları, 1739 sayılı Kanun ve Atatürkçülükle ilgili mevzuat (2104 ve 2488 sayılı Tebliğler Dergileri) temel alınarak hazırlanmasına; bu kapsamda hazırlanan "Tablo 1: Atatürkçülük Konuları Yıllık Dağılım Planı"nın esas alınmasına oy birliği ile karar verilmiştir.
+	4	(Madde 4 ile ilgili): Derslerde öğrenci merkezli, aktif öğrenme yöntem ve tekniklerine (münazara, drama, panel vb.) ağırlık verilmesine; zümre öğretmenleri tarafından ortak bir dijital materyal havuzu oluşturulmasına ve derslerde teknolojik araçların pedagojik bir amaçla kullanılmasına oy birliği ile karar verilmiştir.
+	5	(Madde 5 ile ilgili): dersi için her dönem ikişer adet yazılı sınav yapılmasına; bu sınavların tüm şubelerde ortak yapılmasına; sınavlarda üst düzey düşünme becerilerini ölçen farklı soru tiplerinin kullanılmasına ve değerlendirmede zümrece hazırlanacak dereceli puanlama anahtarlarının esas alınmasına karar verilmiştir. Yıllık sınav takviminin "Tablo 2: Yıllık Sınav ve Değerlendirme Takvimi"ne uygun olarak uygulanmasına oy birliği ile karar verilmiştir.
+	6	(Madde 6 ile ilgili): eğitim-öğretim yılında Tarih, Felsefe Grubu, Müzik, Görsel Sanatlar ve Coğrafya zümreleri ile gündem maddesinde belirtilen çerçevede disiplinlerarası iş birliği faaliyetleri planlanıp uygulanmasına oy birliği ile karar verilmiştir.
+	7	(Madde 7 ile ilgili): Kaynaştırma/bütünleştirme öğrencilerinin eğitim ve değerlendirme süreçlerinin BEP'lerine uygun olarak yürütülmesine; akademik ve sosyal-duygusal gelişim alanlarında okul rehberlik servisi ile iş birliği yapılmasına oy birliği ile karar verilmiştir.
+	8	(Madde 8 ile ilgili): Okul dergisi çıkarılması, şiir dinletisi ve münazara turnuvası düzenlenmesi, kültürel geziler yapılması ve öğrencilerin TÜBİTAK gibi ulusal proje yarışmalarına katılımının teşvik edilmesine oy birliği ile karar verilmiştir.
+	9	(Madde 9 ile ilgili): Zümre öğretmenleri arasında sürekli iletişimi sağlamak amacıyla bir dijital iletişim grubu kurulmasına ve derslik kitaplıklarının zenginleştirilmesi için okul idaresine ortak talepte bulunulmasına oy birliği ile karar verilmiştir.
+Alınan bu kararlar, imza altına alınarak okul müdürünün onayına sunulacaktır. Kararlar, müdür onayından sonra uygulamaya konulacak ve zümre defterine işlenecektir.1
+
+
+
+Bölüm 4: Kapanış ve Onay
+
+İşbu tutanak, yapılan toplantıda alınan kararları tespit etmek üzere düzenlenmiş olup, toplantıya katılanlar tarafından okunarak imza altına alınmıştır. Toplantıya katılmayanlar da dâhil olmak üzere ilgili tüm zümre öğretmenleri tarafından imzalanacaktır.1
+
+
+
+Adı Soyadı
+Unvanı
+İmza
+
+Öğretmeni / Zümre Başkanı
+
+
+Öğretmeni / Yazman
+
+
+Öğretmeni
+
+
+Öğretmeni
+
+
+Öğretmeni
+
+(Gerekli sayıda satır eklenecektir)
+
+
+
+
+
+
+
+UYGUNDUR
+
+
+(Okul Müdürünün Adı Soyadı)
+
+Okul Müdürü
+
+
