@@ -2,19 +2,19 @@
   {
     "id": "tde3",
     "gorunurAd": "Edebiyat Sene Sonu Zümre Tutanağı",
-    "dosyaId": "1WUmgvOGjbI5kMo5WTt7WPOGzD7FtXBP6",
+    "dosyaYolu": "https://raw.githubusercontent.com/knigdelioglu/ogretmen/refs/heads/main/Türk%20Dili%20ve%20Edebiyatı%203.txt",
     "brans": "Türk Dili ve Edebiyatı"
   },
   {
     "id": "tde1",
     "gorunurAd": "1. Dönem Başı Edebiyat Zümresi",
-    "dosyaId": "1LrB1HGGe9rq3NoTLmzWPpey5wQ6I0Fo1",
+    "dosyaYolu": "1LrB1HGGe9rq3NoTLmzWPpey5wQ6I0Fo1",
     "brans": "Türk Dili ve Edebiyatı"
   },
   {
     "id": "mat3",
     "gorunurAd": "Sene Sonu Matematik Zümresi",
-    "dosyaId": "BURAYA_DIGER_TXT_DOSYASININ_ID_SINI_YAPISTIRIN",
+    "dosyaYolu": "BURAYA_DIGER_TXT_DOSYASININ_ID_SINI_YAPISTIRIN",
     "brans": "Matematik"
   }
 ]
