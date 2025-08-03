@@ -1,33 +1,113 @@
-T.C. 
-MİLLÎ EĞİTİM BAKANLIĞI 
-........................ LİSESİ MÜDÜRLÜĞÜ 
-2024-2025 EĞİTİM-ÖĞRETİM YILI TÜRK DİLİ VE EDEBİYATI DERSİ 
-SENE SONU ZÜMRE ÖĞRETMENLER KURULU TOPLANTI TUTANAĞIDIR 
-Toplantı No: 3 
-Toplantı Tarihi: 17.06.2025 
-Toplantı Saati: 11:00 
-Toplantı Yeri: Öğretmenler Odası 
-Katılımcılar: [Zümre Başkanı Adı Soyadı], [Öğretmen Adı Soyadı], [Öğretmen Adı Soyadı] 
-GÜNDEM MADDELERİ: 
-Açılış, yoklama ve gündem maddelerinin okunması yapılmıştır. Toplantı, zümre başkanının konuşmasıyla başlamıştır. 
-Bir önceki zümre toplantısında alınan kararlar [TUTANAK_OKUYAN] tarafından okunmuş, uygulama sonuçları öğretmenlerce değerlendirilmiştir. Uygulamada karşılaşılan olumlu gelişmeler ve eksiklikler ele alınmıştır. 
-Eğitim-öğretim yılının genel değerlendirilmesinde: 
-Derslerin zamanında ve müfredata uygun biçimde işlendiği belirtilmiştir. 
-ve 10. sınıf öğrenci başarıları [SOZ_ALAN_1] tarafından değerlendirilmiş, özellikle okuma becerilerinde gelişme gözlemlendiği belirtilmiştir. 
-ve 12. sınıfların genel durumu ile ilgili [SOZ_ALAN_2] söz almış; YKS hazırlık sürecindeki kaynak kullanımı, deneme sınavları ve öğrenci motivasyonu üzerine önerilerde bulunulmuştur. 
-Yıl boyunca yapılan yazılı sınavlar, performans görevleri ve proje ödevleri analiz edilmiştir. Ölçme değerlendirme araçlarının öğrencilerin seviyelerini yansıttığı, ancak rubriklerin daha standartlaştırılması gerektiği vurgulanmıştır. 
-Sosyal ve kültürel etkinliklerin değerlendirilmesinde; şiir dinletisi, münazara turnuvası ve yazar buluşmalarının öğrencilerin edebi zevklerini ve ifade yetilerini geliştirdiği görülmüştür. [SUNUM_YAPAN] tarafından "Gelecek Yıl İçin Dijital Edebiyat Etkinlikleri" konulu sunum yapılmış, sanal söyleşiler ve çevrimiçi yarışmalar önerilmiştir. 
-Gelecek yıl için öneriler kapsamında; kaynak kitapların güncellenmesi, metin çeşitliliğinin artırılması, yaratıcı yazma etkinliklerinin planlanması gibi tavsiyeler sunulmuştur. [SOZ_ALAN_3] özellikle materyal seçiminde öğrenci seviyesinin dikkate alınması gerektiğini vurgulamıştır. 
-Dilek ve temenniler bölümüyle öğretmenler görüşlerini paylaşmış; toplantı zümre başkanının kapanış konuşması ile sonlandırılmıştır. 
-ALINAN KARARLAR: 
-Öğrenci merkezli ders anlatım tekniklerinin yaygınlaştırılması. 
-Dijital edebiyat etkinliklerinin planlanarak yıllık takvime eklenmesi. 
-Yazılı değerlendirme araçlarının ortak rubriklerle yapılması. 
-Gelecek yıl kaynak seçiminde çok yönlü ve öğrenci odaklı materyallerin tercih edilmesi. 
-İşbu toplantı tutanağı, katılımcıların görüşleri alınarak düzenlenmiş ve imza altına alınmıştır. 
-[ZÜMRE_BAŞKANI] 
-Zümre Başkanı 
-[ÜYE_1] 
-Üye 
-[ÜYE_2] 
-Üye
+{
+  "belgeTuru": "Zümre Toplantı Tutanağı",
+  "kurumAdi": "[OKUL_ADI] MÜDÜRLÜĞÜ",
+  "egitimYili": "[EGITIM_YILI] EĞİTİM-ÖĞRETİM YILI",
+  "zümreAdi": "TÜRK DİLİ VE EDEBİYATI DERSİ SENE BAŞI ZÜMRE ÖĞRETMENLER KURULU TOPLANTI TUTANAĞI",
+  "toplantiBilgileri": {
+    "tarih": "[TARIH]",
+    "saat": "[SAAT]",
+    "yer": "[YER]",
+    "toplantiNo": 1,
+    "baskan": "[ZUMRE_BASKANI]",
+    "katilimcilar": "[KATILIMCILAR]"
+  },
+  "gundemMaddeleri": [
+    "Açılış, yoklama, Zümre Başkanı ve Yazman seçimi.",
+    "Bir önceki zümre toplantısında alınan kararların okunması ve uygulama sonuçlarının değerlendirilmesi.",
+    "Eğitim ve öğretimle ilgili mevzuattaki (yönetmelik, genelge, tebliğler dergisi vb.) değişikliklerin, özellikle \"Türkiye Yüzyılı Maarif Modeli\" öğretim programlarının incelenmesi.",
+    "Atatürkçülükle ilgili konuların (2104, 2488, 2504 sayılı Tebliğler Dergileri) yıllık planlara ve ders işlenişine entegrasyonunun planlanması.",
+    "Ünitelendirilmiş yıllık planların ve günlük ders planlarının hazırlanmasında ortak bir anlayış oluşturulması.",
+    "Öğrenci başarısının artırılmasına yönelik alınacak tedbirlerin görüşülmesi; derslerde kullanılacak öğrenci merkezli öğretim yöntem ve tekniklerinin belirlenmesi.",
+    "Okul genelinde ve sınıflar düzeyinde okuma kültürünü geliştirmek amacıyla okunacak kitapların belirlenmesi ve yapılacak etkinliklerin planlanması.",
+    "Yazılı ve sözlü anlatım becerilerini geliştirecek etkinliklerin (münazara, panel, kompozisyon yarışması vb.) planlanması.",
+    "MEB Ölçme ve Değerlendirme Yönetmeliği'ne göre yapılacak sınavların (sayısı, türü, zamanlaması) ve değerlendirme kriterlerinin belirlenmesi; ortak sınavların planlanması.",
+    "Sınav sonrası analizlerin yapılarak öğrenme eksikliklerinin giderilmesine yönelik alınacak tedbirlerin kararlaştırılması.",
+    "Özel eğitim ihtiyacı olan öğrenciler (BEP) ve desteklenmesi gereken diğer öğrenciler için yapılacak çalışmaların planlanması.",
+    "Diğer zümreler (Tarih, Felsefe, Coğrafya), okul rehberlik servisi ve velilerle yapılacak işbirliği esaslarının belirlenmesi.",
+    "Okul kütüphanesinin derslerle entegre ve etkin kullanımının teşvik edilmesi.",
+    "Dilek ve temenniler."
+  ],
+  "gundemGorusmeleriVeKararlar": [
+    {
+      "gundemNo": 1,
+      "konu": "Açılış, yoklama, Zümre Başkanı ve Yazman seçimi.",
+      "gorusmeler": "Toplantı, okul müdür yardımcısı [MUDUR_YARDIMCISI]’nın iyi dilek ve temennileriyle açıldı. Yapılan yoklamada tüm Türk Dili ve Edebiyatı zümre öğretmenlerinin hazır bulunduğu tespit edildi. Gündem maddeleri okundu, eklenmek istenen bir madde olup olmadığı soruldu. [SOZ_ALAN_OGRETMEN_1], \"Okul kütüphanesinin etkin kullanımı\" maddesinin gündeme eklenmesini önerdi. Öneri oylanarak kabul edildi ve gündem son şekliyle oylamaya sunularak oy birliği ile kabul edildi. Zümre başkanlığı ve yazman seçimi için oylamaya geçildi.",
+      "karar": "[KARAR1] Yapılan oylama sonucunda, [EGITIM_YILI] Eğitim-Öğretim yılı Türk Dili ve Edebiyatı Zümre Başkanlığı’na [ZUMRE_BASKANI]’nın, Yazmanlığa ise [YAZMAN_OGRETMEN]’in seçilmesine oy birliği ile karar verildi."
+    },
+    {
+      "gundemNo": 2,
+      "konu": "Bir önceki zümre toplantısında alınan kararların okunması ve uygulama sonuçlarının değerlendirilmesi.",
+      "rolAlan": {
+        "tutanakOkuyan": "[TUTANAK_OKUYAN_OGRETMEN]"
+      },
+      "gorusmeler": "Bir önceki eğitim-öğretim yılı sene sonu zümre toplantı tutanağı, [TUTANAK_OKUYAN_OGRETMEN] tarafından okundu. Alınan kararların genel olarak başarıyla uygulandığı, özellikle \"Şiir Dinletisi\" etkinliğinin öğrenciler üzerinde olumlu etkiler bıraktığı belirtildi. Ancak, \"Yazarlar Okullarda\" projesi kapsamında planlanan yazar davetinin, yazarın program yoğunluğu nedeniyle gerçekleştirilemediği ifade edildi.",
+      "karar": "[KARAR2] Bir önceki toplantıda alınan kararların genel olarak uygulandığı görüldü. Uygulamada aksayan \"Yazarlar Okullarda\" projesinin bu eğitim-öğretim yılının ikinci dönemi için yeniden planlanarak takip edilmesine karar verildi."
+    },
+    {
+      "gundemNo": 3,
+      "konu": "Eğitim ve öğretimle ilgili mevzuattaki değişikliklerin, özellikle \"Türkiye Yüzyılı Maarif Modeli\" öğretim programlarının incelenmesi.",
+      "rolAlan": {
+        "sunumYapan": "[ZUMRE_BASKANI]"
+      },
+      "gorusmeler": "Zümre Başkanı [ZUMRE_BASKANI], yeni müfredat olan \"Türkiye Yüzyılı Maarif Modeli\"nin Türk Dili ve Edebiyatı dersi için getirdiği yenilikler hakkında bir sunum yaptı. Özellikle beceri odaklı, disiplinlerarası ve öğrenciyi merkeze alan yaklaşımın önemini vurguladı. Metin tahlillerinde derinleşme, eleştirel düşünme ve yorumlama becerilerinin ön plana çıktığı belirtildi.",
+      "karar": "[KARAR3] Yıllık planların ve ders içeriklerinin \"Türkiye Yüzyılı Maarif Modeli\" programının ruhuna uygun olarak, öğrencinin aktif katılımını sağlayacak, sorgulamaya ve üretmeye teşvik edecek şekilde yapılandırılmasına; planların bu doğrultuda güncellenerek [TARIH] tarihine kadar okul idaresine sunulmasına oy birliği ile karar verildi."
+    },
+    {
+        "gundemNo": 4,
+        "konu": "Atatürkçülükle ilgili konuların yıllık planlara ve ders işlenişine entegrasyonunun planlanması.",
+        "rolAlan": {
+          "sozAlan": "[SOZ_ALAN_OGRETMEN_2]"
+        },
+        "gorusmeler": "[SOZ_ALAN_OGRETMEN_2], Atatürk'ün Nutuk adlı eserinin, özellikle 10. ve 11. sınıf müfredatında ilgili konularla ilişkilendirilerek daha etkin kullanılabileceğini belirtti. Atatürk'ün dil ve tarih üzerine yaptığı çalışmaların, dersin kazanımlarıyla bütünleştirilerek öğrencilere aktarılmasının önemini vurguladı.",
+        "karar": "[KARAR4] 2104, 2488 ve 2504 sayılı Tebliğler Dergileri'nde belirtilen Atatürkçülük konularının, ilgili kazanımlarla ilişkilendirilerek yıllık planlara somut etkinliklerle dahil edilmesine; özellikle Nutuk'tan seçme metinlerin ve Atatürk'ün dil devrimi ile ilgili görüşlerinin derslerde tahlil edilmesine karar verildi."
+    },
+    {
+        "gundemNo": 7,
+        "konu": "Okuma kültürünü geliştirmek amacıyla okunacak kitapların belirlenmesi.",
+        "gorusmeler": "Zümre, öğrencilerin okuma alışkanlıklarını geliştirmek için hem Türk hem de dünya edebiyatından eserler içeren, sınıf seviyelerine uygun bir okuma listesi oluşturulması gerektiğini kararlaştırdı. Listelerin öğrencilerin ilgisini çekecek, aynı zamanda edebi değeri yüksek eserlerden oluşması gerektiği vurgulandı.",
+        "karar": "[KARAR7] Her sınıf düzeyi için 5'i zorunlu, 3'ü seçmeli olmak üzere 8 kitaptan oluşan okuma listelerinin [TARIH] tarihine kadar hazırlanmasına; bu kitaplarla ilgili olarak dönem sonunda \"Kitap Tahlil Günleri\" düzenlenmesine karar verildi."
+    },
+    {
+        "gundemNo": 14,
+        "konu": "Dilek ve temenniler.",
+        "gorusmeler": "Zümre Başkanı [ZUMRE_BASKANI], toplantıya katılan tüm öğretmenlere teşekkür ederek yeni eğitim-öğretim yılının başarılı, verimli ve huzurlu geçmesi dileklerini iletti. Diğer öğretmenler de iyi dileklerini sundu. Başka söz alan olmayınca toplantı sona erdirildi.",
+        "karar": null
+    }
+  ],
+  "imzaAlanlari": {
+    "baslik": "İMZA ALANLARI",
+    "katilimcilar": [
+      {
+        "adiSoyadi": "[ZUMRE_BASKANI]",
+        "unvani": "Türk Dili ve Edebiyatı Öğretmeni",
+        "rolu": "Başkan"
+      },
+      {
+        "adiSoyadi": "[YAZMAN_OGRETMEN]",
+        "unvani": "Türk Dili ve Edebiyatı Öğretmeni",
+        "rolu": "Yazman"
+      },
+      {
+        "adiSoyadi": "[UYE_OGRETMEN_1]",
+        "unvani": "Türk Dili ve Edebiyatı Öğretmeni",
+        "rolu": "Üye"
+      },
+      {
+        "adiSoyadi": "[UYE_OGRETMEN_2]",
+        "unvani": "Türk Dili ve Edebiyatı Öğretmeni",
+        "rolu": "Üye"
+      },
+      {
+        "adiSoyadi": "[UYE_OGRETMEN_3]",
+        "unvani": "Türk Dili ve Edebiyatı Öğretmeni",
+        "rolu": "Üye"
+      }
+    ]
+  },
+  "onay": {
+    "ifade": "Uygundur",
+    "tarih": "[TARIH]",
+    "adiSoyadi": "[OKUL_MUDURU_ADI_SOYADI]",
+    "unvan": "Okul Müdürü"
+  }
+}
