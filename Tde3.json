@@ -9,7 +9,13 @@
     "yer": "[YER]",
     "toplantiNo": 1,
     "baskan": "[ZUMRE_BASKANI]",
-    "katilimcilar": "[KATILIMCILAR]"
+    "katilimcilar": [
+      "[ZUMRE_BASKANI]",
+      "[YAZMAN_OGRETMEN]",
+      "[UYE_OGRETMEN_1]",
+      "[UYE_OGRETMEN_2]",
+      "[UYE_OGRETMEN_3]"
+    ]
   },
   "gundemMaddeleri": [
     "Açılış, yoklama, Zümre Başkanı ve Yazman seçimi.",
