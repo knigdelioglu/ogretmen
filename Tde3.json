@@ -38,7 +38,8 @@
       "gundemNo": 1,
       "konu": "Açılış, yoklama, Zümre Başkanı ve Yazman seçimi.",
       "gorusmeler": "Toplantı, okul müdür yardımcısı [MUDUR_YARDIMCISI]’nın iyi dilek ve temennileriyle açıldı. Yapılan yoklamada tüm Türk Dili ve Edebiyatı zümre öğretmenlerinin hazır bulunduğu tespit edildi. Gündem maddeleri okundu, eklenmek istenen bir madde olup olmadığı soruldu. [SOZ_ALAN_OGRETMEN_1], \"Okul kütüphanesinin etkin kullanımı\" maddesinin gündeme eklenmesini önerdi. Öneri oylanarak kabul edildi ve gündem son şekliyle oylamaya sunularak oy birliği ile kabul edildi. Zümre başkanlığı ve yazman seçimi için oylamaya geçildi.",
-      "karar": "[KARAR1] Yapılan oylama sonucunda, [EGITIM_YILI] Eğitim-Öğretim yılı Türk Dili ve Edebiyatı Zümre Başkanlığı’na [ZUMRE_BASKANI]’nın, Yazmanlığa ise [YAZMAN_OGRETMEN]’in seçilmesine oy birliği ile karar verildi."
+      "karar": "[KARAR1] Yapılan oylama sonucunda, [EGITIM_YILI] Eğitim-Öğretim yılı Türk Dili ve Edebiyatı Zümre Başkanlığı’na [ZUMRE_BASKANI]’nın, Yazmanlığa ise [YAZMAN_OGRETMEN]’in seçilmesine oy birliği ile karar verildi.",
+      "rolAlan": {}
     },
     {
       "gundemNo": 2,
@@ -59,25 +60,27 @@
       "karar": "[KARAR3] Yıllık planların ve ders içeriklerinin \"Türkiye Yüzyılı Maarif Modeli\" programının ruhuna uygun olarak, öğrencinin aktif katılımını sağlayacak, sorgulamaya ve üretmeye teşvik edecek şekilde yapılandırılmasına; planların bu doğrultuda güncellenerek [TARIH] tarihine kadar okul idaresine sunulmasına oy birliği ile karar verildi."
     },
     {
-        "gundemNo": 4,
-        "konu": "Atatürkçülükle ilgili konuların yıllık planlara ve ders işlenişine entegrasyonunun planlanması.",
-        "rolAlan": {
-          "sozAlan": "[SOZ_ALAN_OGRETMEN_2]"
-        },
-        "gorusmeler": "[SOZ_ALAN_OGRETMEN_2], Atatürk'ün Nutuk adlı eserinin, özellikle 10. ve 11. sınıf müfredatında ilgili konularla ilişkilendirilerek daha etkin kullanılabileceğini belirtti. Atatürk'ün dil ve tarih üzerine yaptığı çalışmaların, dersin kazanımlarıyla bütünleştirilerek öğrencilere aktarılmasının önemini vurguladı.",
-        "karar": "[KARAR4] 2104, 2488 ve 2504 sayılı Tebliğler Dergileri'nde belirtilen Atatürkçülük konularının, ilgili kazanımlarla ilişkilendirilerek yıllık planlara somut etkinliklerle dahil edilmesine; özellikle Nutuk'tan seçme metinlerin ve Atatürk'ün dil devrimi ile ilgili görüşlerinin derslerde tahlil edilmesine karar verildi."
+      "gundemNo": 4,
+      "konu": "Atatürkçülükle ilgili konuların yıllık planlara ve ders işlenişine entegrasyonunun planlanması.",
+      "rolAlan": {
+        "sozAlan": "[SOZ_ALAN_OGRETMEN_2]"
+      },
+      "gorusmeler": "[SOZ_ALAN_OGRETMEN_2], Atatürk'ün Nutuk adlı eserinin, özellikle 10. ve 11. sınıf müfredatında ilgili konularla ilişkilendirilerek daha etkin kullanılabileceğini belirtti. Atatürk'ün dil ve tarih üzerine yaptığı çalışmaların, dersin kazanımlarıyla bütünleştirilerek öğrencilere aktarılmasının önemini vurguladı.",
+      "karar": "[KARAR4] 2104, 2488 ve 2504 sayılı Tebliğler Dergileri'nde belirtilen Atatürkçülük konularının, ilgili kazanımlarla ilişkilendirilerek yıllık planlara somut etkinliklerle dahil edilmesine; özellikle Nutuk'tan seçme metinlerin ve Atatürk'ün dil devrimi ile ilgili görüşlerinin derslerde tahlil edilmesine karar verildi."
     },
     {
-        "gundemNo": 7,
-        "konu": "Okuma kültürünü geliştirmek amacıyla okunacak kitapların belirlenmesi.",
-        "gorusmeler": "Zümre, öğrencilerin okuma alışkanlıklarını geliştirmek için hem Türk hem de dünya edebiyatından eserler içeren, sınıf seviyelerine uygun bir okuma listesi oluşturulması gerektiğini kararlaştırdı. Listelerin öğrencilerin ilgisini çekecek, aynı zamanda edebi değeri yüksek eserlerden oluşması gerektiği vurgulandı.",
-        "karar": "[KARAR7] Her sınıf düzeyi için 5'i zorunlu, 3'ü seçmeli olmak üzere 8 kitaptan oluşan okuma listelerinin [TARIH] tarihine kadar hazırlanmasına; bu kitaplarla ilgili olarak dönem sonunda \"Kitap Tahlil Günleri\" düzenlenmesine karar verildi."
+      "gundemNo": 7,
+      "konu": "Okuma kültürünü geliştirmek amacıyla okunacak kitapların belirlenmesi.",
+      "gorusmeler": "Zümre, öğrencilerin okuma alışkanlıklarını geliştirmek için hem Türk hem de dünya edebiyatından eserler içeren, sınıf seviyelerine uygun bir okuma listesi oluşturulması gerektiğini kararlaştırdı. Listelerin öğrencilerin ilgisini çekecek, aynı zamanda edebi değeri yüksek eserlerden oluşması gerektiği vurgulandı.",
+      "karar": "[KARAR7] Her sınıf düzeyi için 5'i zorunlu, 3'ü seçmeli olmak üzere 8 kitaptan oluşan okuma listelerinin [TARIH] tarihine kadar hazırlanmasına; bu kitaplarla ilgili olarak dönem sonunda \"Kitap Tahlil Günleri\" düzenlenmesine karar verildi.",
+      "rolAlan": {}
     },
     {
-        "gundemNo": 14,
-        "konu": "Dilek ve temenniler.",
-        "gorusmeler": "Zümre Başkanı [ZUMRE_BASKANI], toplantıya katılan tüm öğretmenlere teşekkür ederek yeni eğitim-öğretim yılının başarılı, verimli ve huzurlu geçmesi dileklerini iletti. Diğer öğretmenler de iyi dileklerini sundu. Başka söz alan olmayınca toplantı sona erdirildi.",
-        "karar": null
+      "gundemNo": 14,
+      "konu": "Dilek ve temenniler.",
+      "gorusmeler": "Zümre Başkanı [ZUMRE_BASKANI], toplantıya katılan tüm öğretmenlere teşekkür ederek yeni eğitim-öğretim yılının başarılı, verimli ve huzurlu geçmesi dileklerini iletti. Diğer öğretmenler de iyi dileklerini sundu. Başka söz alan olmayınca toplantı sona erdirildi.",
+      "karar": null,
+      "rolAlan": {}
     }
   ],
   "imzaAlanlari": {
