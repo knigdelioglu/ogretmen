@@ -1,156 +1,193 @@
 {
   "belgeTuru": "Zümre Toplantı Tutanağı",
-  "brans": "Türk Dili ve Edebiyatı",
-  "baslik_bilgileri": {
-    "kurum_adi": "T.C.\n[İL_VALİLİĞİ] / [İLÇE_KAYMAKAMLIĞI]\n[OKUL_ADI] MÜDÜRLÜĞÜ",
-    "belge_adi": "[EGITIM_YILI] EĞİTİM-ÖĞRETİM YILI TÜRK DİLİ VE EDEBİYATI DERSİ SENE BAŞI ZÜMRE ÖĞRETMENLER KURULU TOPLANTI TUTANAĞI"
-  },
-  "toplanti_bilgileri": {
-    "toplanti_no": "1",
-    "toplanti_tarihi": "[TARIH]",
-    "toplanti_saati": "[SAAT]",
-    "toplanti_yeri": "[YER]"
-  },
-  "katilimcilar": [
-    "[OKUL_MUDURU_YARDIMCISI], Müdür Yardımcısı",
-    "[ZUMRE_BASKANI], Türk Dili ve Edebiyatı Öğretmeni",
-    "[YAZMAN], Türk Dili ve Edebiyatı Öğretmeni",
-    "[UYE_OGRETMEN_1], Türk Dili ve Edebiyatı Öğretmeni",
-    "[UYE_OGRETMEN_2], Türk Dili ve Edebiyatı Öğretmeni"
-  ],
-  "gundem_maddeleri": [
-    "1. Açılış, yoklama, zümre başkanı ve yazman seçimi.",
-    "2. Bir önceki zümre toplantısında alınan kararların okunması ve uygulama sonuçlarının değerlendirilmesi.",
-    "3. Eğitim ve öğretimle ilgili mevzuattaki (yönetmelik, genelge, tebliğler dergisi vb.) değişikliklerin ve Millî Eğitim Bakanlığı tarafından yayımlanan güncel programların ('Türkiye Yüzyılı Maarif Modeli' vb.) incelenmesi.",
-    "4. Ünitelendirilmiş yıllık planların hazırlanmasında ve derslerin işlenişinde birlik ve beraberliğin sağlanması.",
-    "5. Derslerin işlenişinde kullanılacak öğrenci merkezli, aktif öğrenme yöntem ve tekniklerinin belirlenmesi.",
-    "6. Derslerde kullanılacak eğitim teknolojileri (EBA, ÖBA, akıllı tahta vb.) ile öğretim materyallerinin (ders kitapları, yardımcı kaynaklar, dijital içerikler) belirlenmesi ve etkin kullanımının planlanması.",
-    "7. Atatürkçülükle ilgili konuların (2104, 2488, 2504 sayılı Tebliğler Dergileri) derslerle bütünleştirilmesine yönelik planlamanın yapılması.",
-    "8. Değerler eğitimi, sosyal sorumluluk programı ve girişimcilik becerilerine yönelik yapılacak çalışmaların planlanması.",
-    "9. Ölçme ve Değerlendirme: MEB Ölçme ve Değerlendirme Yönetmeliği'ne göre yapılacak sınavların (yazılı sınav, dinleme/konuşma/okuma/yazma becerilerini ölçen uygulama sınavları) sayısı, türü, zamanlaması ve değerlendirme kriterlerinin belirlenmesi.",
-    "10. Sınav sonrası analizlerin yapılarak öğrenme eksikliklerinin giderilmesine yönelik alınacak telafi ve destekleme tedbirlerinin kararlaştırılması.",
-    "11. Özel eğitim ihtiyacı olan (BEP'li) ve desteklenmesi gereken diğer öğrenciler için yapılacak çalışmaların planlanması.",
-    "12. YKS gibi merkezi sınavlara yönelik hazırlık çalışmalarının planlanması.",
-    "13. Öğrencilere kitap okuma alışkanlığı kazandırmak amacıyla sınıf seviyelerine uygun okuma listelerinin güncellenmesi ve yapılacak etkinliklerin (kitap kritiği, yazar buluşmaları vb.) planlanması.",
-    "14. Yazılı ve sözlü anlatım becerilerini geliştirmeye yönelik yapılacak çalışmaların (münazara, panel, kompozisyon, öykü yazma vb.) planlanması.",
-    "15. Diğer zümreler (Tarih, Coğrafya, Felsefe vb.), okul rehberlik servisi ve velilerle yapılacak işbirliği esaslarının belirlenmesi.",
-    "16. İş sağlığı ve güvenliği tedbirlerinin görüşülmesi.",
-    "17. Dilek ve temenniler, kapanış."
-  ],
-  "gundem_maddelerinin_gorusulmesi": [
-    {
-      "madde": "1. Açılış, yoklama, zümre başkanı ve yazman seçimi.",
-      "gorusmeler": "Toplantı, [OKUL_MUDURU_YARDIMCISI]’nın iyi dilek ve temennileriyle açıldı. Yapılan yoklamada tüm zümre öğretmenlerinin hazır bulunduğu tespit edildi. Gündem maddeleri okundu ve oy birliği ile kabul edildi. Ardından zümre başkanı ve yazman seçimine geçildi. Zümre başkanlığı için [ZUMRE_BASKANI] tek aday olarak önerildi. Yazmanlık için [YAZMAN] gönüllü oldu.",
-      "karar": "2024-2025 Eğitim-Öğretim yılı Türk Dili ve Edebiyatı Zümresi Başkanlığına oy birliği ile [ZUMRE_BASKANI]'nın, yazmanlığa ise oy birliği ile [YAZMAN]'ın seçilmesine karar verilmiştir."
-    },
-    {
-      "madde": "2. Bir önceki zümre toplantısında alınan kararların okunması ve uygulama sonuçlarının değerlendirilmesi.",
-      "gorusmeler": "[TUTANAK_OKUYAN3], geçen senenin son zümre tutanağındaki kararları okudu. Kararların genel olarak uygulandığı, özellikle ortak sınavların zamanında yapıldığı ve okul dergisi için planlanan yazıların toplandığı belirtildi. Ancak 'Yazar-Okur Buluşması' etkinliğinin bütçe ve zamanlama sorunları nedeniyle gerçekleştirilemediği ifade edildi.",
-      "karar": "Bir önceki eğitim-öğretim yılında alınan kararların büyük ölçüde uygulandığı tespit edilmiştir. Gerçekleştirilemeyen yazar-okur buluşması etkinliğinin bu yıl okul-aile birliği ile işbirliği yapılarak ve planlaması ilk dönemden başlatılarak hayata geçirilmesi için gerekli takibin yapılmasına karar verilmiştir."
-    },
-    {
-      "madde": "3. Eğitim ve öğretimle ilgili mevzuattaki (yönetmelik, genelge, tebliğler dergisi vb.) değişikliklerin ve Millî Eğitim Bakanlığı tarafından yayımlanan güncel programların ('Türkiye Yüzyılı Maarif Modeli' vb.) incelenmesi.",
-      "gorusmeler": "[ZUMRE_BASKANI], MEB Ölçme ve Değerlendirme Yönetmeliği'ndeki son değişiklikler hakkında bilgi verdi. Özellikle 9. sınıflarda ülke genelinde yapılacak ortak sınavlar ile diğer sınıf düzeylerinde yapılacak il/ilçe geneli ortak sınav takviminin önemini vurguladı. [SUNUM_YAPAN2], yeni öğretim programı olan 'Türkiye Yüzyılı Maarif Modeli'nin felsefesi, beceri odaklı yapısı ve Türk Dili ve Edebiyatı dersine getirdiği yetkinlik temelli yaklaşım hakkında bir sunum yaptı. Programın bütüncül yaklaşımının, dil becerilerini sosyal ve kültürel bağlamda ele almasının önemi üzerinde duruldu.",
-      "karar": "MEB Ölçme ve Değerlendirme Yönetmeliği'ne titizlikle uyulmasına, özellikle ortak sınav tarihlerinin takip edilerek yıllık planların bu takvime göre güncellenmesine; 'Türkiye Yüzyılı Maarif Modeli'nin getirdiği yetkinlik ve beceri odaklı yaklaşımın yıllık planlara ve ders işlenişlerine entegre edilmesine oy birliği ile karar verilmiştir."
-    },
-    {
-      "madde": "4. Ünitelendirilmiş yıllık planların hazırlanmasında ve derslerin işlenişinde birlik ve beraberliğin sağlanması.",
-      "gorusmeler": "[SOZ_ALAN1], aynı sınıf düzeyindeki şubeler arasında konu işlenişi, ödevlendirme ve proje konularında paralellik sağlanmasının öğrenci başarısı ve ölçme-değerlendirmede adaleti sağlamak için kritik olduğunu belirtti. [ZUMRE_BASKANI], zümre tarafından hazırlanacak taslak yıllık planın tüm öğretmenler tarafından incelenerek son haline getirilmesi ve yıl içinde bu plana sadık kalınmasının önemini vurguladı.",
-      "karar": "Ünitelendirilmiş yıllık planların, zümre öğretmenlerinin ortak çalışmasıyla [BELİRLENECEK_TARİH]'e kadar hazırlanarak okul idaresine sunulmasına; ders işlenişi, proje ve performans konularının belirlenmesinde zümre kararlarına uyularak şubeler arası paralelliğin sağlanmasına oy birliği ile karar verilmiştir."
-    },
-    {
-      "madde": "5. Derslerin işlenişinde kullanılacak öğrenci merkezli, aktif öğrenme yöntem ve tekniklerinin belirlenmesi.",
-      "gorusmeler": "[SOZ_ALAN2], teorik bilgilerin aktarılmasının yanı sıra öğrencilerin aktif katılımını sağlayacak yöntemlere ağırlık verilmesi gerektiğini söyledi. Özellikle metin tahlillerinde 'Sokratik Sorgulama', divan edebiyatı gibi soyut konularda 'Kavram Haritaları' ve 'İstasyon Tekniği', tartışmalı edebi konularda ise 'Münazara' ve 'Panel' gibi tekniklerin kullanılabileceğini önerdi.",
-      "karar": "Derslerde geleneksel anlatım metotlarının yanı sıra öğrenci merkezli ve aktif katılımı teşvik eden; münazara, panel, drama, altı şapkalı düşünme tekniği, istasyon, Sokratik sorgulama gibi yöntem ve tekniklerin ilgili kazanımlara uygun olarak ders planlarına dahil edilmesine ve uygulanmasına karar verilmiştir."
-    },
-    {
-      "madde": "6. Derslerde kullanılacak eğitim teknolojileri (EBA, ÖBA, akıllı tahta vb.) ile öğretim materyallerinin (ders kitapları, yardımcı kaynaklar, dijital içerikler) belirlenmesi ve etkin kullanımının planlanması.",
-      "gorusmeler": "[SOZ_ALAN1], EBA ve ÖBA platformlarındaki ders videoları, etkileşimli alıştırmalar ve e-kitapların derslerde ve ödevlendirmelerde daha etkin kullanılması gerektiğini belirtti. [YAZMAN], akıllı tahta kullanımında sadece sunum yansıtmak yerine, metinler üzerinde tahlil yapma, kavram haritaları oluşturma gibi interaktif uygulamalara yer verilmesinin öğrenmeyi kalıcı hale getireceğini ifade etti.",
-      "karar": "Derslerde akıllı tahta, EBA, ÖBA ve diğer dijital eğitim platformlarının etkin bir şekilde kullanılmasına; ders kitabı dışındaki yardımcı kaynakların zümre onayı ile belirlenmesine; özellikle yazar ve dönemler hakkında görsel ve işitsel materyallerin derslere entegre edilmesine karar verilmiştir."
-    },
-    {
-      "madde": "7. Atatürkçülükle ilgili konuların (2104, 2488, 2504 sayılı Tebliğler Dergileri) derslerle bütünleştirilmesine yönelik planlamanın yapılması.",
-      "gorusmeler": "[ZUMRE_BASKANI], ilgili tebliğler dergilerinde yer alan Atatürkçülük konularının, dersin kazanımlarıyla doğal bir bağ kurularak işlenmesi gerektiğini belirtti. Örneğin, 'Nutuk'un edebi bir metin olarak incelenmesi, Atatürk'ün dil ve tarih üzerine düşüncelerinin ilgili konularda vurgulanması, Milli Mücadele dönemi edebiyatı işlenirken Atatürk'ün liderliğine atıfta bulunulması gibi somut örnekler üzerinde duruldu.",
-      "karar": "2104, 2488 ve 2504 sayılı Tebliğler Dergileri'nde belirtilen Atatürkçülükle ilgili konuların, ünitelendirilmiş yıllık planlarda ilgili kazanımlarla ilişkilendirilerek gösterilmesine ve ders işlenişi sırasında bu konulara gereken önemin verilmesine oy birliğiyle karar verilmiştir."
-    },
-    {
-      "madde": "8. Değerler eğitimi, sosyal sorumluluk programı ve girişimcilik becerilerine yönelik yapılacak çalışmaların planlanması.",
-      "gorusmeler": "[SOZ_ALAN2], incelenen edebi metinlerdeki adalet, dostluk, vatanseverlik, sorumluluk gibi evrensel değerlerin öğrenciler tarafından fark edilmesini sağlayacak etkinlikler planlanabileceğini belirtti. [SOZ_ALAN1], öğrencilerin yazma becerilerini kullanarak 'Huzurevi ziyareti gözlemleri' veya 'Çevre kirliliği hakkında farkındalık metni' gibi sosyal sorumluluk odaklı ürünler ortaya koyabileceklerini ifade etti.",
-      "karar": "Edebi metinler üzerinden değerler eğitimine yönelik (adalet, saygı, dürüstlük, vatanseverlik vb.) vurgu yapılmasına; öğrencilerin iletişim, empati ve eleştirel düşünme becerilerini geliştirecek sosyal sorumluluk projeleri (örneğin, okul panosu için 'Unutulmuş Kelimeler' köşesi hazırlama) ve girişimcilik odaklı (okul dergisi çıkarma, şiir dinletisi organize etme vb.) çalışmaların teşvik edilmesine karar verilmiştir."
-    },
-    {
-      "madde": "9. Ölçme ve Değerlendirme: MEB Ölçme ve Değerlendirme Yönetmeliği'ne göre yapılacak sınavların (yazılı sınav, dinleme/konuşma/okuma/yazma becerilerini ölçen uygulama sınavları) sayısı, türü, zamanlaması ve değerlendirme kriterlerinin belirlenmesi.",
-      "gorusmeler": "[ZUMRE_BASKANI], yönetmeliğe göre her dönem iki yazılı sınav yapılacağını, bunlardan birincisinin ortak sınav yönetmeliği kapsamında, ikincisinin ise zümre tarafından hazırlanacak ortak yazılı sınav şeklinde olacağını belirtti. [YAZMAN], yazılı sınavlar dışında, öğrencilerin dil becerilerini ölçmek amacıyla her dönem bir dinleme ve bir konuşma sınavı; ayrıca yazma ve okuma becerilerini ölçmeye yönelik uygulamalar yapılmasının ve bunların nota dönüştürülmesinin zorunlu olduğunu hatırlattı. Sınavların değerlendirme kriterlerini içeren dereceli puanlama anahtarlarının (rubrik) önceden hazırlanıp öğrencilerle paylaşılmasının önemi vurgulandı.",
-      "karar": "Her dönem 2 adet yazılı sınav yapılmasına, bu sınavlardan ilkinin MEB takvimine göre, ikincisinin ise okul idaresince belirlenecek takvime göre ortak yapılmasına; ayrıca öğrencilerin dört temel dil becerisini ölçmek amacıyla her dönem en az birer defa olmak üzere dinleme, konuşma, okuma ve yazma becerilerine yönelik uygulama sınavları yapılmasına; tüm sınavlar için değerlendirme kriterlerini gösteren rubriklerin zümrece hazırlanarak kullanılmasına oy birliği ile karar verilmiştir."
-    },
-    {
-      "madde": "10. Sınav sonrası analizlerin yapılarak öğrenme eksikliklerinin giderilmesine yönelik alınacak telafi ve destekleme tedbirlerinin kararlaştırılması.",
-      "gorusmeler": "[SOZ_ALAN1], yapılan her ortak sınavdan sonra mutlaka soru ve kazanım analizi yapılması gerektiğini, bu analizler sonucunda sınıf genelinde eksik öğrenilen kazanımların tespit edilmesinin önemini vurguladı. [SUNUM_YAPAN2], tespit edilen eksikliklerin giderilmesi için konu tekrarı, ek çalışma kağıtları, EBA üzerinden ödevlendirme veya okulda destekleme ve yetiştirme kurslarında bu konulara öncelik verilmesi gibi tedbirler alınabileceğini belirtti.",
-      "karar": "Yapılan her yazılı sınav sonrasında zümre öğretmenlerince soru-kazanım analizi yapılmasına; analiz sonuçlarına göre belirlenen öğrenme eksikliklerini gidermek amacıyla ilgili konuların tekrar işlenmesi, ek materyallerle pekiştirilmesi ve/veya DYK planlamasına dahil edilmesi gibi telafi çalışmalarının planlanmasına karar verilmiştir."
-    },
-    {
-      "madde": "11. Özel eğitim ihtiyacı olan (BEP'li) ve desteklenmesi gereken diğer öğrenciler için yapılacak çalışmaların planlanması.",
-      "gorusmeler": "[ZUMRE_BASKANI], kaynaştırma/bütünleştirme yoluyla eğitim gören öğrenciler için hazırlanan Bireyselleştirilmiş Eğitim Programları'nın (BEP) incelenmesi ve bu programlara uygun ölçme-değerlendirme ve materyal uyarlamaları yapılmasının yasal bir zorunluluk olduğunu hatırlattı. [SOZ_ALAN2], bu öğrencilere yönelik sınav sorularının daha sade bir dille hazırlanabileceğini, okuma-anlama güçlüğü çekenler için sınav sürelerinin uzatılabileceğini belirtti.",
-      "karar": "BEP'li öğrenciler için hazırlanan planlara titizlikle uyulmasına; bu öğrencilerin sınavlarının, ders etkinliklerinin ve ödevlerinin BEP'lerinde belirtilen kazanımlar ve hedefler doğrultusunda uyarlanarak hazırlanmasına ve değerlendirilmesine; öğrenme güçlüğü yaşayan diğer öğrenciler için rehberlik servisi ile işbirliği yapılarak destek çalışmalarının planlanmasına oy birliği ile karar verilmiştir."
-    },
-    {
-      "madde": "12. YKS gibi merkezi sınavlara yönelik hazırlık çalışmalarının planlanması.",
-      "gorusmeler": "[UYE_OGRETMEN_1], özellikle 11. ve 12. sınıf öğrencilerinin YKS'ye hazırlık sürecinde deneme sınavlarının önemine dikkat çekti. Okul genelinde yapılacak deneme sınavlarının takviminin belirlenmesi ve bu sınav sonuçlarının analiz edilerek öğrencilere geri bildirim verilmesi gerektiğini ifade etti. [UYE_OGRETMEN_2], okulda açılacak Destekleme ve Yetiştirme Kursları'nın (DYK) müfredatının YKS konularına paralel olarak ve eksik öğrenmeleri tamamlayacak şekilde planlanması gerektiğini belirtti.",
-      "karar": "12. sınıflar başta olmak üzere, okulda açılacak Destekleme ve Yetiştirme Kurslarının (DYK) YKS müfredatına uygun olarak planlanmasına; okul genelinde düzenli olarak YKS deneme sınavları yapılmasına ve sınav sonuçlarının analiz edilerek öğrencilere yönelik bireysel veya grup bazlı etüt çalışmalarının düzenlenmesine karar verilmiştir."
-    },
-    {
-      "madde": "13. Öğrencilere kitap okuma alışkanlığı kazandırmak amacıyla sınıf seviyelerine uygun okuma listelerinin güncellenmesi ve yapılacak etkinliklerin (kitap kritiği, yazar buluşmaları vb.) planlanması.",
-      "gorusmeler": "Zümre öğretmenleri, her sınıf seviyesi için Türk ve dünya edebiyatından hem klasik hem de modern eserleri içeren bir okuma listesi oluşturulması konusunda fikir birliğine vardı. [SOZ_ALAN1], öğrencilerin sadece kitap okuyup özet çıkarması yerine, 'okuma çemberi' tekniği ile kitapları tartışmalarının, karakter analizi yapmalarının ve eleştirel bakış açısı geliştirmelerinin daha faydalı olacağını önerdi.",
-      "karar": "Sınıf seviyelerine göre (9, 10, 11, 12. sınıflar) belirlenen ekteki kitap okuma listesinin yıl boyunca takip edilmesine; okunan kitaplarla ilgili olarak her dönem en az bir kez 'kitap kritiği günü' veya 'panel' düzenlenmesine; imkanlar dahilinde en az bir yazarın okula davet edilmesi için girişimlerde bulunulmasına karar verilmiştir."
-    },
-    {
-      "madde": "14. Yazılı ve sözlü anlatım becerilerini geliştirmeye yönelik yapılacak çalışmaların (münazara, panel, kompozisyon, öykü yazma vb.) planlanması.",
-      "gorusmeler": "[YAZMAN], öğrencilerin yazılı anlatım becerilerini geliştirmek için sadece sınav odaklı kompozisyon yazdırmak yerine, deneme, öykü, şiir, eleştiri gibi farklı türlerde yazma çalışmalarının teşvik edilmesi gerektiğini belirtti. [ZUMRE_BASKANI], sözlü anlatım becerileri için ise her dönem belirli sınıflar arasında bir münazara turnuvası düzenlenmesinin öğrencilerin hem araştırma hem de topluluk önünde konuşma becerilerini geliştireceğini söyledi.",
-      "karar": "Öğrencilerin yazılı anlatım becerilerini geliştirmek amacıyla, belirlenecek konularda kompozisyon, deneme, öykü gibi farklı türlerde yazma çalışmalarının yapılmasına; sözlü anlatım, araştırma ve kanıta dayalı savunma becerilerini geliştirmek için ikinci dönemde sınıflar arası bir münazara etkinliği düzenlenmesine karar verilmiştir."
-    },
-    {
-      "madde": "15. Diğer zümreler (Tarih, Coğrafya, Felsefe vb.), okul rehberlik servisi ve velilerle yapılacak işbirliği esaslarının belirlenmesi.",
-      "gorusmeler": "[SOZ_ALAN2], disiplinlerarası yaklaşımın önemine değinerek, Milli Mücadele dönemi romanları işlenirken Tarih zümresiyle, coğrafyanın edebiyata etkileri konusunda Coğrafya zümresiyle ve felsefi akımların işlendiği metinlerde Felsefe zümresiyle ortak etkinlikler planlanabileceğini belirtti. Ayrıca, sınav kaygısı ve verimli ders çalışma konularında rehberlik servisiyle ortak seminerler düzenlenmesi önerildi.",
-      "karar": "Tarih, Coğrafya ve Felsefe zümreleriyle, öğretim programlarındaki ortak konulara yönelik (örneğin, edebi dönemlerin tarihsel arka planı) ortak ders işlenişi veya etkinlik planlaması yapılmasına; öğrencilerin akademik ve kişisel gelişimlerini desteklemek amacıyla okul rehberlik servisi ile düzenli olarak işbirliği yapılmasına; dönemde en az iki veli toplantısı yapılarak velilerin süreç hakkında bilgilendirilmesine karar verilmiştir."
-    },
-    {
-      "madde": "16. İş sağlığı ve güvenliği tedbirlerinin görüşülmesi.",
-      "gorusmeler": "[ZUMRE_BASKANI], sınıf ortamında öğrencilerin güvenliğini tehdit edebilecek unsurların (elektrik prizleri, pencereler, akıllı tahta kullanımı vb.) gözden geçirilmesi ve olası risklerin okul idaresine bildirilmesinin önemini vurguladı. Özellikle pandemi sonrası hijyen kurallarına dikkat edilmesinin gerekliliği hatırlatıldı.",
-      "karar": "Sınıflardaki ve ortak kullanım alanlarındaki olası risk faktörlerinin tespit edilerek okul idaresine raporlanmasına ve acil durumlarda (deprem, yangın vb.) uygulanacak prosedürlerin öğrencilere hatırlatılmasına karar verilmiştir."
-    },
-    {
-      "madde": "17. Dilek ve temenniler, kapanış.",
-      "gorusmeler": "[ZUMRE_BASKANI], toplantıya katılan tüm öğretmenlere teşekkür ederek yeni eğitim-öğretim yılının başarılı, verimli ve sağlıklı geçmesi temennisinde bulundu. Diğer öğretmenler de iyi dileklerini ifade ettiler.",
-      "karar": "Başka söz alan olmadığından, [ZUMRE_BASKANI] tarafından toplantı sona erdirilmiştir."
-    }
-  ],
-  "imza_alanlari": [
-    {
-      "unvan": "Türk Dili ve Edebiyatı Öğretmeni (Zümre Başkanı)",
-      "ad_soyad": "[ZUMRE_BASKANI]",
-      "imza": ""
-    },
-    {
-      "unvan": "Türk Dili ve Edebiyatı Öğretmeni (Yazman)",
-      "ad_soyad": "[YAZMAN]",
-      "imza": ""
-    },
-    {
-      "unvan": "Türk Dili ve Edebiyatı Öğretmeni (Üye)",
-      "ad_soyad": "[UYE_OGRETMEN_1]",
-      "imza": ""
-    },
-    {
-      "unvan": "Türk Dili ve Edebiyatı Öğretmeni (Üye)",
-      "ad_soyad": "[UYE_OGRETMEN_2]",
-      "imza": ""
-    }
-  ],
-  "onay": {
-    "metin": "Uygundur",
+  "kurumAdi": "[OKUL_ADI] MÜDÜRLÜĞÜ",
+  "egitimYili": "[EGITIM_YILI] EĞİTİM-ÖĞRETİM YILI",
+  "zumreAdi": "TÜRK DİLİ VE EDEBİYATI DERSİ SENE BAŞI ZÜMRE ÖĞRETMENLER KURULU TOPLANTI TUTANAĞI",
+  "toplantiBilgileri": {
     "tarih": "[TARIH]",
-    "unvan": "Okul Müdürü",
-    "ad_soyad": "[OKUL_MUDURU]",
-    "imza": ""
+    "saat": "[SAAT]",
+    "yer": "[YER]",
+    "toplantiNo": "1",
+    "baskan": "[ZUMRE_BASKANI]",
+    "katilimcilar": [
+      "[ZUMRE_BASKANI]",
+      "[YAZMAN_OGRETMEN]",
+      "[UYE_OGRETMEN_1]",
+      "[UYE_OGRETMEN_2]",
+      "[UYE_OGRETMEN_3]"
+    ]
+  },
+  "gundemBasligi": "GÜNDEM MADDELERİ",
+  "gundemMaddeleri": [
+    "1. Açılış, yoklama, zümre başkanı ve yazman seçimi.",
+    "2. Bir önceki eğitim-öğretim yılı zümre toplantısında alınan kararların okunması ve uygulama sonuçlarının değerlendirilmesi.",
+    "3. Eğitim ve öğretimle ilgili mevzuattaki (yönetmelik, genelge, tebliğler dergisi vb.) değişikliklerin incelenmesi.",
+    "4. \"Türkiye Yüzyılı Maarif Modeli\" ve güncel öğretim programları doğrultusunda ünitelendirilmiş yıllık planların hazırlanması ve bu planlamada ortak bir anlayışın sağlanması.",
+    "5. Derslerin işlenişinde kullanılacak öğrenci merkezli öğretim yöntem ve tekniklerinin belirlenmesi.",
+    "6. Derslerde kullanılacak eğitim teknolojileri (EBA, ÖBA, akıllı tahta vb.), öğretim materyalleri ile ders araç-gereçlerinin belirlenmesi.",
+    "7. Atatürkçülükle ilgili konuların (2104, 2488 ve 2504 sayılı Tebliğler Dergileri) müfredata entegrasyonu için yapılacak planlamanın görüşülmesi.",
+    "8. Değerler eğitimi, sosyal sorumluluk programı ve girişimcilik becerilerine yönelik yapılacak çalışmaların planlanması.",
+    "9. MEB Ölçme ve Değerlendirme Yönetmeliği'ne göre yapılacak sınavların (yazılı, uygulama, performans vb.) sayısı, türü, zamanlaması ve değerlendirme kriterlerinin belirlenmesi.",
+    "10. Sınav sonuçlarının analiz edilerek öğrenme eksikliklerinin giderilmesine yönelik alınacak önlemlerin kararlaştırılması.",
+    "11. Özel eğitim ihtiyacı olan öğrenciler (BEP) ve desteklenmesi gereken diğer öğrenciler için yapılacak çalışmaların ve alınacak tedbirlerin planlanması.",
+    "12. Diğer zümreler, okul rehberlik servisi ve velilerle yapılacak işbirliği esaslarının görüşülerek karara bağlanması.",
+    "13. Sınıf seviyelerine göre okutulacak kitapların belirlenmesi ve kitap okuma alışkanlığını geliştirecek etkinliklerin (okuma çemberi, yazar buluşmaları, kitap kritiği vb.) planlanması.",
+    "14. Öğrencilerin yazılı ve sözlü anlatım becerilerini geliştirmeye yönelik yapılacak uygulamaların (münazara, panel, kompozisyon, öykü yazma vb.) planlanması ve değerlendirme esaslarının belirlenmesi.",
+    "15. Okul kütüphanesinin derslerle bütünleşik ve aktif kullanımına yönelik planlama yapılması.",
+    "16. İş sağlığı ve güvenliği tedbirlerinin görüşülmesi.",
+    "17. Dilek ve temenniler."
+  ],
+  "gundemGorusmeleri": [
+    {
+      "gundemNo": 1,
+      "gundemKonu": "Açılış, yoklama, zümre başkanı ve yazman seçimi.",
+      "gorusmeler": "[OKUL_ADI] [EGITIM_YILI] Eğitim-Öğretim Yılı Türk Dili ve Edebiyatı Dersi Sene Başı Zümre Öğretmenler Kurulu toplantısı, en kıdemli üye olan [ZUMRE_BASKANI] tarafından iyi dilek ve temennilerle açılmıştır. Yapılan yoklamada tüm zümre öğretmenlerinin hazır bulunduğu tespit edilmiştir. Gündem maddeleri okunmuş, oy birliği ile kabul edilmiştir. Zümre başkanı ve yazman seçimine geçilmiştir. Yapılan oylama sonucunda [ZUMRE_BASKANI] zümre başkanı, [YAZMAN_OGRETMEN] ise yazman olarak seçilmiştir.",
+      "karar": "1. [EGITIM_YILI] Eğitim-Öğretim yılı için Zümre Başkanlığına [ZUMRE_BASKANI]'nın, Yazmanlığa ise [YAZMAN_OGRETMEN]'in seçilmesine oy birliği ile karar verilmiştir."
+    },
+    {
+      "gundemNo": 2,
+      "gundemKonu": "Bir önceki eğitim-öğretim yılı zümre toplantısında alınan kararların okunması ve uygulama sonuçlarının değerlendirilmesi.",
+      "rolAlanlar": {
+        "tutanakOkuyan": "[TUTANAK_OKUYAN1]"
+      },
+      "gorusmeler": "[TUTANAK_OKUYAN1], bir önceki zümre toplantısı tutanağını okudu. Kararların genel olarak başarıyla uygulandığı, özellikle yazılı ve sözlü anlatım becerilerini geliştirmeye yönelik yapılan münazara etkinliklerinin öğrenci katılımını artırdığı ifade edildi. Yeterli sayıda yazar buluşması organize edilememesinin nedenleri görüşüldü ve bu yıl planlamanın daha erken yapılması gerektiği vurgulandı.",
+      "karar": "2. Bir önceki toplantıda alınan kararların genel olarak uygulandığı tespit edilmiştir. Yazar-okur buluşmalarının bu yıl daha etkin planlanarak en az bir tanesinin ilk dönem içinde gerçekleştirilmesine karar verilmiştir."
+    },
+    {
+      "gundemNo": 3,
+      "gundemKonu": "Eğitim ve öğretimle ilgili mevzuattaki değişikliklerin incelenmesi.",
+      "rolAlanlar": {
+        "sunumYapan": "[SUNUM_YAPAN1]"
+      },
+      "gorusmeler": "[SUNUM_YAPAN1], MEB tarafından yayımlanan yeni \"Ölçme ve Değerlendirme Yönetmeliği\" ile \"Türkiye Yüzyılı Maarif Modeli\" hakkında bilgilendirme yaptı. Yeni yönetmelikle birlikte ülke ve il genelinde yapılacak ortak sınavların planlamadaki önemine, süreç odaklı değerlendirmenin (performans çalışmaları, projeler) öne çıktığına dikkat çekti. Tüm zümre üyelerinin bu yeni mevzuatı detaylıca incelemesi ve uygulamaları bu çerçevede şekillendirmesi gerektiği belirtildi.",
+      "karar": "3. Tüm planlama ve uygulamaların, özellikle sınav sayısı, türü ve değerlendirme kriterlerinin güncel MEB Ölçme ve Değerlendirme Yönetmeliği ile \"Türkiye Yüzyılı Maarif Modeli\"ne tam uyumlu olacak şekilde yapılmasına oy birliği ile karar verilmiştir."
+    },
+    {
+      "gundemNo": 4,
+      "gundemKonu": "\"Türkiye Yüzyılı Maarif Modeli\" ve güncel öğretim programları doğrultusunda ünitelendirilmiş yıllık planların hazırlanması ve bu planlamada ortak bir anlayışın sağlanması.",
+      "rolAlanlar": {
+        "sozAlan": "[SOZ_ALAN1]"
+      },
+      "gorusmeler": "Zümre Başkanı [ZUMRE_BASKANI], yeni öğretim programının beceri odaklı ve bütüncül yapısına dikkat çekti. Yıllık planlarda kazanımların yıl içine dengeli bir şekilde dağıtılması, resmi tatiller ve sınav haftalarının dikkate alınması gerektiğini belirtti. [SOZ_ALAN1], planlarda disiplinlerarası yaklaşıma yer verilmesi gerektiğini, özellikle Tarih ve Felsefe dersleriyle ilişkilendirilebilecek konuların önceden belirlenmesinin faydalı olacağını söyledi.",
+      "karar": "4. Ünitelendirilmiş yıllık planların, \"Türkiye Yüzyılı Maarif Modeli\" esas alınarak, kazanımların dengeli dağılımı gözetilerek ve disiplinlerarası yaklaşıma olanak tanıyacak şekilde [BELIRTILEN_TARIH]'e kadar zümrece hazırlanarak okul idaresinin onayına sunulmasına karar verilmiştir."
+    },
+    {
+      "gundemNo": 5,
+      "gundemKonu": "Derslerin işlenişinde kullanılacak öğrenci merkezli öğretim yöntem ve tekniklerinin belirlenmesi.",
+      "rolAlanlar": {
+        "sozAlan": "[SOZ_ALAN2]"
+      },
+      "gorusmeler": "[SOZ_ALAN2], derslerin sadece anlatım yöntemiyle işlenmesinin öğrencilerin ilgisini azalttığını belirterek; metin tahlillerinde grup çalışması, dilbilgisi konularında oyunlaştırma, edebi akımların işlenişinde ise altı şapkalı düşünme tekniği gibi yöntemlerin kullanılmasını önerdi. Öneri zümre tarafından olumlu karşılandı.",
+      "karar": "5. Derslerde tekdüzelikten kaçınmak amacıyla; metin tahlillerinde okuma çemberi ve grup çalışması, dilbilgisi konularında oyunlaştırma, tartışmaya açık konularda ise münazara ve panel gibi öğrenci merkezli yöntem ve tekniklerin aktif olarak kullanılmasına karar verilmiştir."
+    },
+    {
+      "gundemNo": 6,
+      "gundemKonu": "Derslerde kullanılacak eğitim teknolojileri, öğretim materyalleri ile ders araç-gereçlerinin belirlenmesi.",
+      "gorusmeler": "Akıllı tahta, EBA ve ÖBA platformlarının derslerde daha etkin kullanılması gerektiği vurgulandı. Özellikle EBA'daki metinler, videolar ve etkileşimli alıştırmaların ders planlarına entegre edilmesi, eser-yazar eşleştirmeleri ve edebi dönemlerin görselleştirilmesi için dijital sunumlar hazırlanması kararlaştırıldı. TDK ve Türk Dil Kurumu'nun çevrim içi sözlük ve kaynaklarının kullanımının teşvik edilmesi gerektiği belirtildi.",
+      "karar": "6. EBA ve ÖBA içeriklerinin ders planlarına entegre edilmesine, akıllı tahta kullanılarak metinler üzerinde ortak tahliller yapılmasına, TDK'nin çevrim içi kaynaklarının kullanımının teşvik edilmesine karar verilmiştir."
+    },
+    {
+      "gundemNo": 7,
+      "gundemKonu": "Atatürkçülükle ilgili konuların müfredata entegrasyonu.",
+      "rolAlanlar": {
+        "sozAlan": "[SOZ_ALAN3]"
+      },
+      "gorusmeler": "[ZUMRE_BASKANI], 2104, 2488 ve 2504 sayılı Tebliğler Dergileri'ne atıfta bulunarak, Atatürkçülük konularının yıllık planlara yerleştirilmesinin yasal bir zorunluluk olduğunu hatırlattı. [SOZ_ALAN3], Atatürk'ün \"Nutuk\" adlı eserinin, özellikle 10. ve 11. sınıf müfredatındaki Milli Edebiyat ve Cumhuriyet Dönemi konularıyla ilişkilendirilerek ilgili bölümlerinin okutulmasını ve incelenmesini önerdi. Atatürk'ün Türk diline verdiği önemin dilbilgisi ve anlatım derslerinde vurgulanması gerektiği belirtildi.",
+      "karar": "7. 2104, 2488 ve 2504 sayılı Tebliğler Dergileri'nde belirtilen Atatürkçülük konularının yıllık planlarda ilgili kazanımlarla ilişkilendirilmesine; özellikle Nutuk'tan seçme metinlerin ve Atatürk'ün dil ve kültür üzerine düşüncelerini yansıtan söylevlerinin derslerde incelenmesine karar verilmiştir."
+    },
+    {
+      "gundemNo": 8,
+      "gundemKonu": "Değerler eğitimi, sosyal sorumluluk programı ve girişimcilik becerilerine yönelik çalışmaların planlanması.",
+      "gorusmeler": "Milli, manevi ve evrensel değerlerin ders metinleri üzerinden işlenmesi gerektiği belirtildi. \"Adalet, dostluk, dürüstlük, saygı, vatanseverlik\" gibi değerlerin, incelenen edebi eserlerdeki karakterler ve olaylar üzerinden tartışılmasına karar verildi. Sosyal sorumluluk kapsamında, okul kütüphanesini zenginleştirmek için bir \"Kitap Toplama Kampanyası\" düzenlenmesi fikri ortaya atıldı.",
+      "karar": "8. Yıllık planda yer alan edebi metinler işlenirken adalet, saygı, vatanseverlik gibi kök değerlerin metin içi örneklerle vurgulanmasına; ikinci dönem içerisinde okul genelinde bir \"Kitap Toplama Kampanyası\" düzenlenmesine karar verilmiştir."
+    },
+    {
+      "gundemNo": 9,
+      "gundemKonu": "MEB Ölçme ve Değerlendirme Yönetmeliği'ne göre sınavların sayısı, türü, zamanlaması ve değerlendirme kriterlerinin belirlenmesi.",
+      "gorusmeler": "Yeni yönetmelik uyarınca, her dönem için iki yazılı sınav yapılmasına karar verildi. Bu sınavlardan birinin, Bakanlık veya İl/İlçe Milli Eğitim Müdürlüğü tarafından yapılacaksa ortak sınav takvimine uyulacağı, diğer sınavın ise zümre tarafından ortak olarak hazırlanıp uygulanacağı belirtildi. Yazılı sınavların yanı sıra, öğrencilerin dinleme, konuşma ve yazma becerilerini ölçecek uygulama sınavları yapılmasına ve bu sınavların değerlendirilmesinde dereceli puanlama anahtarı (rubrik) kullanılmasına karar verildi.",
+      "karar": "9. Her iki dönemde de 2'şer adet yazılı sınav yapılmasına; bu sınavlardan birinin çoktan seçmeli, diğerinin ise açık uçlu ve kısa cevaplı sorulardan oluşmasına; ayrıca her dönem 1'er adet dinleme ve konuşma becerilerini ölçen uygulama sınavı yapılmasına ve bu sınavların değerlendirmesinde ortak rubrikler kullanılmasına oy birliği ile karar verilmiştir."
+    },
+    {
+      "gundemNo": 10,
+      "gundemKonu": "Sınav sonuçlarının analiz edilerek öğrenme eksikliklerinin giderilmesine yönelik önlemlerin kararlaştırılması.",
+      "rolAlanlar": {
+        "sozAlan": "[SOZ_ALAN4]"
+      },
+      "gorusmeler": "[SOZ_ALAN4], yapılan sınavlardan sonra sadece not vermekle kalmayıp, kazanım bazında analiz yapılmasının önemini vurguladı. Özellikle sınıf genelinde başarısız olunan konuların (örneğin \"cümle ögeleri\", \"yazım kuralları\" vb.) tespit edilip bu konular için ek etüt veya pekiştirme çalışmaları yapılması önerildi.",
+      "karar": "10. Her ortak yazılı sınav sonrasında zümre olarak bir araya gelinerek sınav sonuçlarının kazanım bazında analiz edilmesine; öğrenme eksikliği tespit edilen konularda ek ders/etüt planlaması yapılmasına ve pekiştirici çalışma kâğıtları hazırlanmasına karar verilmiştir."
+    },
+    {
+      "gundemNo": 11,
+      "gundemKonu": "Özel eğitim ihtiyacı olan öğrenciler (BEP) için yapılacak çalışmalar.",
+      "gorusmeler": "Okul rehberlik servisinden alınan BEP dosyaları incelendi. Bu öğrencilerin sınavlarının, programlarındaki hedeflere uygun olarak uyarlanmasına; gerekirse sınavların ayrı bir ortamda ve ek süre verilerek yapılmasına; değerlendirmelerde sadece yazılı sınavların değil, derse katılım ve çabalarının da göz önünde bulundurulmasına karar verildi.",
+      "karar": "11. BEP'li öğrencilerin ölçme ve değerlendirme faaliyetlerinin, bireyselleştirilmiş eğitim programlarındaki hedefler doğrultusunda uyarlanmasına, ders içi etkinliklerde ve materyal seçiminde farklılaştırmaya gidilmesine ve süreç hakkında rehberlik servisiyle sürekli işbirliği içinde olunmasına karar verilmiştir."
+    },
+    {
+      "gundemNo": 12,
+      "gundemKonu": "Diğer zümreler, okul rehberlik servisi ve velilerle yapılacak işbirliği.",
+      "gorusmeler": "Öğrenmenin bütünlüğünü sağlamak amacıyla diğer zümrelerle işbirliğinin önemi vurgulandı. Tarih zümresi ile tarihi romanların incelenmesi, Felsefe zümresi ile felsefi akımların edebi eserlere yansımaları üzerine ortak çalışmalar yapılması planlandı. Rehberlik servisi ile \"verimli ders çalışma\" ve \"sınav kaygısı\" konularında seminerler düzenlenmesi, veli toplantılarında ise öğrencilerin okuma alışkanlıkları ve genel başarı durumları hakkında detaylı bilgi verilmesi kararlaştırıldı.",
+      "karar": "12. Tarih ve Felsefe zümreleriyle ortak proje ve etkinlikler planlanmasına; rehberlik servisiyle işbirliği içinde öğrencilere yönelik akademik destek seminerleri düzenlenmesine; veli toplantılarında her öğrenci hakkında bireysel geri bildirim verilmesine karar verilmiştir."
+    },
+    {
+      "gundemNo": 13,
+      "gundemKonu": "Sınıf seviyelerine göre okutulacak kitapların belirlenmesi ve kitap okuma alışkanlığını geliştirecek etkinliklerin planlanması.",
+      "gorusmeler": "Tüm zümre öğretmenlerinin katkısıyla, her sınıf seviyesi için Türk ve dünya edebiyatından klasikleri, güncel eserleri ve düşünce yazılarını içeren bir okuma listesi oluşturuldu. Bu listelerin öğrencilere duyurulması ve velilerle paylaşılması kararlaştırıldı. Okuma alışkanlığını teşvik etmek için \"Kitap Tanıtım Günleri\" ve \"Okuma Çemberi\" etkinliklerinin düzenlenmesi benimsendi.",
+      "karar": "13. Her sınıf düzeyi için ekte sunulan okuma listesinin belirlenmesine; her ay bir \"Kitap Tanıtım Günü\" düzenlenmesine ve öğrencilerin okudukları eserleri arkadaşlarına tanıtmalarının teşvik edilmesine karar verilmiştir."
+    },
+    {
+      "gundemNo": 14,
+      "gundemKonu": "Öğrencilerin yazılı ve sözlü anlatım becerilerini geliştirmeye yönelik uygulamaların planlanması.",
+      "gorusmeler": "Yazılı anlatım becerisini geliştirmek için her dönem en az iki kompozisyon yazdırılması ve bu metinlerin belirlenen ortak rubrikle değerlendirilmesi kararlaştırıldı. Sözlü anlatım için ise her dönem en az bir hazırlıklı/hazırlıksız konuşma veya münazara etkinliği yapılması planlandı. Öğrencilerin yaratıcı yazma çalışmalarının (öykü, deneme, şiir) okul panosunda ve okul dergisinde yayımlanarak teşvik edilmesi uygun görüldü.",
+      "karar": "14. Öğrencilerin yazılı ve sözlü anlatım becerilerini geliştirmek amacıyla planlı kompozisyon, münazara ve sunum etkinlikleri yapılmasına; bu çalışmaların değerlendirilmesinde ortak rubrikler kullanılmasına ve başarılı ürünlerin okul panosu/dergisinde sergilenmesine karar verilmiştir."
+    },
+    {
+      "gundemNo": 15,
+      "gundemKonu": "Okul kütüphanesinin aktif kullanımına yönelik planlama yapılması.",
+      "gorusmeler": "Okul kütüphanesinin sadece kitap alınıp verilen bir yer olmaktan çıkarılıp yaşayan bir öğrenme ortamına dönüştürülmesi gerektiği belirtildi. Bu amaçla her sınıf için aylık kütüphane kullanım saatleri belirlenmesi ve bu saatlerde öğrencilerin araştırma yapmalarının veya serbest okuma etkinlikleri gerçekleştirmelerinin sağlanması kararlaştırıldı.",
+      "karar": "15. Her sınıfın ayda en az bir ders saati okul kütüphanesini aktif olarak kullanmasının sağlanmasına ve kütüphanedeki kaynaklardan proje ve performans çalışmaları için yararlanılmasının teşvik edilmesine karar verilmiştir."
+    },
+    {
+      "gundemNo": 16,
+      "gundemKonu": "İş sağlığı ve güvenliği tedbirlerinin görüşülmesi.",
+      "gorusmeler": "Dersliklerdeki akıllı tahta, projeksiyon cihazı gibi teknolojik aletlerin güvenli kullanımına dikkat edilmesi, kabloların dağınıklığının önlenmesi ve acil durumlarda sınıfın güvenli bir şekilde tahliyesi konuları görüşüldü. Öğrencilerin bu konuda bilinçlendirilmesi gerektiği ifade edildi.",
+      "karar": "16. Sınıf içi eğitim ortamlarında iş sağlığı ve güvenliği ile ilgili temel kurallara uyulmasına ve öğrencilerin bu konuda bilgilendirilmesine karar verilmiştir."
+    },
+    {
+      "gundemNo": 17,
+      "gundemKonu": "Dilek ve temenniler.",
+      "gorusmeler": "Zümre Başkanı [ZUMRE_BASKANI], toplantıya katılan tüm öğretmenlere teşekkür ederek [EGITIM_YILI] eğitim-öğretim yılının başarılı, verimli ve huzurlu geçmesi dileklerini iletti. Diğer öğretmenler de aynı temennilerde bulundu. Gündemde görüşülecek başka madde kalmadığından toplantıya son verildi.",
+      "karar": "17. [EGITIM_YILI] eğitim-öğretim yılının tüm öğretmen ve öğrenciler için başarılı geçmesi temennisiyle toplantı sonlandırılmıştır."
+    }
+  ],
+  "imzaAlanlari": {
+    "aciklama": "İşbu tutanak tarafımızca okunmuş, alınan kararlar imza altına alınmıştır.",
+    "imzalar": [
+      {
+        "adSoyad": "[ZUMRE_BASKANI]",
+        "unvan": "Türk Dili ve Edebiyatı Öğretmeni (Zümre Başkanı)"
+      },
+      {
+        "adSoyad": "[YAZMAN_OGRETMEN]",
+        "unvan": "Türk Dili ve Edebiyatı Öğretmeni (Yazman)"
+      },
+      {
+        "adSoyad": "[UYE_OGRETMEN_1]",
+        "unvan": "Türk Dili ve Edebiyatı Öğretmeni (Üye)"
+      },
+      {
+        "adSoyad": "[UYE_OGRETMEN_2]",
+        "unvan": "Türk Dili ve Edebiyatı Öğretmeni (Üye)"
+      },
+      {
+        "adSoyad": "[UYE_OGRETMEN_3]",
+        "unvan": "Türk Dili ve Edebiyatı Öğretmeni (Üye)"
+      }
+    ],
+    "onay": {
+      "metin": "Uygundur.",
+      "tarih": "[TARIH]",
+      "adSoyad": "[OKUL_MUDURU_ADI]",
+      "unvan": "Okul Müdürü"
+    }
   }
 }
