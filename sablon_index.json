@@ -1,20 +1,26 @@
 [
   {
     "id": "tde3",
-    "gorunurAd": "Edebiyat Sene Sonu Zümre Tutanağı",
+    "gorunurAd": "Edebiyat Sene Sonu Zümresi",
     "dosyaId": "https://raw.githubusercontent.com/knigdelioglu/ogretmen/main/Tde3.json",
     "brans": "Türk Dili ve Edebiyatı"
   },
   {
     "id": "tde1",
-    "gorunurAd": "1. Dönem Sene Başı Edebiyat Zümresi",
+    "gorunurAd": "Edebiyat Sene Başı Zümresi",
     "dosyaId": "https://raw.githubusercontent.com/knigdelioglu/ogretmen/main/tde1.json",
     "brans": "Türk Dili ve Edebiyatı"
   },
   {
     "id": "mat1",
-    "gorunurAd": "Sene Başı Matematik Zümresi",
+    "gorunurAd": "Matematik Sene Başı Zümresi",
     "dosyaId": "https://raw.githubusercontent.com/knigdelioglu/ogretmen/main/Lise_Mat_1.json",
     "brans": "Matematik"
+  },
+  {
+    "id": "sınıf1",
+    "gorunurAd": "Sınıf Öğretmenliği Sene Başı Zümresi",
+    "dosyaId": "https://raw.githubusercontent.com/knigdelioglu/ogretmen/main/sınıf_1.json",
+    "brans": "Sınıf Öğretmenliği"
   }
 ]
