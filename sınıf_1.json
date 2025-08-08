@@ -1,0 +1,210 @@
+{
+  "kurumAdi": "[OKUL_ADI]",
+  "egitimYili": "[EGITIM_YILI]",
+  "zumreAdi": "Sınıf Öğretmenliği Zümresi",
+  "toplantiBilgileri": {
+    "tarih": "[TARIH]",
+    "saat": "[SAAT]",
+    "yer": "[YER]",
+    "baskan": "[ZUMRE_BASKANI]",
+    "katilimcilar": [
+      "[ZUMRE_BASKANI]",
+      "[YAZMAN_OGRETMEN]",
+      "[UYE_OGRETMEN_1]",
+      "[UYE_OGRETMEN_2]",
+      "[UYE_OGRETMEN_3]"
+    ]
+  },
+  "gundemMaddeleri": [
+    "Açılış, yoklama, zümre başkanı ve yazman seçimi ile gündem maddelerinin okunması ve onaya sunulması.",
+    "Bir önceki zümre toplantısında alınan kararların incelenmesi ve uygulama sonuçlarının değerlendirilmesi.",
+    "Millî Eğitim Bakanlığı mevzuatındaki son değişikliklerin (Ölçme ve Değerlendirme Yönetmeliği, Sosyal Etkinlikler Yönetmeliği vb.) incelenmesi ve bu değişikliklerin ders planlarına etkilerinin görüşülmesi.",
+    "Ünitelendirilmiş yıllık planların hazırlanması, derslerde uygulanacak öğretim yöntem ve tekniklerinin belirlenmesi, eğitim teknolojileri ve materyallerin (EBA, ÖBA, akıllı tahta vb.) kullanımının planlanması.",
+    "Atatürkçülük konularının (2104, 2488 ve 2504 sayılı Tebliğler Dergileri) ve değerler eğitiminin (adalet, saygı, sorumluluk vb.) yıllık planlara ve ders içi etkinliklere entegrasyonunun planlanması; sosyal sorumluluk ve girişimcilik becerilerini geliştirecek çalışmaların belirlenmesi.",
+    "Ölçme ve değerlendirme süreçlerinin planlanması: Yazılı sınav takviminin oluşturulması, farklılaştırılmış ölçme araçlarının (ürün dosyası, performans çalışması, rubrik vb.) belirlenmesi ve sınav analizleri sonucunda yapılacak iyileştirme çalışmalarının kararlaştırılması.",
+    "Öğrenci gelişimini destekleme çalışmaları: Özel eğitim ihtiyacı olan öğrenciler için BEP uyarlamaları, destekleme ve yetiştirme kursları, rehberlik servisi ve diğer zümrelerle işbirliği alanlarının tespiti, okul-aile işbirliği ve veli toplantılarının planlanması.",
+    "Dersliklerde ve ortak kullanım alanlarında iş sağlığı ve güvenliği ile ilgili alınması gereken tedbirlerin görüşülmesi.",
+    "Tüm derslerin (Türkçe, Matematik, Hayat Bilgisi, Fen Bilimleri, Sosyal Bilgiler) bütünleştirilmiş bir yaklaşımla ve tematik olarak planlanması.",
+    "Okuma-yazma öğretimi ve temel matematik becerilerinin kazandırılmasında karşılaşılan bireysel farklılıkların ve güçlüklerin tespiti için kullanılacak araçların belirlenmesi ve bireysel destek mekanizmalarının oluşturulması.",
+    "Serbest etkinlikler dersinin, öğrencilerin sosyal, sanatsal ve sportif gelişimlerini destekleyecek şekilde (akıl ve zekâ oyunları, drama, halk oyunları vb.) yapılandırılması ve kulüp seçimlerinin planlanması.",
+    "Veli işbirliğinin sistematik olarak planlanması: Dönemlik veli toplantı tarihlerinin belirlenmesi, ev ziyaretlerinin planlanması ve aile katılımı etkinliklerinin takvime bağlanması.",
+    "Hayat Bilgisi dersi temalarının (Okulumuzda Hayat, Evimizde Hayat, Sağlıklı Hayat) okul ve çevre imkânları kullanılarak somutlaştırılmasına yönelik etkinliklerin planlanması.",
+    "Temel yaşam becerilerinin (trafik kuralları, güvenli teknoloji kullanımı, acil durumlarda yardım isteme vb.) kazandırılmasına yönelik drama, oyun ve simülasyon etkinliklerinin tasarlanması.",
+    "Alınan kararların uygulanması, izlenmesi ve bir sonraki toplantıya kadar yapılacakların karara bağlanarak arşivleme esaslarının belirlenmesi, dilek ve temenniler."
+  ],
+  "gundemGorusmeleriVeKararlar": [
+    {
+      "gundemNo": 1,
+      "konu": "Açılış, yoklama, zümre başkanı ve yazman seçimi ile gündem maddelerinin okunması ve onaya sunulması.",
+      "gorusmeler": "[EGITIM_YILI] Sınıf Öğretmenliği Zümresi sene başı toplantısı, [ZUMRE_BASKANI] tarafından iyi dileklerle açılmıştır. Yapılan yoklamada tüm zümre öğretmenlerinin hazır bulunduğu tespit edilmiştir. MEB Eğitim Kurulları ve Zümreleri Yönergesi gereğince, bu eğitim-öğretim yılında görev yapmak üzere zümre başkanı ve yazman seçimi yapılmıştır. [SOZ_ALAN] tarafından Zümre Başkanlığına [ZUMRE_BASKANI], Yazmanlığa ise [YAZMAN_OGRETMEN] aday gösterilmiştir. Yapılan oylama sonucunda [ZUMRE_BASKANI] oy birliği ile zümre başkanı, [YAZMAN_OGRETMEN] ise oy birliği ile yazman olarak seçilmiştir. Zümre Başkanı, hazırlanan gündem maddelerini okumuş, eklenmek istenen bir madde olup olmadığını sormuştur. Söz alan olmaması üzerine gündem maddeleri oy birliği ile kabul edilmiştir.",
+      "karar": "[EGITIM_YILI] eğitim-öğretim yılı Sınıf Öğretmenliği Zümre Başkanlığına [ZUMRE_BASKANI]'nın, Zümre Yazmanlığına [YAZMAN_OGRETMEN]'in seçilmesine ve toplantı gündeminin kabul edilen şekliyle uygulanmasına oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 2,
+      "konu": "Bir önceki zümre toplantısında alınan kararların incelenmesi ve uygulama sonuçlarının değerlendirilmesi.",
+      "gorusmeler": "Yazman [YAZMAN_OGRETMEN], bir önceki eğitim-öğretim yılı sonunda yapılan zümre toplantısı tutanağını okudu. Kararların genel olarak uygulandığı, özellikle okuma becerilerini geliştirmek için başlatılan 'Okuma Çemberi' etkinliğinin öğrenci motivasyonunu artırdığı belirtildi. [SOZ_ALAN], veli katılımı etkinliklerinin pandemi sonrası dönemde hedeflenen seviyeye ulaşamadığını, bu yıl bu konuya daha fazla odaklanılması gerektiğini ifade etti. [ZUMRE_BASKANI], bu geri bildirimin değerli olduğunu ve bu yılki planlamada dikkate alınacağını belirtti.",
+      "karar": "Geçen yıl alınan kararların uygulama sonuçlarının başarılı olduğu, veli katılımı konusunda bu yıl daha proaktif ve çeşitli etkinlikler planlanarak eksikliğin giderilmesine oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 3,
+      "konu": "Millî Eğitim Bakanlığı mevzuatındaki son değişikliklerin (Ölçme ve Değerlendirme Yönetmeliği, Sosyal Etkinlikler Yönetmeliği vb.) incelenmesi ve bu değişikliklerin ders planlarına etkilerinin görüşülmesi.",
+      "gorusmeler": "[ZUMRE_BASKANI], Resmî Gazete'de yayımlanan yeni MEB Ölçme ve Değerlendirme Yönetmeliği'nin getirdiği değişiklikler hakkında bilgi verdi. Özellikle ülke ve il/ilçe genelinde yapılacak ortak sınavların planlamadaki önemine, süreç odaklı değerlendirmenin (performans çalışmaları, ürün dosyaları) not ağırlıklarına ve sınav analizlerinin zorunluluğuna dikkat çekti. [SOZ_ALAN], yeni yönetmeliğe göre sınav tarihlerinin en az bir hafta önceden e-Okul üzerinden duyurulması gerektiğini hatırlattı. Ayrıca Sosyal Etkinlikler Yönetmeliği'ndeki değişikliklerin, özellikle 'sosyal sorumluluk programı' kapsamında yapılacak çalışmalara esneklik getirdiği ifade edildi.",
+      "karar": "Yıllık planların ve ölçme-değerlendirme takviminin, yeni MEB Ölçme ve Değerlendirme Yönetmeliği'ne tam uyumlu olarak hazırlanmasına; sınav tarihlerinin ve türlerinin dönem başında belirlenerek okul yönetimine sunulmasına ve velilere zamanında duyurulmasına; Sosyal Etkinlikler Yönetmeliği çerçevesinde her sınıf düzeyinde en az bir sosyal sorumluluk projesi planlanmasına oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 4,
+      "konu": "Ünitelendirilmiş yıllık planların hazırlanması, derslerde uygulanacak öğretim yöntem ve tekniklerinin belirlenmesi, eğitim teknolojileri ve materyallerin (EBA, ÖBA, akıllı tahta vb.) kullanımının planlanması.",
+      "gorusmeler": "Zümre Başkanı [ZUMRE_BASKANI], ünitelendirilmiş yıllık planların hazırlanmasında 'Türkiye Yüzyılı Maarif Modeli' programının dikkate alınması gerektiğini vurguladı. Öğrenci merkezli, aktif öğrenmeyi teşvik eden yöntem ve tekniklerin (işbirlikli öğrenme, oyunlaştırma, drama vb.) derslere entegre edilmesinin önemi tartışıldı. [SOZ_ALAN], akıllı tahta içeriklerinin zenginleştirilmesi ve EBA/ÖBA platformlarının daha etkin kullanılması için zümre içinde bir materyal havuzu oluşturulmasını önerdi. Bu öneri, diğer öğretmenler tarafından da desteklendi.",
+      "karar": "Ünitelendirilmiş yıllık planların, 'Türkiye Yüzyılı Maarif Modeli' programı ve zümre kararları doğrultusunda [TARIH]'e kadar tamamlanarak okul idaresine teslim edilmesine; derslerde kullanılmak üzere zümre tarafından hazırlanan dijital ve basılı materyallerin ortak bir bulut klasöründe arşivlenmesine ve tüm zümre öğretmenlerinin kullanımına açılmasına oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 5,
+      "konu": "Atatürkçülük konularının (2104, 2488 ve 2504 sayılı Tebliğler Dergileri) ve değerler eğitiminin (adalet, saygı, sorumluluk vb.) yıllık planlara ve ders içi etkinliklere entegrasyonunun planlanması; sosyal sorumluluk ve girişimcilik becerilerini geliştirecek çalışmaların belirlenmesi.",
+      "gorusmeler": "[SOZ_ALAN], Atatürkçülük konularının sadece belirli gün ve haftalarla sınırlı kalmaması, derslerin kazanımlarıyla ilişkilendirilerek işlenmesi gerektiğini belirtti. [ZUMRE_BASKANI], okulun değerler eğitimi eylem planı çerçevesinde her aya bir değer belirlendiğini ve bu değerlerin ders içi etkinliklerle somutlaştırılması gerektiğini hatırlattı. Sosyal sorumluluk projesi olarak TEMA Vakfı ile işbirliği yapılarak bir fidan dikme etkinliği düzenlenmesi ve girişimcilik becerileri kapsamında öğrencilerin sınıf içi bir 'kermes' etkinliği organize etmesi önerileri görüşüldü.",
+      "karar": "Atatürkçülükle ilgili konuların ilgili tebliğler dergileri doğrultusunda yıllık planlara entegre edilmesine; okulun değerler eğitimi planına uygun olarak her ay belirlenen değerle ilgili ders içi etkinlikler (drama, pano hazırlama, öykü yazma vb.) yapılmasına; 2. dönemin Nisan ayı içerisinde TEMA işbirliği ile okul bahçesinde bir 'Fidan Dikme Şenliği' düzenlenmesine oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 6,
+      "konu": "Ölçme ve değerlendirme süreçlerinin planlanması: Yazılı sınav takviminin oluşturulması, farklılaştırılmış ölçme araçlarının (ürün dosyası, performans çalışması, rubrik vb.) belirlenmesi ve sınav analizleri sonucunda yapılacak iyileştirme çalışmalarının kararlaştırılması.",
+      "gorusmeler": "[ZUMRE_BASKANI], yönetmelik gereği yapılacak sınavların takviminin belirlenmesi gerektiğini ifade etti. [SOZ_ALAN], sadece yazılı sınavlara odaklanılmaması, sürecin de değerlendirilmesi için her dönem en az bir performans çalışması ve öğrencilerin ürün dosyalarının (portfolyo) değerlendirilmesi gerektiğini söyledi. [UYE_OGRETMEN_1], her sınavdan sonra mutlaka kazanım bazlı analiz yapılmasını ve öğrenme eksiği tespit edilen konular için zümre olarak ortak bir iyileştirme planı (konu tekrarı, ek çalışma kağıdı, EBA'dan ödevlendirme vb.) hazırlanmasını önerdi.",
+      "karar": "Dönemlik sınav tarihlerinin ekte sunulan 'Sınav Takvimi'ne göre uygulanmasına; her dönem tüm derslerden süreç odaklı değerlendirme amacıyla en az bir performans görevi verilmesine ve değerlendirmede zümrece hazırlanan rubriklerin kullanılmasına; her yazılı sınavdan sonra en geç 10 gün içinde kazanım analizlerinin yapılarak sonuçların zümre başkanıyla paylaşılmasına ve ihtiyaç duyulan kazanımlar için ortak telafi çalışmalarının planlanmasına oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]",
+        "Ek Söz Alan": "[UYE_OGRETMEN_1]"
+      }
+    },
+    {
+      "gundemNo": 7,
+      "konu": "Öğrenci gelişimini destekleme çalışmaları: Özel eğitim ihtiyacı olan öğrenciler için BEP uyarlamaları, destekleme ve yetiştirme kursları, rehberlik servisi ve diğer zümrelerle işbirliği alanlarının tespiti, okul-aile işbirliği ve veli toplantılarının planlanması.",
+      "gorusmeler": "[YAZMAN_OGRETMEN], sınıflardaki BEP'li öğrencilerle ilgili olarak, BEP biriminden gelen kararlar doğrultusunda öğretim ve ölçme-değerlendirme süreçlerinde uyarlamalar yapılması gerektiğini hatırlattı. [SOZ_ALAN], özellikle Matematik ve Türkçe derslerinde zorlanan öğrenciler için okul idaresi ile görüşülerek destekleme ve yetiştirme kursları açılması talebinde bulunulmasını önerdi. Rehberlik servisi ile 'Verimli Ders Çalışma Teknikleri' ve 'Akran Zorbalığı' konularında I. dönem içinde ortak seminerler yapılması, veli toplantılarının ise I. dönem için Ekim ayının son haftası, II. dönem için Mart ayının son haftası yapılması kararlaştırıldı.",
+      "karar": "BEP'li öğrenciler için hazırlanan programların titizlikle uygulanmasına ve gerekli materyal/yöntem uyarlamalarının yapılmasına; akademik desteğe ihtiyaç duyan öğrenciler için DYK planlamasının yapılarak okul idaresine sunulmasına; okul rehberlik servisi ile işbirliği içinde I. Dönem Kasım ayında 'Akran Zorbalığı', II. Dönem Mart ayında 'Verimli Ders Çalışma Yöntemleri' konulu seminerler düzenlenmesine; veli toplantılarının Ekim ve Mart aylarının son haftasında yapılmasına oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 8,
+      "konu": "Dersliklerde ve ortak kullanım alanlarında iş sağlığı ve güvenliği ile ilgili alınması gereken tedbirlerin görüşülmesi.",
+      "gorusmeler": "[ZUMRE_BASKANI], okulun iş sağlığı ve güvenliği uzmanının hazırladığı risk analiz raporu hakkında bilgi verdi. Sınıflardaki elektrik prizlerinin güvenliği, pencerelerdeki kilit sistemleri ve dolapların duvara sabitlenmesi gibi konuların önemini vurguladı. [SOZ_ALAN], özellikle Fen Bilimleri dersi etkinliklerinde ve Görsel Sanatlar dersinde kullanılan materyaller konusunda öğrencilere gerekli uyarıların yapılması ve önlemlerin alınması gerektiğini belirtti. Islak zemin uyarı levhalarının koridorlarda bulundurulması gerektiği hatırlatıldı.",
+      "karar": "Sınıflarda tespit edilen eksikliklerin (priz, pencere kolu, dolap sabitleme vb.) bir liste halinde okul idaresine [TARIH]'e kadar bildirilmesine; ders içi etkinliklerde risk oluşturabilecek materyallerle ilgili öğrencilere her etkinlik başında güvenlik bilgilendirmesi yapılmasına ve gerekli önlemlerin alınmasına oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 9,
+      "konu": "Tüm derslerin (Türkçe, Matematik, Hayat Bilgisi, Fen Bilimleri, Sosyal Bilgiler) bütünleştirilmiş bir yaklaşımla ve tematik olarak planlanması.",
+      "gorusmeler": "[ZUMRE_BASKANI], sınıf öğretmenliğinin en kritik görevlerinden birinin dersleri disiplinler arası bir yaklaşımla ele almak olduğunu belirtti. [SOZ_ALAN], örnek olarak Hayat Bilgisi dersindeki 'sağlıklı beslenme' temasının, Fen Bilimleri'ndeki 'besin grupları', Matematik'teki 'grafik okuma' (besin piramidi) ve Türkçe'deki 'bilgilendirici metin yazma' kazanımlarıyla birleştirilebileceğini ifade etti. Bu tür tematik planlamanın öğrenmeyi daha kalıcı ve anlamlı hale getireceği konusunda tüm üyeler hemfikir oldu.",
+      "karar": "Her ay en az bir haftanın 'tematik hafta' olarak belirlenmesine, bu haftalarda işlenecek ortak temanın zümrece kararlaştırılmasına ve tüm derslerin bu tema etrafında bütünleştirilerek planlanmasına; ilk tema olarak Ekim ayının üçüncü haftasında 'Milli Kültürümüz' temasının işlenmesine oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 10,
+      "konu": "Okuma-yazma öğretimi ve temel matematik becerilerinin kazandırılmasında karşılaşılan bireysel farklılıkların ve güçlüklerin tespiti için kullanılacak araçların belirlenmesi ve bireysel destek mekanizmalarının oluşturulması.",
+      "gorusmeler": "[UYE_OGRETMEN_2], 1. sınıflarda sesleri birleştirmede zorlanan veya harfleri karıştıran öğrenciler için erken teşhisin önemli olduğunu vurguladı. Bu öğrencileri tespit etmek için dönem başında zümre tarafından standart bir gözlem formu geliştirilmesi önerildi. [SOZ_ALAN], tespit edilen öğrenciler için birebir çalışma, akran desteği (tutorluk) ve farklılaştırılmış ödevlendirme gibi destek mekanizmalarının planlanması gerektiğini söyledi. Temel matematik becerilerinde zorlananlar için de somut materyallerle (sayı çubukları, onluk taban blokları) yapılacak ek çalışmaların faydalı olacağı belirtildi.",
+      "karar": "Eğitim-öğretim yılının ilk ayının sonuna kadar zümre tarafından standart bir 'Okuma ve Yazma Becerileri Gözlem Formu' ve 'Temel Matematik Becerileri Kontrol Listesi' hazırlanmasına; bu araçlarla tespit edilen desteğe ihtiyaç duyan öğrenciler için her öğretmenin kendi sınıfında en geç Kasım ayının başına kadar bireysel destek planı oluşturmasına ve uygulamaya koymasına oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]",
+        "Ek Söz Alan": "[UYE_OGRETMEN_2]"
+      }
+    },
+    {
+      "gundemNo": 11,
+      "konu": "Serbest etkinlikler dersinin, öğrencilerin sosyal, sanatsal ve sportif gelişimlerini destekleyecek şekilde (akıl ve zekâ oyunları, drama, halk oyunları vb.) yapılandırılması ve kulüp seçimlerinin planlanması.",
+      "gorusmeler": "[ZUMRE_BASKANI], serbest etkinlikler dersinin boş geçmemesi, öğrencilerin ilgi ve yeteneklerini keşfedecekleri planlı faaliyetlerle doldurulması gerektiğini belirtti. [SOZ_ALAN], okulun imkanları dahilinde 'Akıl ve Zeka Oyunları', 'Drama ve Tiyatro', 'Görsel Sanatlar Atölyesi' ve 'Geleneksel Çocuk Oyunları' gibi kulüpler oluşturulabileceğini ve öğrencilerin ilgi alanlarına göre bu kulüplere yönlendirilebileceğini söyledi. Bu kulüplerin yıl sonunda bir 'Bahar Şenliği'nde ürünlerini sergilemesi fikri ortaya atıldı.",
+      "karar": "Serbest etkinlikler dersi için dönemlik bir plan hazırlanmasına; I. dönem için 'Akıl ve Zeka Oyunları' ve 'Drama', II. dönem için ise 'Görsel Sanatlar' ve 'Geleneksel Çocuk Oyunları' kulüplerinin tüm sınıflarda eş zamanlı olarak yürütülmesine; Mayıs ayının son haftasında bu kulüplerin çalışmalarını sergileyeceği bir 'Bahar Şenliği' düzenlenmesine oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 12,
+      "konu": "Veli işbirliğinin sistematik olarak planlanması: Dönemlik veli toplantı tarihlerinin belirlenmesi, ev ziyaretlerinin planlanması ve aile katılımı etkinliklerinin takvime bağlanması.",
+      "gorusmeler": "[SOZ_ALAN], veli işbirliğini sadece toplantılarla sınırlı tutmamak gerektiğini, aile katılımı etkinliklerinin önemli olduğunu vurguladı. Örnek olarak, her ay bir 'Ailemle Kitap Okuyorum' saati ve dönemde bir kez 'Meslek Tanıtım Günü' düzenlenerek velilerin okula davet edilmesi önerildi. [YAZMAN_OGRETMEN], özellikle akademik veya davranışsal olarak desteğe ihtiyaç duyan öğrencilerin ailelerine yönelik, rehber öğretmenle birlikte planlanacak ev ziyaretlerinin faydalı olacağını belirtti.",
+      "karar": "Veli toplantılarına ek olarak, I. Dönem Kasım ayında 'Ailemle Kitap Okuyorum' etkinliğinin başlatılmasına ve II. Dönem Nisan ayında 'Meslek Tanıtım Günü' düzenlenmesine; her öğretmenin dönem boyunca rehber öğretmen ile işbirliği içinde en az iki veliye ev ziyaretinde bulunmasının hedeflenmesine ve bu ziyaretlerle ilgili gözlem notlarının gizlilik esasına göre tutulmasına oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 13,
+      "konu": "Hayat Bilgisi dersi temalarının (Okulumuzda Hayat, Evimizde Hayat, Sağlıklı Hayat) okul ve çevre imkânları kullanılarak somutlaştırılmasına yönelik etkinliklerin planlanması.",
+      "gorusmeler": "[UYE_OGRETMEN_3], Hayat Bilgisi dersinin soyut anlatımlardan çok, yaşantı temelli olması gerektiğini belirtti. 'Okulumuzda Hayat' teması için öğrencilerin okulun krokisini çizmesi, 'Evimizde Hayat' teması için aile soy ağacı oluşturması gibi somut etkinlikler önerdi. [SOZ_ALAN], 'Sağlıklı Hayat' teması kapsamında okulun yakınındaki bir sağlık ocağına veya bir diş hekimine gezi düzenlenmesinin konunun kalıcılığını artıracağını ifade etti.",
+      "karar": "Hayat Bilgisi dersi temaları kapsamında; Ekim ayı içinde 'Okulumuzda Hayat' teması için okul birimlerini tanıma gezisi ve kroki çizme etkinliği yapılmasına; I. Dönem sonuna kadar 'Evimizde Hayat' teması için öğrencilerin aile soy ağaçlarını hazırlayarak sınıfta sunmalarına; II. Dönem Mart ayı içinde 'Sağlıklı Hayat' temasıyla ilgili olarak okulun bulunduğu yerdeki Aile Sağlığı Merkezi'ne bir eğitim gezisi düzenlenmesi için gerekli izin süreçlerinin başlatılmasına oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]",
+        "Ek Söz Alan": "[UYE_OGRETMEN_3]"
+      }
+    },
+    {
+      "gundemNo": 14,
+      "konu": "Temel yaşam becerilerinin (trafik kuralları, güvenli teknoloji kullanımı, acil durumlarda yardım isteme vb.) kazandırılmasına yönelik drama, oyun ve simülasyon etkinliklerinin tasarlanması.",
+      "gorusmeler": "[ZUMRE_BASKANI], öğrencilere temel yaşam becerilerini kazandırmanın öncelikli hedeflerden olduğunu belirtti. [SOZ_ALAN], bu becerilerin teorik olarak anlatılmasından çok, uygulamalı etkinliklerle öğretilmesi gerektiğini söyledi. Trafik kuralları için okul bahçesine tebeşirle bir yaya geçidi ve trafik lambaları çizilerek drama çalışması yapılması, güvenli internet kullanımı için 'Güvenli İnternet Günü'nde bir sunum yapılması ve 112 Acil Çağrı Merkezi'nin aranması gereken durumlarla ilgili bir simülasyon etkinliği düzenlenmesi önerildi.",
+      "karar": "Hayat Bilgisi ve Serbest Etkinlikler dersleri kapsamında; I. Dönem içinde okul bahçesinde uygulamalı 'Trafik Kuralları Eğitimi' yapılmasına; 'Güvenli İnternet Günü' olan Şubat ayında tüm sınıflarda 'Güvenli Teknoloji Kullanımı' konulu bilinçlendirme çalışması yapılmasına; II. Dönem içinde ise 112 Acil Çağrı Merkezi'nin görevleri ve hangi durumlarda aranması gerektiği ile ilgili bir drama/simülasyon etkinliği düzenlenmesine oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 15,
+      "konu": "Alınan kararların uygulanması, izlenmesi ve bir sonraki toplantıya kadar yapılacakların karara bağlanarak arşivleme esaslarının belirlenmesi, dilek ve temenniler.",
+      "gorusmeler": "[ZUMRE_BASKANI], alınan tüm kararların SMART hedeflere uygun olarak (Somut, Ölçülebilir, Ulaşılabilir, İlgili, Zamanlı) yazıldığını ve takibinin bu doğrultuda yapılacağını belirtti. Her kararın yanına bir sorumlu ve son tarih eklendiğini, bir sonraki zümre toplantısında bu kararların gerçekleşme durumunun değerlendirileceğini ifade etti. [SOZ_ALAN], toplantının verimli geçtiğini belirterek yeni eğitim-öğretim yılının tüm zümre üyeleri ve öğrenciler için başarılı geçmesi dileklerini iletti. Diğer üyeler de iyi dileklerini sundu.",
+      "karar": "Alınan kararların zümre dosyasında ve okul idaresine sunulan nüshada arşivlenmesine; kararların uygulanmasından tüm zümre öğretmenlerinin sorumlu olmasına ve takibinin Zümre Başkanı tarafından yapılmasına; bir sonraki toplantının II. dönemin ilk haftasında yapılmasına oy birliği ile karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN]"
+      }
+    }
+  ],
+  "imzaAlanlari": {
+    "katilimcilar": [
+      {
+        "adiSoyadi": "[ZUMRE_BASKANI]",
+        "unvani": "Sınıf Öğretmeni",
+        "rolu": "Zümre Başkanı"
+      },
+      {
+        "adiSoyadi": "[YAZMAN_OGRETMEN]",
+        "unvani": "Sınıf Öğretmeni",
+        "rolu": "Yazman"
+      },
+      {
+        "adiSoyadi": "[UYE_OGRETMEN_1]",
+        "unvani": "Sınıf Öğretmeni",
+        "rolu": "Üye"
+      },
+      {
+        "adiSoyadi": "[UYE_OGRETMEN_2]",
+        "unvani": "Sınıf Öğretmeni",
+        "rolu": "Üye"
+      },
+      {
+        "adiSoyadi": "[UYE_OGRETMEN_3]",
+        "unvani": "Sınıf Öğretmeni",
+        "rolu": "Üye"
+      }
+    ]
+  },
+  "onay": {
+    "ifade": "Yukarıda imzaları bulunan Sınıf Öğretmenliği Zümresi öğretmenleri tarafından alınan kararlar, tarafımca incelenmiş olup uygulanması uygundur.",
+    "tarih": "[ONAY_TARIHI]",
+    "adiSoyadi": "[OKUL_MUDURU_ADI_SOYADI]",
+    "unvan": "Okul Müdürü"
+  }
+}
