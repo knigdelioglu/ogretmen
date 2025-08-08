@@ -1,12 +1,13 @@
- "belgeTuru": "Zümre Toplantı Tutanağı",
+{
+  "belgeTuru": "Zümre Toplantı Tutanağı",
   "kurumAdi": "[OKUL_ADI] MÜDÜRLÜĞÜ",
   "egitimYili": "[EGITIM_YILI] EĞİTİM-ÖĞRETİM YILI",
-  "zumreAdi": "Türk Dili ve Edebiyatı",
+  "zumreAdi": "[SECILI_BRANS]",
   "toplantiBilgileri": {
     "tarih": "[TARIH]",
     "saat": "[SAAT]",
     "yer": "[YER]",
-    "toplantiNo": 3,
+    "toplantiNo": 1,
     "baskan": "[ZUMRE_BASKANI]",
     "katilimcilar": [
       "[ZUMRE_BASKANI]",
