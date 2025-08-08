@@ -1,0 +1,261 @@
+{
+  "kurumAdi": "[OKUL_ADI] LİSESİ MÜDÜRLÜĞÜ",
+  "egitimYili": "[EGITIM_YILI] EĞİTİM-ÖĞRETİM YILI",
+  "zumreAdi": "Lise Matematik Zümresi",
+  "toplantiBilgileri": {
+    "tarih": "[TARIH]",
+    "saat": "[SAAT]",
+    "yer": "Öğretmenler Odası",
+    "baskan": "[ZUMRE_BASKANI]",
+    "katilimcilar": [
+      "[ZUMRE_BASKANI]",
+      "[YAZMAN_OGRETMEN]",
+      "[UYE_OGRETMEN_1]",
+      "[UYE_OGRETMEN_2]"
+    ]
+  },
+  "gundemMaddeleri": [
+    "1. Açılış, yoklama, zümre başkanı ve yazman seçimi.",
+    "2. Bir önceki zümre toplantısında alınan kararların uygulama sonuçlarının değerlendirilmesi.",
+    "3. Eğitim ve öğretime ilişkin mevzuattaki güncel düzenlemelerin (MEB Ölçme ve Değerlendirme Yönetmeliği, Sosyal Etkinlikler Yönetmeliği vb.) incelenmesi ve zümre çalışmalarına etkilerinin görüşülmesi.",
+    "4. Yıllık planların hazırlanması; 'Türkiye Yüzyılı Maarif Modeli' ve okulun şartları dikkate alınarak öğretim programlarının incelenmesi.",
+    "5. Derslerin işlenişinde kullanılacak öğrenci merkezli öğretim yöntem ve tekniklerinin belirlenmesi.",
+    "6. Eğitim teknolojileri (EBA, ÖBA, akıllı tahta, eğitim yazılımları) ve öğretim materyallerinin verimli kullanımının planlanması.",
+    "7. Atatürkçülük ile ilgili konuların (2104, 2488 ve 2504 sayılı Tebliğler Dergileri) yıllık planlara ve ders işlenişine entegrasyonu.",
+    "8. Değerler eğitimi, sosyal sorumluluk ve girişimcilik becerilerinin derslere entegrasyonu için yapılacak çalışmaların planlanması.",
+    "9. Ölçme ve değerlendirme faaliyetlerinin planlanması: Sınav sayısı, türü, zamanlaması ve ortak sınav takviminin görüşülmesi.",
+    "10. Yazılı sınavlar dışında kullanılacak farklılaştırılmış ölçme araçlarının (performans çalışması, proje, rubrik vb.) ve değerlendirme kriterlerinin belirlenmesi.",
+    "11. Yapılan sınavların analiz edilmesi ve öğrenme eksikliklerinin giderilmesine yönelik geri bildirim ve iyileştirme çalışmalarının planlanması.",
+    "12. Özel eğitim ihtiyacı olan öğrenciler için BEP doğrultusunda yapılacak uyarlamaların ve destekleme-yetiştirme kurslarının planlanması.",
+    "13. Okul rehberlik servisi ve diğer zümrelerle işbirliği esaslarının belirlenmesi.",
+    "14. Okul-aile işbirliği ve veli toplantılarına ilişkin planlamaların yapılması.",
+    "15. İş sağlığı ve güvenliği kapsamında derslik ve laboratuvarlarda alınacak tedbirlerin görüşülmesi.",
+    "16. YKS'ye yönelik hazırlık stratejilerinin (deneme sınavı takvimi, soru çözüm saatleri, yeni nesil soru analizleri, kamp çalışmaları) planlanması.",
+    "17. Problem çözme ve matematiksel modelleme becerilerini geliştirmeye yönelik disiplinlerarası senaryoların ve etkinliklerin tasarlanması.",
+    "18. Dijital öğretim araçlarının (GeoGebra, Desmos vb.) ve somut materyallerin derslere entegrasyonu.",
+    "19. Öğrencilerin öğrenmede zorlandığı soyut ve karmaşık konularda (limit, türev, integral, trigonometri, olasılık) kullanılacak farklılaştırılmış öğretim yaklaşımlarının belirlenmesi.",
+    "20. Matematik olimpiyatları ve proje yarışmalarına (TÜBİTAK vb.) katılımın teşvik edilmesi ve danışmanlık süreçlerinin planlanması.",
+    "21. Dilek ve temenniler, kapanış."
+  ],
+  "gundemGorusmeleriVeKararlar": [
+    {
+      "gundemNo": 1,
+      "konu": "Açılış, yoklama, zümre başkanı ve yazman seçimi.",
+      "gorusmeler": "[ZUMRE_BASKANI], [EGITIM_YILI] Eğitim-Öğretim yılının başarılı geçmesi dilekleriyle toplantıyı açtı. Yapılan yoklamada tüm zümre öğretmenlerinin hazır bulunduğu tespit edildi. Gündem maddeleri okundu ve oy birliği ile kabul edildi. Ardından zümre başkanı ve yazman seçimine geçildi. [UYE_OGRETMEN_1] tarafından [ZUMRE_BASKANI] başkan, [YAZMAN_OGRETMEN] ise yazman olarak önerildi. Başka aday çıkmayınca oylamaya geçildi.",
+      "karar": "Yapılan oylama sonucunda, [EGITIM_YILI] Eğitim-Öğretim yılı Lise Matematik Zümresi Başkanlığı'na [ZUMRE_BASKANI]'nın, Yazmanlığa ise [YAZMAN_OGRETMEN]'in oy birliği ile seçilmesine karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[ZUMRE_BASKANI], [UYE_OGRETMEN_1]"
+      }
+    },
+    {
+      "gundemNo": 2,
+      "konu": "Bir önceki zümre toplantısında alınan kararların uygulama sonuçlarının değerlendirilmesi.",
+      "gorusmeler": "Yazman [YAZMAN_OGRETMEN] tarafından bir önceki eğitim-öğretim yılı sene sonu zümre toplantı tutanağı okundu. Alınan kararların büyük ölçüde uygulandığı, özellikle YKS hazırlık sürecindeki deneme sınavlarının düzenli yapıldığı ve öğrenci motivasyonuna olumlu katkı sağladığı belirtildi. Ancak, disiplinlerarası proje çalışmalarının sayısının hedeflenenin altında kaldığı ifade edildi.",
+      "karar": "Bir önceki toplantıda alınan kararların genel olarak uygulandığı tespit edilmiştir. Disiplinlerarası proje çalışmalarının artırılması konusunun bu dönemde ilgili gündem maddesinde yeniden ele alınarak somut adımlar atılmasına karar verilmiştir.",
+      "rolAlan": {
+        "Söz Alan": "[YAZMAN_OGRETMEN], [ZUMRE_BASKANI]"
+      }
+    },
+    {
+      "gundemNo": 3,
+      "konu": "Eğitim ve öğretime ilişkin mevzuattaki güncel düzenlemelerin incelenmesi.",
+      "gorusmeler": "[ZUMRE_BASKANI], Millî Eğitim Bakanlığı tarafından yayımlanan güncel yönetmelikler hakkında bilgi verdi. Özellikle yeni MEB Ölçme ve Değerlendirme Yönetmeliği'nin getirdiği değişiklikler (ortak sınavlar, sınav analizleri, süreç odaklı değerlendirme vb.) üzerinde duruldu. [SOZ_ALAN], yönetmeliğin sınav sayıları ve uygulama esasları ile ilgili maddelerini zümreyle paylaştı. Sosyal Etkinlikler Yönetmeliği'nin proje ve yarışmalara katılım süreçlerine etkileri de müzakere edildi.",
+      "karar": "Tüm zümre öğretmenlerinin, başta MEB Ölçme ve Değerlendirme Yönetmeliği olmak üzere güncel mevzuatı incelemesi ve uygulamalarını bu çerçevede şekillendirmesi kararlaştırılmıştır. Sınav planlaması ve proje değerlendirme süreçlerinin yeni yönetmeliğe tam uyumlu olması sağlanacaktır. Sorumlu: Tüm zümre öğretmenleri | Son Tarih: Sürekli | İzleme: Zümre toplantıları.",
+      "rolAlan": {
+        "Söz Alan": "[ZUMRE_BASKANI], [SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 4,
+      "konu": "Yıllık planların hazırlanması; 'Türkiye Yüzyılı Maarif Modeli' ve okulun şartları dikkate alınarak öğretim programlarının incelenmesi.",
+      "gorusmeler": "[SOZ_ALAN], yeni öğretim programı olan 'Türkiye Yüzyılı Maarif Modeli'nin matematik dersi için getirdiği beceri odaklı yaklaşımı ve programın bütüncül yapısını açıkladı. Yıllık planların bu yeni yaklaşıma uygun olarak, kazanımların yanı sıra becerileri de merkeze alacak şekilde hazırlanması gerektiği vurgulandı. Okulun fiziki imkanları, öğrenci profili ve yerel özelliklerin planlamada dikkate alınması gerektiği belirtildi.",
+      "karar": "Ünitelendirilmiş yıllık planların, 'Türkiye Yüzyılı Maarif Modeli' esaslarına uygun olarak, kazanım ve beceri bütünlüğü gözetilerek zümre tarafından ortaklaşa hazırlanmasına ve en geç 15 Eylül [TARIH]'e kadar okul idaresine teslim edilmesine karar verilmiştir. Sorumlu: Tüm zümre öğretmenleri | Son Tarih: 15 Eylül [TARIH] | İzleme: Zümre Başkanı.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN], [ZUMRE_BASKANI]"
+      }
+    },
+    {
+      "gundemNo": 5,
+      "konu": "Derslerin işlenişinde kullanılacak öğrenci merkezli öğretim yöntem ve tekniklerinin belirlenmesi.",
+      "gorusmeler": "[UYE_OGRETMEN_1], derslerde tekdüzelikten kaçınmak ve kalıcı öğrenmeyi sağlamak amacıyla farklı yöntem ve tekniklerin kullanılmasının önemini belirtti. Özellikle problem çözme, proje tabanlı öğrenme, ters-yüz öğrenme, işbirlikli öğrenme ve keşfederek öğrenme gibi yöntemlerin matematik dersinin doğasına uygun olduğu ifade edildi. Hangi konuların hangi yöntemle işlenmesinin daha verimli olacağı üzerine beyin fırtınası yapıldı.",
+      "karar": "Yıllık planlarda belirtilen konuların özelliklerine göre problem çözme, proje tabanlı öğrenme, keşfederek öğrenme ve işbirlikli öğrenme yöntemlerinin aktif olarak kullanılmasına karar verilmiştir. Her öğretmen, dönemde en az bir üniteyi bu yöntemlerden birini kullanarak işleyecek ve deneyimlerini bir sonraki zümrede paylaşacaktır. Sorumlu: Tüm zümre öğretmenleri | Son Tarih: Dönem boyunca | İzleme: Zümre toplantıları.",
+      "rolAlan": {
+        "Söz Alan": "[UYE_OGRETMEN_1], [UYE_OGRETMEN_2]"
+      }
+    },
+    {
+      "gundemNo": 6,
+      "konu": "Eğitim teknolojileri ve öğretim materyallerinin verimli kullanımının planlanması.",
+      "gorusmeler": "[YAZMAN_OGRETMEN], akıllı tahta, EBA ve ÖBA gibi dijital platformların derslerde daha etkin kullanılması gerektiğini vurguladı. Özellikle GeoGebra ve Desmos gibi dinamik matematik yazılımlarının soyut kavramları somutlaştırmada çok faydalı olduğu belirtildi. Ders kitaplarına ek olarak kullanılacak yardımcı kaynaklar ve materyallerin (geometri tahtası, cebir karoları vb.) ortak bir havuzda toplanması ve paylaşılması önerildi.",
+      "karar": "1) Her sınıf düzeyinde, ilgili konular işlenirken GeoGebra ve Desmos yazılımlarından aktif olarak yararlanılmasına, 2) EBA ve ÖBA'da yer alan konu anlatım videoları ve etkileşimli içeriklerin öğrencilere düzenli olarak ödevlendirilmesine, 3) Zümre tarafından hazırlanan veya temin edilen ek materyallerin dijital bir klasörde arşivlenerek ortak kullanıma açılmasına karar verilmiştir. Sorumlu: Tüm zümre öğretmenleri | Son Tarih: Sürekli | İzleme: Zümre Başkanı.",
+      "rolAlan": {
+        "Söz Alan": "[YAZMAN_OGRETMEN], [UYE_OGRETMEN_1]"
+      }
+    },
+    {
+      "gundemNo": 7,
+      "konu": "Atatürkçülük ile ilgili konuların yıllık planlara ve ders işlenişine entegrasyonu.",
+      "gorusmeler": "[ZUMRE_BASKANI], 2104, 2488 ve 2504 sayılı Tebliğler Dergileri'nde yer alan Atatürkçülük konularının matematik dersiyle ilişkilendirilmesinin önemini hatırlattı. [SOZ_ALAN], Atatürk'ün akılcılığa ve bilime verdiği önemin, matematiksel düşüncenin temeli olduğu vurgusunun derslerde yapılabileceğini belirtti. Örneğin, geometri kitabının yazım sürecindeki rolü veya cumhuriyetin ilk yıllarındaki istatistiki verilerin derslerde kullanılmasının uygun olacağı görüşüldü.",
+      "karar": "Yıllık planlarda, ilgili haftalara ve konulara denk gelecek şekilde Atatürk'ün bilime ve matematiğe bakış açısını yansıtan etkinliklere yer verilmesine, bu kapsamda her dönem en az bir ders saatinin bu konuya ayrılmasına karar verilmiştir. Sorumlu: Tüm zümre öğretmenleri | Son Tarih: Yıllık plan teslim tarihi | İzleme: Yıllık planlar.",
+      "rolAlan": {
+        "Söz Alan": "[ZUMRE_BASKANI], [SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 8,
+      "konu": "Değerler eğitimi, sosyal sorumluluk ve girişimcilik becerilerinin derslere entegrasyonu.",
+      "gorusmeler": "[UYE_OGRETMEN_2], matematik dersinin sadece formüllerden ibaret olmadığını, aynı zamanda sabır, dürüstlük (çözümde), adalet (eşitlik kavramı) gibi değerlerin işlenebileceği bir alan olduğunu ifade etti. Sosyal sorumluluk kapsamında, okulun kaynaklarının (su, elektrik vb.) kullanımıyla ilgili verilerin öğrencilerle birlikte analiz edilip bir 'israf raporu' hazırlanması gibi projelerin girişimcilik ve problem çözme becerilerini geliştireceği belirtildi.",
+      "karar": "1) Matematiksel problemlerde ve proje çalışmalarında 'doğruluk, sabır, adalet' gibi değerlere vurgu yapılmasına, 2) İkinci dönem, öğrencilerin girişimcilik becerilerini desteklemek amacıyla okul genelinde 'Veri Analizi ile Bir Sorunu Çöz' temalı bir proje yarışması düzenlenmesine karar verilmiştir. Sorumlu: [UYE_OGRETMEN_2] ve [YAZMAN_OGRETMEN] | Son Tarih: İkinci dönem | İzleme: Zümre toplantıları.",
+      "rolAlan": {
+        "Söz Alan": "[UYE_OGRETMEN_2], [ZUMRE_BASKANI]"
+      }
+    },
+    {
+      "gundemNo": 9,
+      "konu": "Ölçme ve değerlendirme faaliyetlerinin planlanması: Sınav sayısı, türü, zamanlaması ve ortak sınav takviminin görüşülmesi.",
+      "gorusmeler": "[ZUMRE_BASKANI], MEB Ölçme ve Değerlendirme Yönetmeliği uyarınca sınav planlamasının yapılması gerektiğini belirtti. Her dönem 2 yazılı sınav yapılması, bunlardan birinin il/ilçe veya okul genelinde ortak yapılması hususu görüşüldü. Sınav tarihlerinin öğrencileri yormayacak şekilde okul zümre başkanları kurulunda belirlenecek takvime göre ayarlanmasının önemi vurgulandı.",
+      "karar": "[EGITIM_YILI] Eğitim-Öğretim yılında her dönem için 2 adet yazılı sınav yapılmasına, bu sınavlardan birincisinin ortak yazılı sınav olarak MEB veya okul idaresinin belirleyeceği takvimde, ikincisinin ise zümre tarafından belirlenecek tarihlerde yapılmasına karar verilmiştir. Sınav takvimi taslağının hazırlanarak okul zümre başkanları kuruluna sunulmasından Zümre Başkanı sorumludur. Sorumlu: Zümre Başkanı | Son Tarih: Eylül ayının 3. haftası | İzleme: Okul sınav takvimi.",
+      "rolAlan": {
+        "Söz Alan": "[ZUMRE_BASKANI], [UYE_OGRETMEN_1]"
+      }
+    },
+    {
+      "gundemNo": 10,
+      "konu": "Yazılı sınavlar dışında kullanılacak farklılaştırılmış ölçme araçlarının belirlenmesi.",
+      "gorusmeler": "[SOZ_ALAN], öğrenci başarısını sadece yazılı sınavlarla ölçmenin eksik kalacağını, süreç değerlendirmenin önemini vurguladı. Bu kapsamda performans çalışmaları, proje ödevleri, öğrenci ürün dosyaları (portfolyo) ve dereceli puanlama anahtarlarının (rubrik) kullanılması önerildi. Proje konularının öğrencilerin ilgi ve yeteneklerine göre seçilebilmesi için geniş bir konu havuzu oluşturulması gerektiği belirtildi.",
+      "karar": "Her dönem öğrencilere en az bir performans çalışması veya proje ödevi verilmesine, bu çalışmaların değerlendirilmesinde zümrece hazırlanacak ortak rubriklerin kullanılmasına karar verilmiştir. Proje konuları listesi ve değerlendirme rubrikleri en geç Ekim ayının ilk haftasına kadar hazırlanacaktır. Sorumlu: Tüm zümre öğretmenleri | Son Tarih: Ekim ayının ilk haftası | İzleme: Zümre dosyası.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN], [YAZMAN_OGRETMEN]"
+      }
+    },
+    {
+      "gundemNo": 11,
+      "konu": "Yapılan sınavların analiz edilmesi ve öğrenme eksikliklerinin giderilmesine yönelik çalışmaların planlanması.",
+      "gorusmeler": "[UYE_OGRETMEN_1], her sınav sonrası yapılan madde analizinin, sadece öğrenci başarısını değil, öğretim yöntemlerinin etkililiğini de gösteren önemli bir veri olduğunu belirtti. Analiz sonuçlarına göre, sınıf genelinde zorlanılan kazanımların tespit edilip bu kazanımlara yönelik ek çalışmalar (konu tekrarı, etüt, ek ödev vb.) yapılması gerektiği üzerinde duruldu. Bu sürecin sistematik hale getirilmesi gerektiği vurgulandı.",
+      "karar": "Yapılan her yazılı sınavdan sonraki hafta içinde, zümre öğretmenlerinin bir araya gelerek sınav sonuçlarını ve madde analizlerini değerlendirmesine karar verilmiştir. Analiz sonucunda belirlenen eksik veya yanlış öğrenmelerin giderilmesi için her öğretmen kendi sınıfına özel bir eylem planı hazırlayıp uygulayacaktır. Sorumlu: Tüm zümre öğretmenleri | Son Tarih: Sınavları takip eden hafta | İzleme: Zümre toplantıları.",
+      "rolAlan": {
+        "Söz Alan": "[UYE_OGRETMEN_1], [ZUMRE_BASKANI]"
+      }
+    },
+    {
+      "gundemNo": 12,
+      "konu": "Özel eğitim ihtiyacı olan öğrenciler için BEP doğrultusunda yapılacak uyarlamaların ve destekleme-yetiştirme kurslarının planlanması.",
+      "gorusmeler": "[ZUMRE_BASKANI], okuldaki BEP'li öğrencilerle ilgili rehberlik servisinden alınan bilgileri paylaştı. Bu öğrencilerin matematik dersindeki kazanımlara ulaşmaları için yapılacak yöntem, materyal ve ölçme-değerlendirme uyarlamaları görüşüldü. Ayrıca, akademik desteğe ihtiyaç duyan diğer öğrenciler için okul idaresi ile koordineli olarak destekleme ve yetiştirme kurslarının (DYK) planlanması ve bu kurslarda görev alacak öğretmenlerin belirlenmesi konusu ele alındı.",
+      "karar": "1) BEP'li öğrencilerin Bireyselleştirilmiş Eğitim Programları doğrultusunda, ders içi etkinliklerde, ödevlerde ve sınavlarda gerekli uyarlamaların (ek süre, farklı soru tipi, somut materyal kullanımı vb.) yapılmasına, 2) Okul idaresinin açacağı DYK'lara zümre olarak aktif katılım sağlanmasına ve kurs içeriklerinin temel kazanımları pekiştirecek şekilde planlanmasına karar verilmiştir. Sorumlu: İlgili ders öğretmenleri | Son Tarih: Sürekli | İzleme: BEP İzleme ve Değerlendirme Toplantıları.",
+      "rolAlan": {
+        "Söz Alan": "[ZUMRE_BASKANI], [UYE_OGRETMEN_2]"
+      }
+    },
+    {
+      "gundemNo": 13,
+      "konu": "Okul rehberlik servisi ve diğer zümrelerle işbirliği esaslarının belirlenmesi.",
+      "gorusmeler": "[YAZMAN_OGRETMEN], özellikle Fizik ve Kimya zümreleri ile matematiksel modelleme, formül yorumlama ve problem çözme konularında ortak çalışmalar yapılabileceğini belirtti. Rehberlik servisi ile 'sınav kaygısı', 'verimli ders çalışma' ve 'hedef belirleme' konularında işbirliği yapılarak seminerler düzenlenmesi önerildi.",
+      "karar": "1) Fizik ve Kimya zümreleriyle en az bir ortak proje veya etkinlik yapılması için I. dönemin ikinci ayında bir toplantı organize edilmesine, 2) 12. sınıf öğrencilerine yönelik 'Sınav Kaygısı ve Motivasyon' konulu seminer için okul rehberlik servisi ile işbirliği yapılmasına karar verilmiştir. Sorumlu: Zümre Başkanı | Son Tarih: Kasım ayı | İzleme: Zümre toplantıları.",
+      "rolAlan": {
+        "Söz Alan": "[YAZMAN_OGRETMEN], [SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 14,
+      "konu": "Okul-aile işbirliği ve veli toplantılarına ilişkin planlamaların yapılması.",
+      "gorusmeler": "[UYE_OGRETMEN_1], velilerin eğitim sürecine dahil edilmesinin öğrenci başarısını artırdığını belirtti. Okulun genel veli toplantıları dışında, zümre olarak özellikle 12. sınıf velilerine yönelik YKS süreci hakkında bilgilendirme toplantısı yapılmasının faydalı olacağı görüşüldü. Velilerle iletişimin sadece toplantılarla sınırlı kalmaması, düzenli bilgilendirme notları veya e-okul mesajları ile desteklenmesi gerektiği ifade edildi.",
+      "karar": "Okul idaresinin belirleyeceği genel veli toplantılarına ek olarak, I. dönemin Kasım ayı içinde 12. sınıf velilerine yönelik 'YKS Hazırlık Süreci ve Veli Desteği' konulu bir bilgilendirme toplantısı yapılmasına karar verilmiştir. Sorumlu: 12. sınıf ders öğretmenleri | Son Tarih: Kasım ayı | İzleme: Zümre Başkanı.",
+      "rolAlan": {
+        "Söz Alan": "[UYE_OGRETMEN_1], [ZUMRE_BASKANI]"
+      }
+    },
+    {
+      "gundemNo": 15,
+      "konu": "İş sağlığı ve güvenliği kapsamında dersliklerde alınacak tedbirlerin görüşülmesi.",
+      "gorusmeler": "[ZUMRE_BASKANI], dersliklerde öğrencilerin ve öğretmenlerin güvenliğini tehdit edebilecek unsurların (elektrik prizleri, pencereler, akıllı tahta kabloları vb.) düzenli olarak kontrol edilmesi gerektiğini hatırlattı. Acil durumlarda (deprem, yangın vb.) uygulanacak prosedürlerin öğrencilerle yılın başında paylaşılmasının önemi vurgulandı.",
+      "karar": "Dersliklerdeki akıllı tahta, priz gibi elektrikli aletlerin kullanımı ve kablo düzeni konusunda öğrencilerin uyarılmasına ve tespit edilen risklerin derhal okul idaresine bildirilmesine karar verilmiştir. Sorumlu: Tüm zümre öğretmenleri | Son Tarih: Sürekli | İzleme: Okul İdaresi.",
+      "rolAlan": {
+        "Söz Alan": "[ZUMRE_BASKANI]"
+      }
+    },
+    {
+      "gundemNo": 16,
+      "konu": "YKS'ye yönelik hazırlık stratejilerinin planlanması.",
+      "gorusmeler": "[SOZ_ALAN], 11. ve 12. sınıf öğrencilerinin YKS başarısını artırmaya yönelik stratejilerin belirlenmesinin önemini vurguladı. Okul genelinde yapılacak deneme sınavlarının takviminin diğer zümrelerle birlikte planlanması, sonuçların detaylı analiz edilerek eksik kazanımlara yönelik etütler düzenlenmesi önerildi. Özellikle yeni nesil, beceri temelli ve uzun metinli soruların çözümü için özel çalışmalar yapılması gerektiği belirtildi.",
+      "karar": "1) Her ayın son haftası 11. ve 12. sınıflara yönelik YKS deneme sınavı yapılmasına, 2) Sınav sonuçlarının sınavı takip eden 5 iş günü içinde zümre tarafından analiz edilerek eksik kazanımların belirlenmesine, 3) Belirlenen eksik kazanımlara yönelik her zümre öğretmeninin sorumlu olduğu sınıflarda etüt planı oluşturarak okul idaresine sunmasına karar verilmiştir. Sorumlu: Tüm zümre öğretmenleri | Son Tarih: Dönem boyunca sürekli | İzleme: Zümre toplantıları.",
+      "rolAlan": {
+        "Söz Alan": "[SOZ_ALAN], [UYE_OGRETMEN_2]"
+      }
+    },
+    {
+      "gundemNo": 17,
+      "konu": "Problem çözme ve matematiksel modelleme becerilerini geliştirmeye yönelik disiplinlerarası senaryoların ve etkinliklerin tasarlanması.",
+      "gorusmeler": "[UYE_OGRETMEN_1], öğrencilerin matematiği günlük hayatla ilişkilendirmelerini sağlamak için gerçek hayat problemlerini içeren modelleme etkinliklerinin önemine değindi. Fizik dersindeki bir hareket problemi veya Coğrafya dersindeki bir ölçek hesaplamasının matematiksel olarak modellenmesi gibi disiplinlerarası senaryoların tasarlanabileceği ifade edildi.",
+      "karar": "Her sınıf düzeyinde, yılda en az iki kez, diğer derslerle (Fizik, Kimya, Coğrafya, Ekonomi vb.) ilişkili, gerçek hayat problemlerini içeren matematiksel modelleme etkinliği yapılmasına karar verilmiştir. İlk etkinlik için konu belirleme ve planlama çalışması Kasım ayında yapılacaktır. Sorumlu: Tüm zümre öğretmenleri | Son Tarih: Kasım ayı (planlama için) | İzleme: Zümre toplantıları.",
+      "rolAlan": {
+        "Söz Alan": "[UYE_OGRETMEN_1], [YAZMAN_OGRETMEN]"
+      }
+    },
+    {
+      "gundemNo": 18,
+      "konu": "Dijital öğretim araçlarının (GeoGebra, Desmos vb.) ve somut materyallerin derslere entegrasyonu.",
+      "gorusmeler": "[YAZMAN_OGRETMEN], özellikle geometri, fonksiyon dönüşümleri ve trigonometri gibi konularda GeoGebra ve Desmos kullanımının öğrencilerin konuyu görselleştirmesine büyük katkı sağladığını belirtti. Bu araçların kullanımına yönelik kısa bir hizmet içi eğitim veya atölye çalışması düzenlenmesinin faydalı olacağı önerildi.",
+      "karar": "Fonksiyonlar, trigonometri ve analitik geometri ünitelerinin işlenişinde GeoGebra ve Desmos yazılımlarının aktif olarak kullanılmasına, bu araçları etkin kullanamayan öğretmenlere yönelik zümre içinde [YAZMAN_OGRETMEN] tarafından Ekim ayında bir atölye çalışması yapılmasına karar verilmiştir. Sorumlu: Tüm zümre öğretmenleri (kullanım), [YAZMAN_OGRETMEN] (atölye) | Son Tarih: Ekim ayı (atölye için) | İzleme: Ders denetimleri.",
+      "rolAlan": {
+        "Söz Alan": "[YAZMAN_OGRETMEN], [ZUMRE_BASKANI]"
+      }
+    },
+    {
+      "gundemNo": 19,
+      "konu": "Öğrencilerin öğrenmede zorlandığı soyut ve karmaşık konularda kullanılacak farklılaştırılmış öğretim yaklaşımlarının belirlenmesi.",
+      "gorusmeler": "[UYE_OGRETMEN_2], limit, türev, integral ve olasılık gibi konuların lise matematiğinin en zorlayıcı konuları olduğunu ifade etti. Bu konularda klasik anlatım yerine, keşfetmeye dayalı etkinlikler, teknoloji destekli sunumlar ve oyunlaştırma gibi farklı yaklaşımların denenmesi gerektiğini söyledi. Başarılı öğrencilerin akran öğreticiliği yapabileceği grup çalışmaları düzenlenmesi de önerildi.",
+      "karar": "Limit, türev ve integral konuları işlenirken, kavramsal anlamayı kolaylaştırmak amacıyla her konunun girişinde teknoloji destekli (animasyon, simülasyon) en az bir etkinlik yapılmasına, zorlanan öğrenciler için ise konular bittikten sonra pekiştirme amaçlı ek çalışma kağıtları hazırlanarak etüt saatlerinde çözülmesine karar verilmiştir. Sorumlu: İlgili sınıf öğretmenleri | Son Tarih: İlgili ünite zamanları | İzleme: Zümre toplantıları.",
+      "rolAlan": {
+        "Söz Alan": "[UYE_OGRETMEN_2], [UYE_OGRETMEN_1]"
+      }
+    },
+    {
+      "gundemNo": 20,
+      "konu": "Matematik olimpiyatları ve proje yarışmalarına (TÜBİTAK vb.) katılımın teşvik edilmesi ve danışmanlık süreçlerinin planlanması.",
+      "gorusmeler": "[ZUMRE_BASKANI], yetenekli öğrencilerin potansiyellerini ortaya çıkarmak ve onları ileri düzey çalışmalara yönlendirmek için proje yarışmaları ve olimpiyatların önemli bir fırsat olduğunu belirtti. TÜBİTAK Lise Öğrencileri Araştırma Projeleri Yarışması ve Ulusal Matematik Olimpiyatları hakkında bilgi verdi. Gönüllü öğretmenlerin danışmanlığında öğrenci grupları oluşturulması ve bu sürecin planlanması görüşüldü.",
+      "karar": "Matematik alanında yetenekli ve istekli öğrencilerin tespit edilerek TÜBİTAK proje yarışmalarına ve matematik olimpiyatlarına hazırlanmaları için teşvik edilmesine, bu süreçte [UYE_OGRETMEN_1] ve [UYE_OGRETMEN_2]'nin danışmanlık yapmasına karar verilmiştir. Süreçle ilgili ilk bilgilendirme toplantısı Ekim ayının ikinci haftasında yapılacaktır. Sorumlu: [UYE_OGRETMEN_1], [UYE_OGRETMEN_2] | Son Tarih: Ekim ayının ikinci haftası | İzleme: Proje ilerleme raporları.",
+      "rolAlan": {
+        "Söz Alan": "[ZUMRE_BASKANI], [SOZ_ALAN]"
+      }
+    },
+    {
+      "gundemNo": 21,
+      "konu": "Dilek ve temenniler, kapanış.",
+      "gorusmeler": "[ZUMRE_BASKANI], toplantının verimli geçtiğini belirterek tüm katılımcılara teşekkür etti. Diğer öğretmenler de yeni eğitim-öğretim yılının başarılı ve huzurlu geçmesi yönündeki dileklerini ilettiler. Başka söz alan olmayınca toplantıya son verildi.",
+      "karar": null,
+      "rolAlan": {
+        "Söz Alan": "[ZUMRE_BASKANI], [YAZMAN_OGRETMEN], [UYE_OGRETMEN_1], [UYE_OGRETMEN_2]"
+      }
+    }
+  ],
+  "imzaAlanlari": {
+    "katilimcilar": [
+      {
+        "adiSoyadi": "[ZUMRE_BASKANI]",
+        "unvani": "Matematik Öğretmeni",
+        "rolu": "Zümre Başkanı"
+      },
+      {
+        "adiSoyadi": "[YAZMAN_OGRETMEN]",
+        "unvani": "Matematik Öğretmeni",
+        "rolu": "Yazman"
+      },
+      {
+        "adiSoyadi": "[UYE_OGRETMEN_1]",
+        "unvani": "Matematik Öğretmeni",
+        "rolu": "Üye"
+      },
+      {
+        "adiSoyadi": "[UYE_OGRETMEN_2]",
+        "unvani": "Matematik Öğretmeni",
+        "rolu": "Üye"
+      }
+    ]
+  },
+  "onay": {
+    "ifade": "Uygundur.",
+    "tarih": "[ONAY_TARIHI]",
+    "adiSoyadi": "[OKUL_MUDURU_ADI_SOYADI]",
+    "unvan": "Okul Müdürü"
+  }
+}
