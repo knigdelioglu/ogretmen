@@ -2,7 +2,7 @@
   "belgeTuru": "Zümre Toplantı Tutanağı",
   "kurumAdi": "[OKUL_ADI] MÜDÜRLÜĞÜ",
   "egitimYili": "[EGITIM_YILI] EĞİTİM-ÖĞRETİM YILI",
-  "zumreAdi": "Türk Dili ve Edebiyatı",
+  "zumreAdi": "[SECILI_BRANS]",
   "toplantiBilgileri": {
     "tarih": "[TARIH]",
     "saat": "[SAAT]",
@@ -172,31 +172,31 @@
     }
   ],
   "imzaAlanlari": {
-    "baslik": "Türk Dili ve Edebiyatı Zümre Öğretmenleri",
+    "baslik": "[SECILI_BRANS] Zümre Öğretmenleri",
     "katilimcilar": [
       {
         "adiSoyadi": "[ZUMRE_BASKANI]",
-        "unvani": "Türk Dili ve Edebiyatı Öğretmeni",
+        "unvani": "[SECILI_BRANS] Öğretmeni",
         "rolu": "Zümre Başkanı"
       },
       {
         "adiSoyadi": "[YAZMAN_OGRETMEN]",
-        "unvani": "Türk Dili ve Edebiyatı Öğretmeni",
+        "unvani": "[SECILI_BRANS] Öğretmeni",
         "rolu": "Yazman"
       },
       {
         "adiSoyadi": "[UYE_OGRETMEN_1]",
-        "unvani": "Türk Dili ve Edebiyatı Öğretmeni",
+        "unvani": "[SECILI_BRANS] Öğretmeni",
         "rolu": "Üye"
       },
       {
         "adiSoyadi": "[UYE_OGRETMEN_2]",
-        "unvani": "Türk Dili ve Edebiyatı Öğretmeni",
+        "unvani": "[SECILI_BRANS] Öğretmeni",
         "rolu": "Üye"
       },
       {
         "adiSoyadi": "[UYE_OGRETMEN_3]",
-        "unvani": "Türk Dili ve Edebiyatı Öğretmeni",
+        "unvani": "[SECILI_BRANS] Öğretmeni",
         "rolu": "Üye"
       }
     ]
