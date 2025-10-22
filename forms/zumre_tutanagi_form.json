@@ -1,0 +1,72 @@
+{
+  "formTitle": "Zümre Tutanağı Bilgileri",
+  "fields": [
+    {
+      "key": "okulAdi",
+      "label": "Okul Adı",
+      "type": "text",
+      "required": true,
+      "placeholder": "Örn: Atatürk Anadolu Lisesi"
+    },
+    {
+      "key": "egitimYili",
+      "label": "Eğitim Öğretim Yılı",
+      "type": "text",
+      "required": true,
+      "placeholder": "Örn: 2025-2026"
+    },
+    {
+      "key": "brans",
+      "label": "Zümre / Branş",
+      "type": "text",
+      "required": true,
+      "placeholder": "Örn: Matematik Zümresi"
+    },
+    {
+      "key": "toplantiTarihi",
+      "label": "Toplantı Tarihi",
+      "type": "date",
+      "required": true
+    },
+    {
+      "key": "toplantiNo",
+      "label": "Toplantı No",
+      "type": "number",
+      "required": true,
+      "placeholder": "Örn: 1"
+    },
+    {
+      "key": "katilimcilar",
+      "label": "Katılımcılar (İsimleri virgülle ayırınız)",
+      "type": "textarea",
+      "required": true,
+      "placeholder": "Ahmet Yılmaz, Ayşe Kaya, ..."
+    },
+    {
+      "key": "alinanKararlar",
+      "label": "Genel Değerlendirme ve Alınan Kararlar",
+      "type": "textarea",
+      "required": true,
+      "placeholder": "Toplantı sonucunda alınan kararları buraya yazınız..."
+    }
+  ]
+}
+```**Önemli Not:** Dikkat ederseniz bu formda `gundemMaddeleri`'ni sormuyoruz. Çünkü onlar zaten `agendas.json` dosyasından otomatik olarak gelecek. Uygulamanızın mantığı, bu formdan gelen veriler ile `agendas.json`'dan gelen verileri birleştirip `template.html`'e göndermelidir.
+
+---
+
+### Nasıl Kullanılır?
+
+1.  **GitHub Reponuzu Düzenleyin:** GitHub'daki `knigdelioglu/ogretmen` reponuzda şu dosya yapısını oluşturun:
+    *   `/index.json` (Yukarıdaki `index.json` içeriğini yapıştırın)
+    *   `/templates/zumre_tutanagi/template.html` (Yukarıdaki `template.html` içeriğini yapıştırın)
+    *   `/forms/zumre_tutanagi_form.json` (Yukarıdaki `zumre_tutanagi_form.json` içeriğini yapıştırın)
+
+2.  **Uygulama Mantığını Kontrol Edin:** Uygulamanızın `DocumentManager` veya ilgili bölümünün aşağıdaki mantığı işlediğinden emin olun:
+    *   Kullanıcı zümre tutanağı oluşturmayı seçtiğinde, `formDefinitionUrl`'den formu yükler ve gösterir.
+    *   Kullanıcı formu doldurup gönderdiğinde, form verilerini bir `Map` olarak alır.
+    *   **Aynı anda** `agendas.json` dosyasını da `GithubTemplateService` ile çeker.
+    *   Formdan gelen veriler ile `agendas.json`'dan gelen gündem maddeleri listesini tek bir veri paketinde birleştirir. (`katilimcilar` listesini `imzalar` için de kullanır).
+    *   Bu birleşik veri paketini ve `template.html` içeriğini `PdfService`'e gönderir.
+
+Bu dosyalarla birlikte, sisteminiz artık hem dinamik gündem maddelerini destekleyen hem de son kullanıcıya profesyonel görünümlü bir PDF sunan, uçtan uca çalışan bir yapıya sahip olacaktır.
