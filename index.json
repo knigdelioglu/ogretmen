@@ -1,0 +1,11 @@
+[
+  {
+    "id": "zumre_tutanagi_v1",
+    "name": "Standart Zümre Toplantı Tutanağı",
+    "description": "Yıl içi zümre toplantıları için MEB uyumlu standart şablon.",
+    "type": "zumre_tutanagi",
+    "branch": "Genel",
+    "fileUrl": "https://raw.githubusercontent.com/knigdelioglu/ogretmen/main/templates/zumre_tutanagi/template.html",
+    "formDefinitionUrl": "https://raw.githubusercontent.com/knigdelioglu/ogretmen/main/forms/zumre_tutanagi_form.json"
+  }
+]
