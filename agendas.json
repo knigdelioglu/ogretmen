@@ -1,6 +1,14 @@
 {
   "gundem_ortak_acilis": {
     "displayName": "Açılış, Yoklama ve Toplantı Divanının Oluşturulması",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "guide_text": "Toplantının açılışı yapılır, katılımcıların yoklaması alınır ve Yönerge uyarınca toplantıyı yönetecek bir başkan ile tutanakları yazacak bir yazman seçilir. Zümre başkanı iki yıl süreyle seçilir.",
     "default_text": "Yapılan oylama sonucunda {{egitim_yili_ve_sonrasi}} Eğitim-Öğretim yılları için Zümre Öğretmenler Kurulu Başkanlığı'na {{rastgele_zumre_ogretmeni}}'nın, bu toplantının yazmanlığına ise {{rastgele_zumre_ogretmeni}}'nın oy birliği ile seçilmesine karar verilmiştir.",
     "default_gorusmeler": [
@@ -16,6 +24,16 @@
   },
   "gundem_ortak_onceki_kararlar": {
     "displayName": "Bir Önceki Zümre Toplantısı Kararlarının İncelenmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi",
+      "sene_sonu"
+    ],
     "guide_text": "Bir önceki toplantıda alınan kararlar okunur, uygulama sonuçları değerlendirilir. Başarılı uygulamaların sürdürülmesi, aksayan yönlerin ise nedenleri analiz edilerek yeniden planlanması hedeflenir.",
     "default_text": "Geçen eğitim-öğretim yılında alınan kararların büyük ölçüde uygulandığı tespit edilmiştir. 'Veli Akademileri' projesinin, içeriği güncellenerek bu yıl da devam ettirilmesine ve 'Yazar Buluşmaları' hedefi için yerel paydaşlarla işbirliği imkanlarının araştırılmasına karar verilmiştir.",
     "default_gorusmeler": [
@@ -35,6 +53,14 @@
   },
   "gundem_ortak_mevzuat": {
     "displayName": "MEB Eğitim Kurulları ve Zümreleri Yönergesi ve İlgili Mevzuatın Değerlendirilmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "guide_text": "Zümre faaliyetlerinin hukuki çerçevesini oluşturan güncel mevzuat (Yönergeler, Ölçme ve Değerlendirme Yönetmeliği vb.) hakkında bilgilendirme yapılır ve planlamaların bu çerçeveye uygunluğu sağlanır.",
     "default_text": "Tüm zümrelerin, yıllık planlarını ve ölçme-değerlendirme faaliyetlerini güncel MEB yönetmeliklerine tam uyumlu olarak hazırlamasına karar verildi. Ortak sınavlarla ilgili planlamanın, Bakanlık kılavuzu yayınlandıktan sonra zümre başkanları kurulunda netleştirilerek duyurulması kararlaştırıldı.",
     "default_gorusmeler": [
@@ -54,6 +80,14 @@
   },
   "gundem_ortak_yillik_plan": {
     "displayName": "Yıllık ve Günlük Ders Planlarının Hazırlanmasında Uygulama Birliğinin Sağlanması",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "guide_text": "Aynı dersi okutan öğretmenler arasında müfredatın uygulanmasında paralellik sağlamak amacıyla standart bir yıllık plan şablonu kullanımı ve koordinasyon toplantıları planlanır.",
     "default_text": "Yıllık planların, belirlenen standart şablona uygun olarak 15 Eylül 2024 tarihine kadar hazırlanarak okul idaresine sunulmasına ve e-Zümre modülüne yüklenmesine karar verildi. Aynı dersi okutan öğretmenlerin, haftalık zümre saatlerinde bir araya gelerek uygulama birliğini sağlamaları kararlaştırıldı.",
     "default_gorusmeler": [
@@ -73,6 +107,15 @@
   },
   "gundem_ortak_olcme_degerlendirme": {
     "displayName": "Ölçme ve Değerlendirme Süreçlerinin Planlanması",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "guide_text": "Ortak sınavlar, sınav türleri, tarihleri ve içerikleri planlanır. Ölçme araçlarının sadece bilgiyi değil, beceriyi de ölçmesi hedeflenir.",
     "default_text": "I. dönemde yapılacak yazılı sınav sayılarının ve türlerinin zümreler tarafından belirlenerek okul idaresine bildirilmesine karar verildi. Belirlenen derslerdeki birinci sınavların ortak yapılması ve okul geneli sınav takviminin oluşturularak duyurulması kararlaştırıldı.",
     "default_gorusmeler": [
@@ -92,6 +135,15 @@
   },
   "gundem_ortak_isbirligi": {
     "displayName": "Zümreler Arası İşbirliği ve Disiplinlerarası Yaklaşım",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "guide_text": "Farklı disiplinlerin kesişim noktaları belirlenerek ortak temalar, projeler veya etkinlikler planlanır. Amaç, öğrencilere bütüncül bir bakış açısı kazandırmaktır.",
     "default_text": "I. dönem için okul genelinde ana temanın 'Su Okuryazarlığı ve Sürdürülebilirlik' olarak belirlenmesine karar verildi. Her zümrenin, bu temayla ilgili kendi dersi kapsamında en az bir etkinlik planlayarak zümre başkanları kurulunda sunması kararlaştırıldı.",
     "default_gorusmeler": [
@@ -111,6 +163,14 @@
   },
   "gundem_ortak_bep": {
     "displayName": "Özel Eğitim İhtiyacı Olan Öğrenciler İçin Destek Mekanizmalarının Planlanması (BEP)",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "guide_text": "Kaynaştırma/bütünleştirme eğitimi alan öğrenciler için BEP hazırlanması, ders içi uyarlama ve farklılaştırma stratejileri üzerine planlama yapılır.",
     "default_text": "RAM raporu bulunan tüm öğrenciler için BEP biriminin toplanarak bireyselleştirilmiş eğitim programlarının hazırlanmasına karar verildi. İlgili ders öğretmenlerinin, hazırlanan BEP'leri ders planlarına entegre etmeleri ve bu öğrencilerin gelişimlerini düzenli olarak paylaşmaları kararlaştırıldı.",
     "default_gorusmeler": [
@@ -130,6 +190,14 @@
   },
   "gundem_ortak_ataturkculuk": {
     "displayName": "Atatürkçülük Konularının Öğretim Programlarına Entegrasyonu",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "guide_text": "Atatürk ilke ve inkılaplarının, derslerin doğal akışı içinde, ilgili kazanımlarla ilişkilendirilerek ve güncel olaylarla bağlantı kurularak nasıl işleneceği planlanır.",
     "default_text": "Tüm zümrelerin, yıllık planlarında Atatürkçülük ile ilgili kazanımları ilgili ünite ve konularla doğrudan ilişkilendirerek belirtmelerine karar verildi. Ders işlenişi sırasında, konuların içeriğine uygun olarak Atatürk'ün hayatından, düşüncelerinden ve inkılaplarından örneklere yer verilmesine özen gösterilmesi kararlaştırıldı.",
     "default_gorusmeler": [
@@ -149,6 +217,15 @@
   },
   "gundem_ortak_sosyal_etkinlik": {
     "displayName": "Sosyal, Kültürel, Sportif Faaliyetler ve Projelerin Planlanması",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "guide_text": "Öğrencilerin sosyal, duyuşsal ve fiziksel gelişimlerini desteklemek amacıyla okul içi ve dışı etkinlikler (bilim fuarı, spor turnuvaları, geziler, TÜBİTAK/Teknofest projeleri) planlanır.",
     "default_text": "Nisan ayında okul genelinde bir 'Bilim ve Sanat Şenliği' düzenlenmesine, her zümrenin bu şenliğe en az bir proje ile katılmasına karar verildi. Öğrencilerin TÜBİTAK ve Teknofest projelerine katılımını teşvik etmek amacıyla danışman öğretmenlere gerekli desteğin sağlanması kararlaştırıldı.",
     "default_gorusmeler": [
@@ -168,6 +245,16 @@
   },
   "gundem_ortak_isg": {
     "displayName": "İş Sağlığı ve Güvenliği Tedbirleri",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi",
+      "sene_sonu"
+    ],
     "guide_text": "Özellikle laboratuvar, atöle, spor salonu gibi potansiyel risk taşıyan alanlarda alınması gereken önlemler ve acil durum prosedürleri gözden geçirilir.",
     "default_text": "Riskli alanlara sahip zümrelerin, kendi kullanım alanlarına yönelik risk analizlerini güncelleyerek okulun İSG kuruluna teslim etmelerine karar verildi. Tüm öğretmenlerin, ders başlangıcında sınıfların havalandırılmasını sağlamaları ve acil çıkışların açık tutulması konusunda hassasiyet göstermeleri kararlaştırıldı.",
     "default_gorusmeler": [
@@ -187,8 +274,12 @@
   },
   "gundem_ilkokul_okuryazarlik": {
     "displayName": "Temel Okuryazarlık ve Matematiksel Becerilerin Güçlendirilmesi",
-    "level": [
+    "applicable_levels": [
       "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
     ],
     "guide_text": "Okuma-yazma öğretim süreci, akıcı okuma ve anlama sorunları yaşayan öğrencilerin tespiti ve bu öğrencilere yönelik destek mekanizmaları planlanır.",
     "default_text": "Okuma-yazma sürecinde ve akıcı okumada güçlük çeken öğrenciler için rehber öğretmen koordinasyonunda küçük gruplu destek eğitimleri düzenlenmesine karar verildi. Matematik derslerinde soyut kavramların öğretiminde oyunlaştırma ve somut materyal kullanımına ağırlık verilmesi kararlaştırıldı.",
@@ -209,8 +300,12 @@
   },
   "gundem_ilkokul_oyun_temelli_ogrenme": {
     "displayName": "Oyun Temelli Öğrenme ve Serbest Etkinlikler",
-    "level": [
+    "applicable_levels": [
       "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
     ],
     "guide_text": "Oyunun, bilişsel, sosyal ve duygusal gelişimi destekleyen bir pedagojik araç olarak kullanılması hedeflenir. 'Serbest Etkinlikler' dersi için aylık temalar belirlenir.",
     "default_text": "Serbest Etkinlikler dersi için sınıf zümreleri tarafından aylık bir 'Tematik Etkinlik Planı' (örnek: Ekim-Zeka Oyunları, Kasım-Drama) oluşturulmasına ve bu planın velilerle de paylaşılarak evde oyun kültürünün desteklenmesine karar verildi.",
@@ -231,8 +326,12 @@
   },
   "gundem_ilkokul_okuma_kulturu": {
     "displayName": "Okuma Kültürünün Geliştirilmesi ve Veli İşbirliği",
-    "level": [
+    "applicable_levels": [
       "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
     ],
     "guide_text": "Öğrencilere kitap sevgisi kazandırmak için sınıf kitaplıklarının zenginleştirilmesi, okuma etkinlikleri ve veli katılımını artıracak projeler planlanır.",
     "default_text": "Her sınıfın 'Sınıf Kitaplık Defteri' tutarak okunan kitapların takibini yapmasına karar verildi. I. dönem içinde velilerin de katılımıyla okul genelinde bir 'Okuma Şenliği' ve 'Kitap Bağış Kampanyası' düzenlenmesi kararlaştırıldı.",
@@ -253,8 +352,12 @@
   },
   "gundem_ilkokul_davranis_yonetimi": {
     "displayName": "Davranış Yönetimi ve Olumlu Okul İklimi Oluşturma",
-    "level": [
+    "applicable_levels": [
       "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
     ],
     "guide_text": "Okul genelinde tutarlı, adil ve pozitif bir disiplin anlayışı benimsenir. Olumlu davranışları pekiştirme ve olumsuz davranışları önlemeye yönelik proaktif çalışmalar planlanır.",
     "default_text": "Okul genelinde ortak bir pozitif davranış pekiştirme sistemi (örneğin, 'Davranış Panosu') uygulamasına geçilmesine karar verildi. Uyum ve davranış sorunları gösteren öğrencilerin, sınıf rehber öğretmeni tarafından velileri ve rehberlik servisiyle işbirliği içinde yakından takip edilmesi kararlaştırıldı.",
@@ -275,8 +378,11 @@
   },
   "gundem_ortaokul_lgs": {
     "displayName": "Liselere Geçiş Sistemi (LGS) Hazırlık Süreci",
-    "level": [
+    "applicable_levels": [
       "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
     ],
     "guide_text": "8. sınıf öğrencilerinin LGS'ye akademik ve psikolojik olarak hazırlanması için deneme sınavları, telafi programları ve rehberlik faaliyetleri planlanır.",
     "default_text": "8. sınıflar için eylül ayından itibaren ayda en az bir LGS deneme sınavı yapılmasına karar verildi. Her deneme sınavı sonrası, zümre öğretmenlerinin sınav sonuçlarını kazanım bazında analiz ederek eksik kazanımlar için DYK'larda telafi programları uygulaması kararlaştırıldı.",
@@ -297,8 +403,12 @@
   },
   "gundem_ortaokul_proje_tabanli_ogrenme": {
     "displayName": "Proje Tabanlı Öğrenme ve Performans Görevleri",
-    "level": [
+    "applicable_levels": [
       "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
     ],
     "guide_text": "Öğrencilerin araştırma, sorgulama ve üretme süreçlerine aktif katılımını sağlamak için proje konuları belirlenir ve değerlendirme için standart ölçekler (rubrik) hazırlanır.",
     "default_text": "Her öğrencinin I. dönemde en az bir proje veya performans görevi almasına karar verildi. Bu görevlerin değerlendirilmesinde, okul genelinde standartlaştırılmış ve süreç odaklı bir dereceli puanlama anahtarının (rubrik) kullanılmasına karar verildi.",
@@ -319,8 +429,11 @@
   },
   "gundem_ortaokul_dijital_vatandaslik": {
     "displayName": "Teknoloji Kullanımı ve Dijital Vatandaşlık",
-    "level": [
+    "applicable_levels": [
       "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
     ],
     "guide_text": "EBA gibi dijital platformların derslerde etkin kullanımı ve öğrencilere dijital dünyada güvenli, sorumlu ve etik davranma bilinci kazandırılması hedeflenir.",
     "default_text": "Öğretmenlerin, derslerinde EBA ve diğer dijital eğitim platformlarını aktif olarak kullanmalarının teşvik edilmesine karar verildi. Öğrencilerin dijital okuryazarlık ve güvenlik becerilerini artırmak amacıyla tüm sınıflara yönelik 'Dijital Vatandaşlık' seminerleri düzenlenmesi kararlaştırıldı.",
@@ -341,8 +454,11 @@
   },
   "gundem_ortaokul_ergenlik": {
     "displayName": "Rehberlik Servisi İşbirliğiyle Ergenlik Dönemi Sorunları",
-    "level": [
+    "applicable_levels": [
       "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
     ],
     "guide_text": "Ergenlik dönemine özgü zorluklar (akran baskısı, kimlik arayışı vb.) ve risk grubundaki öğrencilerin tespiti ve desteklenmesi için öğretmen-rehberlik servisi işbirliği planlanır.",
     "default_text": "Rehberlik servisi tarafından hazırlanan 'Ergenlik Dönemi Özellikleri' konulu bilgilendirmenin tüm öğretmenlere yapılmasına karar verildi. Veli toplantılarında bu konunun özel bir gündem maddesi olarak ele alınması ve velilere yönelik bir seminer düzenlenmesi kararlaştırıldı.",
@@ -363,8 +479,11 @@
   },
   "gundem_lise_yks": {
     "displayName": "Yükseköğretim Kurumları Sınavı (YKS) Hazırlık Stratejileri ve Alan Seçimi",
-    "level": [
+    "applicable_levels": [
       "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
     ],
     "guide_text": "YKS hazırlık sürecinin planlanması, deneme sınavları takvimi ve 9-10. sınıf öğrencilerinin doğru alan seçimi yapmalarına yönelik rehberlik faaliyetleri ele alınır.",
     "default_text": "11. ve 12. sınıflar için hafta sonu DYK'larının tamamen YKS odaklı olarak planlanmasına ve periyodik deneme sınavları ile desteklenmesine karar verildi. 10. sınıfın ikinci döneminde, öğrenci ve velilerin katılımıyla bir 'Alan Tanıtım Günü' düzenlenmesi kararlaştırıldı.",
@@ -385,8 +504,11 @@
   },
   "gundem_lise_kariyer_planlama": {
     "displayName": "Kariyer Planlama ve Mesleki Rehberlik Faaliyetleri",
-    "level": [
+    "applicable_levels": [
       "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
     ],
     "guide_text": "Öğrencilerin farklı kariyer yollarını tanımaları için 'Kariyer Günleri', üniversite gezileri ve mezun-öğrenci buluşmaları gibi etkinlikler planlanır.",
     "default_text": "I. ve II. dönemlerde en az üçer farklı meslek grubundan konuşmacının katılacağı 'Kariyer Günleri' etkinlikleri düzenlenmesine karar verildi. 11. ve 12. sınıf öğrencileri için en az iki farklı üniversite kampüs gezisi planlanması kararlaştırıldı.",
@@ -407,8 +529,12 @@
   },
   "gundem_lise_devamsizlik": {
     "displayName": "Öğrenci Devamsızlığının İzlenmesi ve Önlenmesine Yönelik Tedbirler",
-    "level": [
+    "applicable_levels": [
       "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
     ],
     "guide_text": "Özellikle 12. sınıflarda artan devamsızlığın nedenleri analiz edilir ve devamsızlığı önlemeye yönelik erken uyarı ve destek mekanizmaları planlanır.",
     "default_text": "Mazeretsiz devamsızlığı 5 günü aşan öğrencilerin sınıf rehber öğretmenleri tarafından velileriyle ivedilikle iletişime geçilmesine karar verildi. Devamsızlığı alışkanlık haline getiren öğrencilerle, sınıf rehber öğretmeni ve okul rehber öğretmeninin ortak bir görüşme yaparak eylem planı oluşturması kararlaştırıldı.",
@@ -429,8 +555,12 @@
   },
   "gundem_lise_sosyal_sorumluluk": {
     "displayName": "Sosyal Sorumluluk Projeleri ve Topluma Hizmet Uygulamaları",
-    "level": [
+    "applicable_levels": [
       "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
     ],
     "guide_text": "Öğrencilerin topluma duyarlı ve sorumlu vatandaşlar olarak yetişmelerini sağlamak amacıyla, empati, işbirliği ve liderlik becerilerini geliştirecek sosyal sorumluluk projeleri planlanır.",
     "default_text": "Okul genelinde 'Topluma Hizmet Kulübü'nün aktif hale getirilerek, öğrenci liderliğinde yürütülecek sosyal sorumluluk projelerinin planlanması kararlaştırıldı. I. dönem için 'Atık Pil ve Elektronik Atık Toplama Kampanyası'nın başlatılması kararlaştırıldı.",
@@ -451,6 +581,14 @@
   },
   "gundem_tymm_deger_entegrasyonu": {
     "displayName": "Öğretim Programlarının 'Erdem-Değer-Eylem Çerçevesi' ile Bütünleştirilmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "guide_text": "Yıllık planlar, sadece kazanımların sıralandığı bir liste olmaktan çıkarılıp, her ünitede 'Adalet', 'Saygı', 'Sorumluluk' gibi hangi çatı değerlerin ve alt değerlerin (örn: Tasarruf, Çalışkanlık) ön plana çıkarılacağını gösteren stratejik bir yol haritasına dönüştürülmelidir.",
     "default_text": "Yıllık planlar incelendi. Her ünite/tema için 'Türkiye Yüzyılı Maarif Modeli Erdem-Değer-Eylem Çerçevesi' ile uyumlu, dersin doğasına uygun değerler (örn: Adalet, Saygı, Sorumluluk) belirlendi ve bu değerlerin hangi etkinliklerle işleneceği kararlaştırıldı.",
     "default_gorusmeler": [
@@ -470,6 +608,15 @@
   },
   "gundem_tymm_beceri_cercevesi": {
     "displayName": "'Beceriler Çerçevesi' Odaklı Etkinlik Planlaması",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "guide_text": "Modelin 'Beceriler Çerçevesi'nde belirtilen becerileri geliştirecek proje tabanlı öğrenme, probleme dayalı öğrenme gibi öğrenci merkezli etkinliklerin nasıl planlanacağı kararlaştırılmalıdır.",
     "default_text": "Öğrencilerin sadece bilgi edinmesi değil, yetkin bireyler olması hedefi doğrultusunda, ders planlarında 'Beceriler Çerçevesi'ni (eleştirel düşünme, problem çözme, işbirliği vb.) geliştirecek öğrenci merkezli etkinliklere (proje, münazara vb.) yer verilmesine karar verildi.",
     "default_gorusmeler": [
@@ -489,6 +636,15 @@
   },
   "gundem_tymm_alternatif_olcme": {
     "displayName": "Süreç Odaklı ve Alternatif Ölçme Araçlarının Geliştirilmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "guide_text": "Geleneksel yazılı sınavların yanı sıra, öğrencilerin edindikleri beceri ve değerleri de gözlemlemeye olanak tanıyan alternatif ölçme araçları (portfolyolar, proje değerlendirme rubrikleri, gözlem formları) geliştirilmeli ve standartları belirlenmelidir.",
     "default_text": "Süreç odaklı değerlendirmeyi sağlamak amacıyla, geleneksel sınavlara ek olarak portfolyo, dereceli puanlama anahtarı (rubrik) ile değerlendirilecek projeler, gözlem formları ve öz/akran değerlendirme araçlarının kullanılmasına {{zümre_adi}} olarak karar verildi.",
     "default_gorusmeler": [
@@ -508,6 +664,15 @@
   },
   "gundem_tymm_ortak_sinav_tasarimi": {
     "displayName": "Ortak Sınavların TYMM Hedeflerine Göre Yeniden Tasarlanması",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "guide_text": "Ortak sınavların yapısı, modelin hedefleriyle uyumlu hale getirilmelidir. Sadece çoktan seçmeli sorular yerine, öğrencilerin analiz, sentez ve yorumlama becerilerini ölçen soru türlerine de yer verilmelidir.",
     "default_text": "Yapılacak ortak sınavlarda, sadece bilgiyi değil, aynı zamanda öğrencilerin analiz, yorumlama ve problem çözme gibi üst düzey düşünme becerilerini de ölçen açık uçlu sorulara, vaka analizlerine ve beceri temelli soru türlerine yer verilmesine karar verildi.",
     "default_gorusmeler": [
@@ -527,6 +692,16 @@
   },
   "gundem_tymm_sinav_analizi_iyilestirme": {
     "displayName": "Kapsamlı Sınav Analizleri ve İyileştirici Tedbirler",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi",
+      "sene_sonu"
+    ],
     "guide_text": "Sınav analizleri, öğrencilerin hangi bilgi, beceri veya değer alanında eksiklik yaşadığını ortaya koyacak şekilde derinleştirilmelidir. Bu analizlere göre iyileştirici tedbirler planlanmalıdır.",
     "default_text": "Yapılan sınavlar sonrasında, sadece konu bazlı değil, aynı zamanda beceri ve değer kazanımları bazında da detaylı sınav analizleri yapılmasına karar verildi. Analiz sonuçlarına göre tespit edilen eksiklikleri gidermek için bireysel veya grup düzeyinde iyileştirici tedbirler (etüt, farklılaştırılmış ödev vb.) planlanacaktır.",
     "default_gorusmeler": [
@@ -546,6 +721,15 @@
   },
   "gundem_tymm_isbirligi_deger_eylem_plani": {
     "displayName": "Disiplinlerarası Ortak Değer ve Beceriler İçin Eylem Planı",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "guide_text": "Okul zümre başkanları kurulu aracılığıyla, belirlenen çatı değerlerin farklı branşlarda eş zamanlı nasıl işleneceğine dair ortak bir takvim ve eylem planı oluşturulmalıdır.",
     "default_text": "Okul geneli 'Erdem-Değer-Eylem' planıyla uyumlu olarak, bu dönem/ay için belirlenen 'Adalet' değerinin, diğer zümrelerle (örn: Matematik zümresi ile oran-orantı, Sosyal Bilgiler zümresi ile hukuk devleti) işbirliği içinde, eş zamanlı olarak nasıl ele alınacağı {{kurul_baskani}} başkanlığında planlandı.",
     "default_gorusmeler": [
@@ -565,6 +749,15 @@
   },
   "gundem_tymm_ortak_proje_etkinlik": {
     "displayName": "Okul Geneli Ortak Proje ve Tematik Etkinlikler",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "guide_text": "Diğer zümrelerle işbirliği içinde okul genelinde yürütülecek ortak projeler, tematik günler veya haftalar (örn: Bilim ve Sorumluluk Haftası) planlanmalıdır.",
     "default_text": "Diğer zümrelerle işbirliği yapılarak, öğrencilerin farklı derslerde öğrendiklerini bütünleştirecekleri 'Sürdürülebilir Yaşam' konulu tematik bir hafta veya okul geneli ortak bir proje (örn: Bilim Fuarı) planlanması kararlaştırıldı.",
     "default_gorusmeler": [
@@ -584,6 +777,14 @@
   },
   "gundem_tymm_pdr_entegrasyon": {
     "displayName": "Okul Rehberlik Programı Hedeflerinin Derslere Entegrasyonu",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "guide_text": "Tüm zümreler, okulun PDR Programı'nın hedeflerini öğrenmeli ve kendi derslerinin içeriğini bu hedefleri destekleyecek şekilde nasıl planlayacaklarını karara bağlamalıdır.",
     "default_text": "Okul PDR servisi ile işbirliği yapılarak, okulun rehberlik programı hedefleri (örn: sınav kaygısı, akran zorbalığı) incelendi. Bu hedefleri desteklemek amacıyla ders planlarına entegre edilecek etkinlikler (örn: grup çalışmaları, vaka analizleri) {{rastgele_zumre_ogretmeni}} tarafından belirlendi.",
     "default_gorusmeler": [
@@ -603,6 +804,14 @@
   },
   "gundem_tymm_etki_degerlendirmesi": {
     "displayName": "TYMM Kapsamında Alınan Kararların Etkisinin Değerlendirilmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_sonu"
+    ],
     "guide_text": "Dönem sonu toplantılarında, TYMM kapsamında planlanan etkinliklerin etkililiği değerlendirilmelidir. Bu değerlendirme için çok yönlü veriler kullanılmalıdır.",
     "default_text": "Dönem boyunca TYMM kapsamında uygulanan değer ve beceri odaklı etkinliklerin (projeler, disiplinlerarası çalışmalar vb.) etkililiği değerlendirildi. Öğrenci başarıları, proje çıktıları ve öğrenci geri bildirimleri ışığında gelecek dönem için iyileştirme alanları tespit edildi.",
     "default_gorusmeler": [
@@ -622,6 +831,15 @@
   },
   "gundem_tymm_hizmetici_egitim_ihtiyaci": {
     "displayName": "Hizmet İçi Eğitim İhtiyaçlarının Belirlenmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "sene_sonu"
+    ],
     "guide_text": "Zümreler, modelin uygulanmasında karşılaştıkları zorlukları tespit ederek hizmet içi eğitim taleplerini belirlemeli ve idareye bildirmelidir.",
     "default_text": "TYMM'nin etkin uygulanması sürecinde {{zümre_adi}} olarak ihtiyaç duyulan mesleki gelişim alanları (örn: beceri temelli soru yazma, proje tabanlı öğrenme) tespit edildi ve bu konularda hizmet içi eğitim talebinin okul idaresine iletilmesine karar verildi.",
     "default_gorusmeler": [
@@ -641,6 +859,15 @@
   },
   "gundem_tymm_mesleki_paylasim": {
     "displayName": "Okul İçi Mesleki Paylaşım ve Ders Gözlemi Faaliyetleri",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "guide_text": "Zümreler, kendi içlerinde 'Ders Gözlemi', 'Atölye Çalışmaları' veya 'Kitap/Makale Okuma Grupları' gibi mesleki gelişim faaliyetleri organize etmelidir.",
     "default_text": "Mesleki gelişimi ve iyi uygulamaların paylaşımını desteklemek amacıyla, {{zümre_adi}} içinde 'ders gözlemi' (akran gözlemi) uygulamalarının ve 'iyi uygulama paylaşımı' atölyelerinin {{rastgele_zumre_ogretmeni}} sorumluluğunda planlanması kararlaştırıldı.",
     "default_gorusmeler": [
@@ -660,6 +887,12 @@
   },
   "gundem_brans_sinif_hayat_bilgisi": {
     "displayName": "Hayat Bilgisi Dersinin Diğer Derslerle Bütünleştirilmesi (İlkokul)",
+    "applicable_levels": [
+      "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "sinif_ogretmenligi"
     ],
@@ -682,6 +915,12 @@
   },
   "gundem_brans_sinif_oyun_temelli_deger": {
     "displayName": "Oyun Temelli Değerler Eğitimi Stratejileri (İlkokul)",
+    "applicable_levels": [
+      "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "sinif_ogretmenligi"
     ],
@@ -704,6 +943,12 @@
   },
   "gundem_brans_sinif_gecis_sureci": {
     "displayName": "Okul Öncesinden İlkokula Geçiş Sürecinin Yönetimi (1. Sınıflar)",
+    "applicable_levels": [
+      "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "sinif_ogretmenligi_1_sinif"
     ],
@@ -726,6 +971,14 @@
   },
   "gundem_brans_ing_deger_odakli_icerik": {
     "displayName": "Değer Odaklı İçerik Seçimi ve Kullanımı (Yabancı Dil)",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "yabanci_dil"
     ],
@@ -748,6 +1001,15 @@
   },
   "gundem_brans_ing_proje_deger": {
     "displayName": "Proje Tabanlı Değer Pekiştirme (Yabancı Dil)",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "branches": [
       "yabanci_dil"
     ],
@@ -770,6 +1032,14 @@
   },
   "gundem_brans_dkab_somutlastirma": {
     "displayName": "Soyut Ahlaki Kavramların Somutlaştırılması (DKAB)",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "din_kulturu_ahlak_bilgisi"
     ],
@@ -792,6 +1062,15 @@
   },
   "gundem_brans_dkab_sosyal_sorumluluk": {
     "displayName": "Değerlerin Eyleme Dönüştürülmesi (Sosyal Sorumluluk Projeleri - DKAB)",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "branches": [
       "din_kulturu_ahlak_bilgisi"
     ],
@@ -814,6 +1093,15 @@
   },
   "gundem_brans_gorsel_deger_tema": {
     "displayName": "Değer Odaklı Temaların Planlanması (Görsel Sanatlar)",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "branches": [
       "gorsel_sanatlar"
     ],
@@ -836,6 +1124,15 @@
   },
   "gundem_brans_muzik_deger_tema": {
     "displayName": "Değer Odaklı Temaların Planlanması (Müzik)",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "branches": [
       "muzik"
     ],
@@ -858,6 +1155,15 @@
   },
   "gundem_brans_beden_deger_tema": {
     "displayName": "Değer Odaklı Oyun ve Etkinliklerin Planlanması (Beden Eğitimi)",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "branches": [
       "beden_egitimi"
     ],
@@ -880,6 +1186,12 @@
   },
   "gundem_brans_turkce_deger_metin_analizi": {
     "displayName": "Değer Odaklı Metin Analizi Yöntemleri (Ortaokul Türkçe)",
+    "applicable_levels": [
+      "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "turkce"
     ],
@@ -902,6 +1214,13 @@
   },
   "gundem_brans_turkce_munazara": {
     "displayName": "Argümantasyon ve Münazara Kültürünün Geliştirilmesi (Ortaokul Türkçe)",
+    "applicable_levels": [
+      "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "branches": [
       "turkce"
     ],
@@ -924,6 +1243,13 @@
   },
   "gundem_brans_sosyal_etkin_vatandaslik": {
     "displayName": "'Etkin Vatandaşlık' ve Sosyal Sorumluluk Projeleri (Sosyal Bilgiler)",
+    "applicable_levels": [
+      "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "branches": [
       "sosyal_bilgiler"
     ],
@@ -946,6 +1272,12 @@
   },
   "gundem_brans_sosyal_kultur_miras": {
     "displayName": "'Kültür ve Miras' Alanında Değerlerin İşlenmesi (Sosyal Bilgiler)",
+    "applicable_levels": [
+      "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "sosyal_bilgiler"
     ],
@@ -968,6 +1300,12 @@
   },
   "gundem_brans_inkilap_deger_eksenli": {
     "displayName": "Millî Mücadele'nin Değerler Ekseninde Anlatımı (T.C. İnkılap Tarihi)",
+    "applicable_levels": [
+      "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "tc_inkilap_tarihi"
     ],
@@ -990,6 +1328,14 @@
   },
   "gundem_brans_mat_surec_degerleri": {
     "displayName": "Öğrenme Sürecinde Değerlerin Vurgulanması (Matematik)",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "matematik"
     ],
@@ -1012,6 +1358,15 @@
   },
   "gundem_brans_mat_hayat_deger_iliskisi": {
     "displayName": "Gerçek Hayat Problemleriyle Değerlerin İlişkilendirilmesi (Matematik)",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "branches": [
       "matematik"
     ],
@@ -1034,6 +1389,12 @@
   },
   "gundem_brans_fen_cevre_bilinci_deger": {
     "displayName": "Yaşam ve Çevre Bilincinin Değerlerle Bütünleştirilmesi (Fen Bilimleri)",
+    "applicable_levels": [
+      "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "fen_bilimleri"
     ],
@@ -1056,6 +1417,12 @@
   },
   "gundem_brans_fen_bilimsel_etik": {
     "displayName": "Bilimsel Süreçte Etik İlkelerin Vurgulanması (Fen Bilimleri)",
+    "applicable_levels": [
+      "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "fen_bilimleri"
     ],
@@ -1078,6 +1445,13 @@
   },
   "gundem_brans_bilisim_dijital_vatandaslik": {
     "displayName": "'Dijital Vatandaşlık' ve Etik Değerlerin İşlenmesi (Bilişim)",
+    "applicable_levels": [
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "bilisim_teknolojileri_yazilim"
     ],
@@ -1100,6 +1474,14 @@
   },
   "gundem_brans_bilisim_iyilik_icin_kodlama": {
     "displayName": "'İyilik İçin Kodlama' (Sosyal İnovasyon) Projeleri (Bilişim)",
+    "applicable_levels": [
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "branches": [
       "bilisim_teknolojileri_yazilim"
     ],
@@ -1122,6 +1504,12 @@
   },
   "gundem_brans_edebiyat_erdemli_insan_analizi": {
     "displayName": "Edebi Metinler ve 'Yetkin ve Erdemli İnsan' Profili Analizi (Edebiyat - Lise)",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "turk_dili_edebiyati"
     ],
@@ -1144,6 +1532,12 @@
   },
   "gundem_brans_tarih_medeniyet_analizi": {
     "displayName": "Karşılaştırmalı Medeniyet Analizi ve Evrensel Değerler (Tarih - Lise)",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "tarih"
     ],
@@ -1166,6 +1560,12 @@
   },
   "gundem_brans_cografya_mekan_bilinci_deger": {
     "displayName": "Mekân Bilinci ve Millî Değerlerin Bütünleştirilmesi (Coğrafya - Lise)",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "cografya"
     ],
@@ -1188,6 +1588,13 @@
   },
   "gundem_brans_fen_lise_etik_tartismalar": {
     "displayName": "Bilimsel Gelişmelerin Etik Boyutlarının Tartışılması (Lise Fen)",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
     "branches": [
       "fizik",
       "kimya",
@@ -1212,6 +1619,12 @@
   },
   "gundem_brans_biyoloji_felsefi_denge": {
     "displayName": "Müfredatın Bilimsel Bütünlüğü ve Felsefi Yaklaşım Arasındaki Denge (Biyoloji)",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "biyoloji"
     ],
@@ -1234,6 +1647,12 @@
   },
   "gundem_brans_felsefe_tymm_analizi": {
     "displayName": "TYMM'nin Temel Kavramlarının Felsefi Analizi (Felsefe)",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "felsefe_grubu"
     ],
@@ -1256,6 +1675,12 @@
   },
   "gundem_brans_felsefe_psiko_sosyo_tymm": {
     "displayName": "Psikoloji ve Sosyoloji Derslerinin TYMM İlkeleriyle İlişkilendirilmesi (Felsefe Grubu)",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
     "branches": [
       "felsefe_grubu"
     ],
