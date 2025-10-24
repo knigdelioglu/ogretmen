@@ -2121,6 +2121,675 @@
       "related_agendas": []
     }
   },
+  "gundem_ortak_ogrenci_basari_analizi": {
+    "displayName": "Öğrenci Başarı, Devam-Devamsızlık ve Disiplin Durumlarının İncelenmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi",
+      "sene_sonu"
+    ],
+    "guide_text": "Öğrencilerin akademik başarı düzeyleri, devam-devamsızlık durumları ve disiplin kayıtları incelenir. Risk grubundaki öğrenciler için destek ve önleme stratejileri geliştirilir.",
+    "default_text": "Öğrencilerin akademik başarı, devam ve disiplin durumları gözden geçirildi. Başarısız veya devamsızlık sorunu yaşayan öğrenciler için destekleme ve yetiştirme kursları ile rehberlik desteği sağlanmasına karar verildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Öğrencilerimizin genel durumunu değerlendirmeliyiz. Başarı, devam ve davranış açısından hangi öğrencilerimiz risk altında?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Geçen yılın verilerine göre bazı öğrencilerimizde hem akademik başarısızlık hem de devamsızlık sorunu var. Bu öğrencileri öncelikle tespit edip rehberlik servisiyle işbirliği yapmalıyız."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Disiplin sorunları yaşayan öğrenciler için de sınıf rehber öğretmenleriyle koordineli bir eylem planı oluşturmalıyız. Erken müdahale çok önemli."
+      }
+    ]
+  },
+  "gundem_ortak_okul_sagligi_guvenlik": {
+    "displayName": "Okul Sağlığı, Güvenliği ve Temizliği",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "guide_text": "Okulun fiziksel koşulları, hijyen standartları, acil durum planları ve öğrenci sağlık taramaları hakkında bilgilendirme yapılır. Öğretmenlerin bu konulardaki sorumlulukları hatırlatılır.",
+    "default_text": "Okul sağlığı ve güvenliği konusunda öğretmenlerin sorumlulukları hatırlatıldı. Sınıfların düzenli havalandırılması, hijyen kurallarına uyulması ve acil durum tatbikatlarına katılım konusunda hassasiyet gösterilmesine karar verildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Okul sağlığı ve güvenliği konusunda hepimizin sorumlulukları var. Bu yıl hangi tedbirleri alacağız?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Öncelikle sınıflarımızı düzenli olarak havalandırmalı ve hijyen kurallarını öğrencilere sürekli hatırlatmalıyız. Özellikle küçük yaş gruplarında bu çok önemli."
+      },
+      {
+        "konusmaci": "{{okul_muduru}}",
+        "gorus": "Acil durum tatbikatlarına da ciddiyetle katılmalıyız. Yangın ve deprem tatbikatlarında öğrencilerimizi disiplinli ve sakin bir şekilde tahliye etmek için düzenli pratik yapacağız."
+      }
+    ]
+  },
+  "gundem_ortak_rehberlik_hizmetleri": {
+    "displayName": "Rehberlik Hizmetleri ve Okul-Aile İşbirliği",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "guide_text": "Okulun psikolojik danışmanlık ve rehberlik hizmetlerinin tanıtımı yapılır. Veli toplantıları, veli görüşmeleri ve okul-aile iletişim kanallarının işleyişi planlanır.",
+    "default_text": "Rehberlik servisinin yıllık çalışma planı hakkında bilgilendirme yapıldı. Veli toplantılarının tarihleri belirlendi ve öğretmenlerin velilerle düzenli iletişim kurmasının önemine vurgu yapıldı.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Rehberlik hizmetlerimiz ve veli işbirliği konusunda bu yıl nasıl bir yol izleyeceğiz?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Rehberlik servisiyle yakın işbirliği içinde olmalıyız. Özellikle sorun yaşayan öğrencileri hemen yönlendirmeli ve takibini yapmalıyız."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Velilerle iletişimimizi de güçlendirmeliyiz. Sadece sorun olduğunda değil, düzenli olarak öğrencinin gelişimi hakkında bilgi paylaşmalıyız. Veli toplantılarına katılımı artırmak için velileri önceden bilgilendirmeliyiz."
+      }
+    ]
+  },
+  "gundem_ortak_ogrenci_haklari": {
+    "displayName": "Öğrenci Hakları ve Sorumlulukları Bilgilendirmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "guide_text": "Öğrencilerin eğitim hakkı, ifade özgürlüğü, ayrımcılığa uğramama ve güvenli bir ortamda öğrenme gibi temel haklarının öğretmenlere hatırlatılması ve uygulamada bu hakların korunması için alınacak tedbirler ele alınır.",
+    "default_text": "Öğrencilerin temel hakları ve sorumlulukları konusunda öğretmenlere bilgilendirme yapıldı. Tüm öğrencilere eşit ve adil davranılması, ayrımcılığın önlenmesi ve öğrencilerin görüşlerinin dinlenmesi konusunda hassasiyet gösterilmesine karar verildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{okul_muduru}}",
+        "gorus": "Öğrenci hakları ve sorumlulukları konusunu her yıl hatırlatmamız gerekiyor. Eğitimde adalet ve eşitlik ilkelerine bağlı kalmalıyız."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Her öğrenciye eşit fırsat sunmalı, hiçbir öğrenciyi cinsiyet, etnik köken veya ekonomik durum nedeniyle ayrımcılığa tabi tutmamalıyız."
+      },
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Ayrıca öğrencilerin görüşlerini ifade etme hakkına saygı göstermeli, onları dinlemeli ve sınıf içi kararları mümkün olduğunca demokratik bir ortamda almalıyız."
+      }
+    ]
+  },
+  "gundem_ilkokul_okuma_yazma_seviye_tespit": {
+    "displayName": "Okuma-Yazma Öğretimi ve Seviye Tespiti",
+    "applicable_levels": [
+      "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "branches": [
+      "sinif_ogretmenligi"
+    ],
+    "guide_text": "Eğitim-öğretim yılı başında öğrencilerin okuma-yazma düzeylerinin tespiti yapılır. İlk okuma-yazma öğretiminde kullanılacak yöntemler belirlenir ve zorluk yaşayan öğrenciler için destek programları planlanır.",
+    "default_text": "1. sınıf öğrencileri için okuma-yazma öğretimi takvimi hazırlandı. Diğer sınıf düzeylerinde öğrencilerin okuma-yazma seviyelerinin tespit edilmesi ve zorluk yaşayan öğrenciler için ek destek programları uygulanmasına karar verildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "İlkokul için en temel konu okuma-yazma öğretimi. 1. sınıflarda hangi yöntemi kullanacağız ve diğer sınıflarda seviye tespitini nasıl yapacağız?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "1. sınıflarda ses temelli cümle yöntemiyle başlayacağız. Hızlı ve etkili sonuç veriyor. Ancak her çocuğun temposu farklı, bireysel takip çok önemli."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "2, 3 ve 4. sınıflarda yıl başında okuma hızı ve anlama testleri yapmalıyız. Geride kalan öğrenciler için hemen destek programı başlatmalıyız."
+      }
+    ]
+  },
+  "gundem_ilkokul_unitelendirilmis_plan": {
+    "displayName": "Ünitelendirilmiş Yıllık Plan ve Günlük Planların Hazırlanması",
+    "applicable_levels": [
+      "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "branches": [
+      "sinif_ogretmenligi"
+    ],
+    "guide_text": "İlkokulda derslerin disiplinler arası bir yaklaşımla planlanması için ünitelendirilmiş yıllık planlar hazırlanır. Günlük ders planlarının formatı ve içeriği standardize edilir.",
+    "default_text": "Ünitelendirilmiş yıllık planların sınıf düzeylerine göre hazırlanmasına ve günlük planların belirlenen standart formata uygun olarak düzenlenmesine karar verildi. Planların 20 Eylül tarihine kadar tamamlanması kararlaştırıldı.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Ünitelendirilmiş planlama yaklaşımını bu yıl daha sistemli uygulamalıyız. Her sınıf seviyesi için standart bir format kullanmalıyız."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Evet, özellikle Hayat Bilgisi, Türkçe ve Matematik derslerinin aynı tema etrafında işlenmesi öğrenmeyi pekiştiriyor. Ortak temalar belirleyelim."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Günlük planları da standartlaştıralım. Herkes aynı formatta plan yapmalı ki idarenin kontrolü de kolaylaşsın. 20 Eylül'e kadar tamamlayalım."
+      }
+    ]
+  },
+  "gundem_ilkokul_belirlenen_gun_hafta": {
+    "displayName": "Belirli Gün ve Haftaların İşlenişi ve Organizasyonu",
+    "applicable_levels": [
+      "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "branches": [
+      "sinif_ogretmenligi"
+    ],
+    "guide_text": "29 Ekim Cumhuriyet Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, 10 Kasım Atatürk'ü Anma gibi önemli gün ve haftaların sınıf düzeyine uygun olarak işlenmesi ve etkinliklerinin planlanması.",
+    "default_text": "Milli ve resmi bayramlar ile belirli gün ve haftaların (29 Ekim, 23 Nisan, 10 Kasım, Kitap Haftası vb.) sınıf seviyelerine uygun etkinliklerle kutlanmasına karar verildi. Her sınıfın en az bir özel günde okul geneli programa katkı sunması planlandı.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Bu yıl belirli gün ve haftaları nasıl planlayacağız? Her sınıf hangi etkinliği üstlenecek?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "29 Ekim ve 23 Nisan için mutlaka şiir, şarkı ve tiyatro gösterileri hazırlamalıyız. Öğrenciler bu tür etkinlikleri çok seviyor."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "10 Kasım için de Atatürk'ü tanıtan resim ve kompozisyon çalışmaları yapabiliriz. Kitap Haftası'nda ise sınıflar arası okuma yarışması düzenleyebiliriz."
+      }
+    ]
+  },
+  "gundem_ilkokul_veli_toplantilari": {
+    "displayName": "Veli Toplantıları ve İletişim Stratejileri",
+    "applicable_levels": [
+      "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "branches": [
+      "sinif_ogretmenligi"
+    ],
+    "guide_text": "Velilerle etkili iletişim kurmak ve işbirliği sağlamak amacıyla veli toplantılarının içeriği, sıklığı ve iletişim kanalları (telefon, e-posta, WhatsApp grupları) planlanır.",
+    "default_text": "Dönemde en az iki veli toplantısı düzenlenmesine ve velilerle düzenli bireysel görüşmeler yapılmasına karar verildi. Veli iletişiminde saygılı, yapıcı ve çözüm odaklı bir dil kullanılmasına özen gösterilecektir.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Velilerle iletişimimiz çocukların başarısı için çok önemli. Toplantıları nasıl daha etkili hale getirebiliriz?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Toplantılarda sadece başarısız öğrencilerden bahsetmek yerine, tüm velilere genel bilgilendirme yapmalı ve çocuklarını evde nasıl destekleyecekleri konusunda önerilerde bulunmalıyız."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Bireysel görüşmelerde ise her öğrencinin güçlü yönlerini de vurgulamalı, velileri motive etmeliyiz. WhatsApp gruplarını sadece duyuru için kullanmalı, şikayet platformu haline getirmemeliyiz."
+      }
+    ]
+  },
+  "gundem_ilkokul_sinif_duzeni": {
+    "displayName": "Sınıf Düzeni ve Öğrenme Ortamının Hazırlanması",
+    "applicable_levels": [
+      "ilkokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "branches": [
+      "sinif_ogretmenligi"
+    ],
+    "guide_text": "Sınıfların fiziksel düzenlemesi, panoların hazırlanması, öğrenme merkezlerinin oluşturulması ve materyallerin erişilebilirliği konusunda standartlar belirlenir.",
+    "default_text": "Sınıfların öğrenme ortamı olarak düzenlenmesine, panoların eğitici içeriklerle donatılmasına ve öğrencilerin rahatça ulaşabileceği kitap köşeleri oluşturulmasına karar verildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Sınıflarımızı öğrencilerin daha rahat öğrenebileceği ortamlar haline nasıl getirebiliriz?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Öncelikle panoları sadece süs için değil, gerçekten eğitici içerikler için kullanmalıyız. Alfabe, sayılar, harita gibi temel bilgiler her zaman görünür olmalı."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Bir de sınıf kitaplıkları oluşturmalıyız. Öğrencilerin rahatça ulaşabileceği, seviyelerine uygun kitapların bulunduğu bir köşe her sınıfta olmalı."
+      }
+    ]
+  },
+  "gundem_ortaokul_yillik_konu_dagilimi": {
+    "displayName": "Yıllık Konu Dağılımı ve Ünite Planlarının Gözden Geçirilmesi",
+    "applicable_levels": [
+      "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "guide_text": "Her branşın müfredat kazanımlarının yıl içine dengeli dağıtılması, ünitelerin işlenme sırası ve süreleri belirlenir. Ara tatil ve sınavların konu dağılımına etkisi hesaplanır.",
+    "default_text": "Her branşın yıllık konu dağılımı ve ünite planları incelendi. Kazanımların dönemlere dengeli şekilde dağıtılmasına ve sınav öncesi tekrar süreleri bırakılmasına karar verildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Yıllık planlarımızı hazırlarken konuların dengeli dağıtılmasına dikkat etmeliyiz. Bir döneme fazla konu yüklemeyelim."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Evet, özellikle sınav öncesi tekrar için zaman bırakmalıyız. Son iki hafta yeni konu işlemek yerine pekiştirme yapmalıyız."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Ara tatilleri de hesaba katarak planlama yapmalıyız. Tatil öncesi önemli konuları bitirmeye çalışmak yerine, tatil sonrasına bırakmak daha mantıklı."
+      }
+    ]
+  },
+  "gundem_ortaokul_ogretim_yontem_teknik": {
+    "displayName": "Öğretim Yöntem ve Tekniklerinin Belirlenmesi",
+    "applicable_levels": [
+      "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "guide_text": "Ders işleyişinde kullanılacak öğretim yöntemleri (anlatım, soru-cevap, tartışma, grup çalışması, proje, deney vb.) ve aktif öğrenme teknikleri branşlara göre belirlenir.",
+    "default_text": "Ders işleyişinde sadece düz anlatım yerine, öğrenci merkezli öğretim yöntemlerine (grup çalışması, proje, deney, tartışma) ağırlık verilmesine karar verildi. Her öğretmenin en az iki farklı aktif öğrenme tekniği kullanması hedeflendi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Öğrencilerin derse katılımını artırmak için hangi öğretim yöntemlerini kullanabiliriz?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Sürekli anlatım yerine grup çalışmaları yaptırabiliriz. Öğrenciler birlikte problem çözdüklerinde hem eğleniyorlar hem öğreniyorlar."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Drama ve rol yapma teknikleri de çok etkili. Özellikle Sosyal Bilgiler ve Türkçe derslerinde tarihi olayları veya metinleri canlandırmak kalıcı öğrenme sağlıyor."
+      }
+    ]
+  },
+  "gundem_ortaokul_ders_disi_etkinlik": {
+    "displayName": "Ders Dışı Etkinlikler ve Kulüp Çalışmaları",
+    "applicable_levels": [
+      "ortaokul"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "guide_text": "Öğrencilerin ilgi ve yeteneklerini geliştirmek amacıyla açılacak kulüpler (bilim, spor, sanat, edebiyat vb.), sosyal etkinlikler ve yarışmalara katılım planlanır.",
+    "default_text": "Öğrencilerin ilgi alanlarına yönelik en az beş farklı kulüp (bilim, spor, müzik, tiyatro, kodlama) açılmasına karar verildi. Kulüp etkinlikleri için haftalık program hazırlandı ve öğrenci katılımının teşvik edilmesi kararlaştırıldı.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Bu yıl hangi kulüpleri açacağız ve öğrencileri bu etkinliklere nasıl motive edebiliriz?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Bilim kulübü kesinlikle olmalı. Deney yapmak isteyen çok öğrenci var. Bir de robotik kodlama kulübü açarsak çok ilgi görür."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Spor ve sanat kulüpleri de önemli. Satranç, tiyatro ve müzik kulüpleri açabiliriz. Öğrencilere yıl başında tanıtım yapıp seçim yaptıralım."
+      }
+    ]
+  },
+  "gundem_lise_konu_unite_planlama": {
+    "displayName": "Derslerin Yıllık Konu/Ünite Planlarının İncelenmesi",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "guide_text": "Lise düzeyinde her branşın kazanımlarının yıllık takvime yerleştirilmesi, YKS müfredatı ile uyumu ve sınav hazırlık dönemlerinin planlanması yapılır.",
+    "default_text": "Tüm branşların yıllık konu ve ünite planları müfredata uygunluk açısından incelendi. Özellikle 12. sınıflarda YKS hazırlık sürecine uygun olarak Mart ayından sonra tekrar ve soru çözümüne ağırlık verilmesine karar verildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Lise müfredatı yoğun ve YKS odaklı. Konu planlamasını nasıl yapmalıyız ki hem müfredatı bitirelim hem öğrenciler sınava hazır olsun?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "9, 10 ve 11. sınıflarda temelleri sağlam atmalıyız. Konuları aceleye getirmeden, anlaşılana kadar işlemeliyiz. 12. sınıfta ise Mart'tan sonra tamamen tekrar ve soru çözümüne yönelmeliyiz."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "YKS'de çıkan kazanımları önceliklendirmeliyiz. Hangi konulardan ne sıklıkta soru çıktığını analiz edip ona göre ağırlık vermeliyiz."
+      }
+    ]
+  },
+  "gundem_lise_ortak_sinav_proje": {
+    "displayName": "Ortak Sınavlar, Proje ve Performans Ödevlerinin Planlanması",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi",
+      "donem_2_basi"
+    ],
+    "guide_text": "Liselerde yapılacak ortak sınavların tarihleri, kapsamı, soru dağılımı ve proje/performans ödevlerinin konuları, teslim tarihleri ve değerlendirme kriterleri belirlenir.",
+    "default_text": "Dönem içinde yapılacak ortak sınavların tarihleri ve kapsamı belirlendi. Proje ve performans ödevlerinin konuları, teslim tarihleri ve değerlendirme kriterleri netleştirildi. Öğrencilere sınav ve ödev takvimleri duyurulacak.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Ortak sınavlarımızı ve proje ödevlerini nasıl planlayacağız? Tarih çakışması olmamasına dikkat etmeliyiz."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Önce tüm branşların sınav tarihlerini toparlayalım. Aynı haftaya çok sınav yığılmasın. Öğrenciler bunalıyor ve verim alamıyoruz."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Proje ödevlerinin kriterlerini de net belirlemeliyiz. Ne beklendiği, nasıl değerlendirileceği açıkça yazılmalı. Böylece öğrenciler de ne yapacağını biliyor."
+      }
+    ]
+  },
+  "gundem_lise_dil_materyal_ihtiyac": {
+    "displayName": "Dil Derslerinde Kitap ve Materyal İhtiyaçlarının Belirlenmesi",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "branches": [
+      "yabanci_dil"
+    ],
+    "guide_text": "Yabancı dil öğretiminde kullanılacak ders kitapları, okuma kitapları, dinleme materyalleri, dijital kaynaklar ve konuşma pratiği için araçların ihtiyaç analizi yapılır.",
+    "default_text": "Yabancı dil derslerinde kullanılacak kitaplar, dinleme materyalleri ve dijital kaynakların ihtiyaçları belirlendi. İnteraktif dil öğrenme uygulamaları ve okuma kitaplarının temini için idareye talepte bulunulmasına karar verildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Yabancı dil öğretimi için yeterli materyal ve kaynağımız var mı? Neler eklemeliyiz?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Dinleme materyallerimiz eksik. Her sınıf için seviyeye uygun listening CD'leri veya dijital ses dosyaları temin etmeliyiz."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Graded readers (seviye kitapları) alırsak öğrencilerin okuma alışkanlığı gelişir. Ayrıca online platformlardan (Duolingo, Quizlet gibi) yararlanmalıyız."
+      }
+    ]
+  },
+  "gundem_meslek_lisesi_modul_planlama": {
+    "displayName": "Mesleki Derslerde Modül Planlaması ve Uygulama Stratejileri",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "guide_text": "Mesleki ve teknik liselerde, alan derslerinin modüler yapısına uygun olarak her modülün işlenme sırası, süresi, uygulama gereksinimleri ve yetkinlik ölçümleri planlanır.",
+    "default_text": "Mesleki derslerin modül planlaması yapıldı. Her modülün teorik ve uygulamalı bölümlerinin süreleri, kullanılacak atölye ve laboratuvar saatleri belirlendi. Modül geçme kriterlerinin netleştirilmesi kararlaştırıldı.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Mesleki derslerimizde modül sistemini nasıl daha verimli işletebiliriz?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Her modülün teorik kısmını hızlıca geçip uygulamaya daha fazla zaman ayırmalıyız. Öğrenciler yaparak öğreniyor."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Modül sonu yetkinlik sınavlarını gerçekçi iş koşullarına benzer ortamda yapmalıyız. Sadece yazılı sınav değil, performans ölçümü de olmalı."
+      }
+    ]
+  },
+  "gundem_meslek_lisesi_staj_planlama": {
+    "displayName": "Mesleki Uygulama ve Staj Programlarının Organizasyonu",
+    "applicable_levels": [
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_basi"
+    ],
+    "guide_text": "Öğrencilerin mesleki becerilerini gerçek iş ortamında geliştirmeleri için staj yerleri, süreleri, staj danışman öğretmenleri ve izleme-değerlendirme süreçleri planlanır.",
+    "default_text": "Öğrencilerin staj yapacakları işyerleri, staj süreleri ve danışman öğretmenlerin sorumlulukları belirlendi. Staj öncesi öğrencilere iş güvenliği ve meslek etiği eğitimi verilmesine karar verildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Bu yılki staj programını nasıl organize edeceğiz? Hangi işyerleriyle anlaşma yaptık?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Geçen yıl işbirliği yaptığımız firmalarla tekrar görüşmeliyiz. Ayrıca yeni firmalar da bulmalıyız. Öğrenci sayısı arttı, yeterli staj yeri lazım."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Staj öncesi öğrencilere mutlaka iş güvenliği, meslek etiği ve işyeri kuralları konusunda eğitim vermeliyiz. Danışman öğretmenler de düzenli olarak staj yerlerini ziyaret etmeli."
+      }
+    ]
+  },
+  "gundem_donem2_ilk_donem_degerlendirme": {
+    "displayName": "Birinci Dönem Kararlarının ve Uygulamaların Değerlendirilmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "donem_2_basi"
+    ],
+    "guide_text": "Birinci dönemde alınan zümre kararlarının ne ölçüde uygulandığı, hangi hedeflere ulaşıldığı ve hangi alanlarda eksiklik yaşandığı analiz edilir.",
+    "default_text": "Birinci dönemdeki zümre kararları gözden geçirildi. Planlanan etkinliklerin büyük çoğunluğunun gerçekleştirildiği, ancak bazı proje çalışmalarının zaman yetersizliği nedeniyle ertelendiği tespit edildi. İkinci dönemde bu eksikliklerin giderilmesi kararlaştırıldı.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Birinci dönemi değerlendirelim. Planlananlar gerçekleşti mi, nerede aksaklık yaşadık?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Ortak sınavlar ve ders planları konusunda sorun yaşamadık. Ancak planlanan bazı proje çalışmalarını yetiştiremediğimizi kabul etmeliyiz."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "İkinci dönemde daha gerçekçi hedefler koymalı ve zaman yönetimine dikkat etmeliyiz. Ayrıca birinci dönemde başarılı bulduğumuz yöntemleri sürdürmeliyiz."
+      }
+    ]
+  },
+  "gundem_donem2_eksik_kazanim_telafi": {
+    "displayName": "Eksik Kalan Kazanımların Telafisi ve Destekleme Planları",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "donem_2_basi"
+    ],
+    "guide_text": "Birinci dönemde hedeflenen ancak tamamlanamayan kazanımlar tespit edilir ve bu kazanımların ikinci dönemde nasıl telafi edileceği, destekleme kurslarının içeriği planlanır.",
+    "default_text": "Birinci dönemde eksik kalan kazanımlar belirlendi. Bu kazanımların ikinci dönemin ilk ayında telafi edilmesine ve gerekirse destekleme kursları düzenlenmesine karar verildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Hangi konularda veya kazanımlarda eksiğimiz var? Bunları ikinci dönemde nasıl telafi edebiliriz?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Bazı sınıflarda bazı üniteler yüzeysel kaldı. İkinci dönemin ilk iki haftasında bu konuları tekrar etmeli ve pekiştirmeliyiz."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Özellikle temel becerilerde eksiklik olan öğrenciler için destekleme kursları açmalıyız. Bu öğrencileri tespit edip kurs programına dahil edelim."
+      }
+    ]
+  },
+  "gundem_donem2_yontem_materyaller": {
+    "displayName": "İlk Dönemin Öğretim Yöntem ve Materyallerinin Değerlendirilmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "donem_2_basi"
+    ],
+    "guide_text": "Birinci dönemde kullanılan öğretim yöntemleri, teknikleri ve materyallerin etkililiği değerlendirilir. İşe yarayan yöntemler sürdürülür, eksik veya etkisiz olanlar revize edilir.",
+    "default_text": "Birinci dönemde kullanılan öğretim yöntemleri ve materyalleri değerlendirildi. Aktif öğrenme yöntemlerinin başarılı olduğu, ancak bazı teknolojik araçların (projeksiyon vb.) yetersizliği nedeniyle aksaklık yaşandığı tespit edildi. İkinci dönemde bu eksikliklerin giderilmesine çalışılacak.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Birinci dönemde kullandığımız yöntemler ve materyaller işimize yaradı mı? Neyi değiştirmeliyiz?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Grup çalışmaları ve proje tabanlı öğrenme çok iyi sonuç verdi. Öğrenciler daha motive oldu. Bunları kesinlikle sürdürmeliyiz."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Ancak bazı sınıflarda projeksiyon cihazları arızalı. Görsel materyal kullanamıyoruz. Bu teknik sorunların çözülmesi için idareye talepte bulunmalıyız."
+      }
+    ]
+  },
+  "gundem_donem2_yilsonu_sinav_hazirlik": {
+    "displayName": "Yıl Sonu Sınavları ve Merkezi Sınav Hazırlıkları",
+    "applicable_levels": [
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "donem_2_basi"
+    ],
+    "guide_text": "İkinci dönemin sonunda yapılacak yıl sonu sınavları ve varsa merkezi sınavlara (LGS, YKS) hazırlık stratejileri, tekrar programları ve deneme sınavları planlanır.",
+    "default_text": "Yıl sonu sınavlarının ve merkezi sınavların hazırlık programı oluşturuldu. Mart ayından itibaren yoğun tekrar ve soru çözümü yapılmasına, düzenli deneme sınavları uygulanmasına karar verildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Yıl sonu yaklaşıyor. Öğrencileri hem okul sınavlarına hem de merkezi sınavlara nasıl hazırlayacağız?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Mart'tan sonra yeni konu işlemeyi bırakıp tamamen tekrara ve soru çözümüne yönelmeliyiz. Her hafta deneme sınavı yaparak öğrencilerin eksiklerini tespit edelim."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Özellikle 8. ve 12. sınıflar için yoğunlaştırılmış kurslar düzenleyelim. Sınav tekniklerini öğretelim ve moral motivasyon desteği verelim."
+      }
+    ]
+  },
+  "gundem_yilsonu_egitim_yili_degerlendirme": {
+    "displayName": "Eğitim-Öğretim Yılının Genel Değerlendirmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_sonu"
+    ],
+    "guide_text": "Yıl boyunca alınan tüm zümre kararlarının ve uygulamaların sonuçları, öğrenci başarı verileri, öğretmen gözlemleri ve velilerin geri bildirimleri ışığında kapsamlı olarak değerlendirilir.",
+    "default_text": "Eğitim-öğretim yılı boyunca alınan zümre kararları ve yapılan çalışmalar değerlendirildi. Genel olarak hedeflere ulaşıldığı, öğrenci başarısının arttığı ancak bazı alanlarda iyileştirme gereken noktalar olduğu tespit edildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Yıl sonuna geldik. Bu yılı genel olarak nasıl değerlendiriyoruz? Hedeflerimize ulaşabildik mi?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Öğrenci başarısında artış var, sınav sonuçları geçen yıla göre daha iyi. Ancak devamsızlık konusunda hala sorunlar yaşıyoruz."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Zümre içi işbirliğimiz çok iyi oldu. Planlarımızı büyük oranda uyguladık. Gelecek yıl için de bu koordinasyonu sürdürmeliyiz."
+      }
+    ]
+  },
+  "gundem_yilsonu_basari_analizi": {
+    "displayName": "Öğrenci Başarı Düzeyleri ve İstatistiksel Analiz",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_sonu"
+    ],
+    "guide_text": "Öğrencilerin yıl sonu başarı durumları, sınıf geçme-kalma oranları, derslere göre başarı yüzdeleri istatistiksel olarak analiz edilir ve raporlanır.",
+    "default_text": "Öğrenci başarı durumları analiz edildi. Sınıf geçme oranının %95 olduğu, en başarılı derslerin Türkçe ve Sosyal Bilgiler, en düşük başarı oranının ise Matematik dersinde olduğu tespit edildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Bu yılın başarı istatistiklerine bakalım. Hangi derslerde daha başarılıyız, hangi derslerde destek gerekiyor?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Veriler Türkçe ve Sosyal Bilgilerde başarının yüksek olduğunu gösteriyor. Ancak Matematik ve Fen Bilimleri derslerinde başarı oranı düşük."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Matematik ve Fen derslerinde gelecek yıl öğretim yöntemlerimizi gözden geçirmeliyiz. Daha fazla somutlaştırma ve günlük hayatla ilişkilendirme yapmalıyız."
+      }
+    ]
+  },
+  "gundem_yilsonu_sinif_gecme_kalma": {
+    "displayName": "Sınıf Geçme/Kalma ve Mezuniyet Durumlarının İncelenmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_sonu"
+    ],
+    "guide_text": "Sınıf geçemeyen veya mezun olamayan öğrencilerin durumları incelenir, mazeret sınavı ve telafi imkanları değerlendirilir. Mezun olan öğrencilerin sayısı ve başarı durumları raporlanır.",
+    "default_text": "Sınıf geçemeyen öğrencilerin sayısı ve nedenleri incelendi. Bu öğrenciler için telafi programları ve mazeret sınavı tarihleri belirlendi. Mezun olan öğrencilerin başarı durumları ve hedefledikleri okullara yerleşme oranları değerlendirildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Sınıf geçemeyen öğrencilerimiz var mı? Bu öğrenciler için ne yapabiliriz?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Birkaç öğrencimiz birden fazla dersten başarısız oldu. Bunlar için yaz döneminde telafi eğitimi ve mazeret sınavı düzenlemeliyiz."
+      },
+      {
+        "konusmaci": "{{okul_muduru}}",
+        "gorus": "Mezun olan öğrencilerimizin çoğunluğu hedefledikleri okullara yerleşti. Bu gurur verici. Gelecek yıl da bu başarıyı sürdürmek için çalışmalıyız."
+      }
+    ]
+  },
+  "gundem_yilsonu_aksayan_yonler": {
+    "displayName": "Aksayan Yönlerin ve İyileştirme Alanlarının Tespiti",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_sonu"
+    ],
+    "guide_text": "Yıl boyunca yaşanan sorunlar, planlanan ancak gerçekleştirilemeyen faaliyetler, materyal eksiklikleri ve iletişim problemleri gibi aksayan yönler tespit edilir ve çözüm önerileri geliştirilir.",
+    "default_text": "Yıl içinde yaşanan aksaklıklar değerlendirildi. Laboratuvar malzemelerinin yetersizliği, bazı proje çalışmalarının zaman yetersizliği nedeniyle gerçekleştirilemediği ve veli iletişiminde zayıflıklar olduğu tespit edildi.",
+    "default_gorusmeler": [
+      {
+        "konusmaci": "{{zumre_baskani}}",
+        "gorus": "Bu yıl hangi konularda sorun yaşadık? Gelecek yıl için neyi değiştirmemiz gerekiyor?"
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Materyal ve araç-gereç eksikliği önemli bir sorundu. Planlanan bazı deneyleri yapamadık. Bütçe ve tedarik konusunda daha önceden hareket etmeliyiz."
+      },
+      {
+        "konusmaci": "{{rastgele_zumre_ogretmeni}}",
+        "gorus": "Veli iletişimi de güçlendirilmeli. Bazı velilere hiç ulaşamadık. Gelecek yıl farklı iletişim kanalları (SMS, online platformlar) kullanabiliriz."
+      }
+    ]  
+  },
   "gundem_brans_felsefe_psiko_sosyo_tymm": {
     "displayName": "Psikoloji ve Sosyoloji Derslerinin TYMM İlkeleriyle İlişkilendirilmesi (Felsefe Grubu)",
     "applicable_levels": [
