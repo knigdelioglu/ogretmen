@@ -2133,6 +2133,19 @@
       "donem_2_basi",
       "sene_sonu"
     ],
+    "relationships": {
+      "leads_to": [
+        "gundem_ortak_olcme_degerlendirme",
+        "gundem_ortak_rehberlik_hizmetleri"
+      ],
+      "complements": [
+        "gundem_ortak_bep",
+        "gundem_tymm_sinav_analizi_iyilestirme"
+      ],
+      "depends_on": [
+        "gundem_ortak_onceki_kararlar"
+      ]
+    },
     "guide_text": "Öğrencilerin akademik başarı düzeyleri, devam-devamsızlık durumları ve disiplin kayıtları incelenir. Risk grubundaki öğrenciler için destek ve önleme stratejileri geliştirilir.",
     "default_text": "Öğrencilerin akademik başarı, devam ve disiplin durumları gözden geçirildi. Başarısız veya devamsızlık sorunu yaşayan öğrenciler için destekleme ve yetiştirme kursları ile rehberlik desteği sağlanmasına karar verildi.",
     "default_gorusmeler": [
@@ -2160,6 +2173,14 @@
     "applicable_phases": [
       "sene_basi"
     ],
+    "relationships": {
+      "complements": [
+        "gundem_ortak_isg"
+      ],
+      "prerequisite_for": [
+        "gundem_ortak_laboratuvar_atolye_gezi"
+      ]
+    },
     "guide_text": "Okulun fiziksel koşulları, hijyen standartları, acil durum planları ve öğrenci sağlık taramaları hakkında bilgilendirme yapılır. Öğretmenlerin bu konulardaki sorumlulukları hatırlatılır.",
     "default_text": "Okul sağlığı ve güvenliği konusunda öğretmenlerin sorumlulukları hatırlatıldı. Sınıfların düzenli havalandırılması, hijyen kurallarına uyulması ve acil durum tatbikatlarına katılım konusunda hassasiyet gösterilmesine karar verildi.",
     "default_gorusmeler": [
@@ -2187,6 +2208,17 @@
     "applicable_phases": [
       "sene_basi"
     ],
+    "relationships": {
+      "complements": [
+        "gundem_ortak_bep",
+        "gundem_ortak_ogrenci_basari_analizi",
+        "gundem_tymm_pdr_entegrasyon"
+      ],
+      "leads_to": [
+        "gundem_ilkokul_veli_toplantilari",
+        "gundem_ortaokul_ergenlik"
+      ]
+    },
     "guide_text": "Okulun psikolojik danışmanlık ve rehberlik hizmetlerinin tanıtımı yapılır. Veli toplantıları, veli görüşmeleri ve okul-aile iletişim kanallarının işleyişi planlanır.",
     "default_text": "Rehberlik servisinin yıllık çalışma planı hakkında bilgilendirme yapıldı. Veli toplantılarının tarihleri belirlendi ve öğretmenlerin velilerle düzenli iletişim kurmasının önemine vurgu yapıldı.",
     "default_gorusmeler": [
@@ -2214,6 +2246,15 @@
     "applicable_phases": [
       "sene_basi"
     ],
+    "relationships": {
+      "complements": [
+        "gundem_ortak_mevzuat",
+        "gundem_ortak_rehberlik_hizmetleri"
+      ],
+      "prerequisite_for": [
+        "gundem_ilkokul_davranis_yonetimi"
+      ]
+    },
     "guide_text": "Öğrencilerin eğitim hakkı, ifade özgürlüğü, ayrımcılığa uğramama ve güvenli bir ortamda öğrenme gibi temel haklarının öğretmenlere hatırlatılması ve uygulamada bu hakların korunması için alınacak tedbirler ele alınır.",
     "default_text": "Öğrencilerin temel hakları ve sorumlulukları konusunda öğretmenlere bilgilendirme yapıldı. Tüm öğrencilere eşit ve adil davranılması, ayrımcılığın önlenmesi ve öğrencilerin görüşlerinin dinlenmesi konusunda hassasiyet gösterilmesine karar verildi.",
     "default_gorusmeler": [
@@ -2242,6 +2283,18 @@
     "branches": [
       "sinif_ogretmenligi"
     ],
+    "relationships": {
+      "leads_to": [
+        "gundem_ilkokul_okuryazarlik",
+        "gundem_ilkokul_okuma_kulturu"
+      ],
+      "complements": [
+        "gundem_ortak_ogrenci_basari_analizi"
+      ],
+      "prerequisite_for": [
+        "gundem_ilkokul_unitelendirilmis_plan"
+      ]
+    },
     "guide_text": "Eğitim-öğretim yılı başında öğrencilerin okuma-yazma düzeylerinin tespiti yapılır. İlk okuma-yazma öğretiminde kullanılacak yöntemler belirlenir ve zorluk yaşayan öğrenciler için destek programları planlanır.",
     "default_text": "1. sınıf öğrencileri için okuma-yazma öğretimi takvimi hazırlandı. Diğer sınıf düzeylerinde öğrencilerin okuma-yazma seviyelerinin tespit edilmesi ve zorluk yaşayan öğrenciler için ek destek programları uygulanmasına karar verildi.",
     "default_gorusmeler": [
@@ -2270,6 +2323,19 @@
     "branches": [
       "sinif_ogretmenligi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_ortak_yillik_plan",
+        "gundem_ilkokul_okuma_yazma_seviye_tespit"
+      ],
+      "complements": [
+        "gundem_brans_sinif_hayat_bilgisi",
+        "gundem_tymm_deger_entegrasyonu"
+      ],
+      "leads_to": [
+        "gundem_ilkokul_oyun_temelli_ogrenme"
+      ]
+    },
     "guide_text": "İlkokulda derslerin disiplinler arası bir yaklaşımla planlanması için ünitelendirilmiş yıllık planlar hazırlanır. Günlük ders planlarının formatı ve içeriği standardize edilir.",
     "default_text": "Ünitelendirilmiş yıllık planların sınıf düzeylerine göre hazırlanmasına ve günlük planların belirlenen standart formata uygun olarak düzenlenmesine karar verildi. Planların 20 Eylül tarihine kadar tamamlanması kararlaştırıldı.",
     "default_gorusmeler": [
@@ -2298,6 +2364,15 @@
     "branches": [
       "sinif_ogretmenligi"
     ],
+    "relationships": {
+      "complements": [
+        "gundem_ortak_ataturkculuk",
+        "gundem_ortak_sosyal_etkinlik"
+      ],
+      "depends_on": [
+        "gundem_ilkokul_unitelendirilmis_plan"
+      ]
+    },
     "guide_text": "29 Ekim Cumhuriyet Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, 10 Kasım Atatürk'ü Anma gibi önemli gün ve haftaların sınıf düzeyine uygun olarak işlenmesi ve etkinliklerinin planlanması.",
     "default_text": "Milli ve resmi bayramlar ile belirli gün ve haftaların (29 Ekim, 23 Nisan, 10 Kasım, Kitap Haftası vb.) sınıf seviyelerine uygun etkinliklerle kutlanmasına karar verildi. Her sınıfın en az bir özel günde okul geneli programa katkı sunması planlandı.",
     "default_gorusmeler": [
@@ -2326,6 +2401,15 @@
     "branches": [
       "sinif_ogretmenligi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_ortak_rehberlik_hizmetleri"
+      ],
+      "complements": [
+        "gundem_ilkokul_okuma_kulturu",
+        "gundem_ilkokul_davranis_yonetimi"
+      ]
+    },
     "guide_text": "Velilerle etkili iletişim kurmak ve işbirliği sağlamak amacıyla veli toplantılarının içeriği, sıklığı ve iletişim kanalları (telefon, e-posta, WhatsApp grupları) planlanır.",
     "default_text": "Dönemde en az iki veli toplantısı düzenlenmesine ve velilerle düzenli bireysel görüşmeler yapılmasına karar verildi. Veli iletişiminde saygılı, yapıcı ve çözüm odaklı bir dil kullanılmasına özen gösterilecektir.",
     "default_gorusmeler": [
@@ -2354,6 +2438,15 @@
     "branches": [
       "sinif_ogretmenligi"
     ],
+    "relationships": {
+      "complements": [
+        "gundem_ilkokul_okuma_kulturu",
+        "gundem_ilkokul_oyun_temelli_ogrenme"
+      ],
+      "prerequisite_for": [
+        "gundem_ilkokul_davranis_yonetimi"
+      ]
+    },
     "guide_text": "Sınıfların fiziksel düzenlemesi, panoların hazırlanması, öğrenme merkezlerinin oluşturulması ve materyallerin erişilebilirliği konusunda standartlar belirlenir.",
     "default_text": "Sınıfların öğrenme ortamı olarak düzenlenmesine, panoların eğitici içeriklerle donatılmasına ve öğrencilerin rahatça ulaşabileceği kitap köşeleri oluşturulmasına karar verildi.",
     "default_gorusmeler": [
@@ -2379,6 +2472,18 @@
     "applicable_phases": [
       "sene_basi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_ortak_yillik_plan"
+      ],
+      "leads_to": [
+        "gundem_ortaokul_ogretim_yontem_teknik",
+        "gundem_ortak_olcme_degerlendirme"
+      ],
+      "complements": [
+        "gundem_tymm_deger_entegrasyonu"
+      ]
+    },
     "guide_text": "Her branşın müfredat kazanımlarının yıl içine dengeli dağıtılması, ünitelerin işlenme sırası ve süreleri belirlenir. Ara tatil ve sınavların konu dağılımına etkisi hesaplanır.",
     "default_text": "Her branşın yıllık konu dağılımı ve ünite planları incelendi. Kazanımların dönemlere dengeli şekilde dağıtılmasına ve sınav öncesi tekrar süreleri bırakılmasına karar verildi.",
     "default_gorusmeler": [
@@ -2404,6 +2509,18 @@
     "applicable_phases": [
       "sene_basi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_ortaokul_yillik_konu_dagilimi"
+      ],
+      "complements": [
+        "gundem_ortaokul_proje_tabanli_ogrenme",
+        "gundem_tymm_beceri_cercevesi"
+      ],
+      "leads_to": [
+        "gundem_ortak_olcme_degerlendirme"
+      ]
+    },
     "guide_text": "Ders işleyişinde kullanılacak öğretim yöntemleri (anlatım, soru-cevap, tartışma, grup çalışması, proje, deney vb.) ve aktif öğrenme teknikleri branşlara göre belirlenir.",
     "default_text": "Ders işleyişinde sadece düz anlatım yerine, öğrenci merkezli öğretim yöntemlerine (grup çalışması, proje, deney, tartışma) ağırlık verilmesine karar verildi. Her öğretmenin en az iki farklı aktif öğrenme tekniği kullanması hedeflendi.",
     "default_gorusmeler": [
@@ -2429,6 +2546,15 @@
     "applicable_phases": [
       "sene_basi"
     ],
+    "relationships": {
+      "complements": [
+        "gundem_ortak_sosyal_etkinlik",
+        "gundem_ortaokul_dijital_vatandaslik"
+      ],
+      "depends_on": [
+        "gundem_ortaokul_yillik_konu_dagilimi"
+      ]
+    },
     "guide_text": "Öğrencilerin ilgi ve yeteneklerini geliştirmek amacıyla açılacak kulüpler (bilim, spor, sanat, edebiyat vb.), sosyal etkinlikler ve yarışmalara katılım planlanır.",
     "default_text": "Öğrencilerin ilgi alanlarına yönelik en az beş farklı kulüp (bilim, spor, müzik, tiyatro, kodlama) açılmasına karar verildi. Kulüp etkinlikleri için haftalık program hazırlandı ve öğrenci katılımının teşvik edilmesi kararlaştırıldı.",
     "default_gorusmeler": [
@@ -2454,6 +2580,18 @@
     "applicable_phases": [
       "sene_basi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_ortak_yillik_plan"
+      ],
+      "leads_to": [
+        "gundem_lise_ortak_sinav_proje",
+        "gundem_lise_yks"
+      ],
+      "complements": [
+        "gundem_tymm_deger_entegrasyonu"
+      ]
+    },
     "guide_text": "Lise düzeyinde her branşın kazanımlarının yıllık takvime yerleştirilmesi, YKS müfredatı ile uyumu ve sınav hazırlık dönemlerinin planlanması yapılır.",
     "default_text": "Tüm branşların yıllık konu ve ünite planları müfredata uygunluk açısından incelendi. Özellikle 12. sınıflarda YKS hazırlık sürecine uygun olarak Mart ayından sonra tekrar ve soru çözümüne ağırlık verilmesine karar verildi.",
     "default_gorusmeler": [
@@ -2480,6 +2618,16 @@
       "sene_basi",
       "donem_2_basi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_lise_konu_unite_planlama",
+        "gundem_ortak_olcme_degerlendirme"
+      ],
+      "complements": [
+        "gundem_tymm_ortak_sinav_tasarimi",
+        "gundem_tymm_alternatif_olcme"
+      ]
+    },
     "guide_text": "Liselerde yapılacak ortak sınavların tarihleri, kapsamı, soru dağılımı ve proje/performans ödevlerinin konuları, teslim tarihleri ve değerlendirme kriterleri belirlenir.",
     "default_text": "Dönem içinde yapılacak ortak sınavların tarihleri ve kapsamı belirlendi. Proje ve performans ödevlerinin konuları, teslim tarihleri ve değerlendirme kriterleri netleştirildi. Öğrencilere sınav ve ödev takvimleri duyurulacak.",
     "default_gorusmeler": [
@@ -2508,6 +2656,15 @@
     "branches": [
       "yabanci_dil"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_ortak_ders_arac_gerec"
+      ],
+      "complements": [
+        "gundem_brans_ing_deger_odakli_icerik",
+        "gundem_brans_ing_proje_deger"
+      ]
+    },
     "guide_text": "Yabancı dil öğretiminde kullanılacak ders kitapları, okuma kitapları, dinleme materyalleri, dijital kaynaklar ve konuşma pratiği için araçların ihtiyaç analizi yapılır.",
     "default_text": "Yabancı dil derslerinde kullanılacak kitaplar, dinleme materyalleri ve dijital kaynakların ihtiyaçları belirlendi. İnteraktif dil öğrenme uygulamaları ve okuma kitaplarının temini için idareye talepte bulunulmasına karar verildi.",
     "default_gorusmeler": [
@@ -2533,6 +2690,18 @@
     "applicable_phases": [
       "sene_basi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_lise_konu_unite_planlama",
+        "gundem_ortak_ders_arac_gerec"
+      ],
+      "leads_to": [
+        "gundem_meslek_lisesi_staj_planlama"
+      ],
+      "complements": [
+        "gundem_ortak_laboratuvar_atolye_gezi"
+      ]
+    },
     "guide_text": "Mesleki ve teknik liselerde, alan derslerinin modüler yapısına uygun olarak her modülün işlenme sırası, süresi, uygulama gereksinimleri ve yetkinlik ölçümleri planlanır.",
     "default_text": "Mesleki derslerin modül planlaması yapıldı. Her modülün teorik ve uygulamalı bölümlerinin süreleri, kullanılacak atölye ve laboratuvar saatleri belirlendi. Modül geçme kriterlerinin netleştirilmesi kararlaştırıldı.",
     "default_gorusmeler": [
@@ -2558,6 +2727,15 @@
     "applicable_phases": [
       "sene_basi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_meslek_lisesi_modul_planlama"
+      ],
+      "complements": [
+        "gundem_lise_kariyer_planlama",
+        "gundem_ortak_isg"
+      ]
+    },
     "guide_text": "Öğrencilerin mesleki becerilerini gerçek iş ortamında geliştirmeleri için staj yerleri, süreleri, staj danışman öğretmenleri ve izleme-değerlendirme süreçleri planlanır.",
     "default_text": "Öğrencilerin staj yapacakları işyerleri, staj süreleri ve danışman öğretmenlerin sorumlulukları belirlendi. Staj öncesi öğrencilere iş güvenliği ve meslek etiği eğitimi verilmesine karar verildi.",
     "default_gorusmeler": [
@@ -2585,6 +2763,18 @@
     "applicable_phases": [
       "donem_2_basi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_ortak_onceki_kararlar"
+      ],
+      "leads_to": [
+        "gundem_donem2_eksik_kazanim_telafi",
+        "gundem_donem2_yontem_materyaller"
+      ],
+      "complements": [
+        "gundem_tymm_etki_degerlendirmesi"
+      ]
+    },
     "guide_text": "Birinci dönemde alınan zümre kararlarının ne ölçüde uygulandığı, hangi hedeflere ulaşıldığı ve hangi alanlarda eksiklik yaşandığı analiz edilir.",
     "default_text": "Birinci dönemdeki zümre kararları gözden geçirildi. Planlanan etkinliklerin büyük çoğunluğunun gerçekleştirildiği, ancak bazı proje çalışmalarının zaman yetersizliği nedeniyle ertelendiği tespit edildi. İkinci dönemde bu eksikliklerin giderilmesi kararlaştırıldı.",
     "default_gorusmeler": [
@@ -2612,6 +2802,15 @@
     "applicable_phases": [
       "donem_2_basi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_donem2_ilk_donem_degerlendirme",
+        "gundem_ortak_ogrenci_basari_analizi"
+      ],
+      "complements": [
+        "gundem_ortak_rehberlik_hizmetleri"
+      ]
+    },
     "guide_text": "Birinci dönemde hedeflenen ancak tamamlanamayan kazanımlar tespit edilir ve bu kazanımların ikinci dönemde nasıl telafi edileceği, destekleme kurslarının içeriği planlanır.",
     "default_text": "Birinci dönemde eksik kalan kazanımlar belirlendi. Bu kazanımların ikinci dönemin ilk ayında telafi edilmesine ve gerekirse destekleme kursları düzenlenmesine karar verildi.",
     "default_gorusmeler": [
@@ -2639,6 +2838,15 @@
     "applicable_phases": [
       "donem_2_basi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_donem2_ilk_donem_degerlendirme"
+      ],
+      "complements": [
+        "gundem_ortak_ders_arac_gerec",
+        "gundem_tymm_hizmetici_egitim_ihtiyaci"
+      ]
+    },
     "guide_text": "Birinci dönemde kullanılan öğretim yöntemleri, teknikleri ve materyallerin etkililiği değerlendirilir. İşe yarayan yöntemler sürdürülür, eksik veya etkisiz olanlar revize edilir.",
     "default_text": "Birinci dönemde kullanılan öğretim yöntemleri ve materyalleri değerlendirildi. Aktif öğrenme yöntemlerinin başarılı olduğu, ancak bazı teknolojik araçların (projeksiyon vb.) yetersizliği nedeniyle aksaklık yaşandığı tespit edildi. İkinci dönemde bu eksikliklerin giderilmesine çalışılacak.",
     "default_gorusmeler": [
@@ -2665,6 +2873,18 @@
     "applicable_phases": [
       "donem_2_basi"
     ],
+    "relationships": {
+      "depends_on": [
+        "gundem_donem2_eksik_kazanim_telafi"
+      ],
+      "complements": [
+        "gundem_ortaokul_lgs",
+        "gundem_lise_yks"
+      ],
+      "leads_to": [
+        "gundem_yilsonu_basari_analizi"
+      ]
+    },
     "guide_text": "İkinci dönemin sonunda yapılacak yıl sonu sınavları ve varsa merkezi sınavlara (LGS, YKS) hazırlık stratejileri, tekrar programları ve deneme sınavları planlanır.",
     "default_text": "Yıl sonu sınavlarının ve merkezi sınavların hazırlık programı oluşturuldu. Mart ayından itibaren yoğun tekrar ve soru çözümü yapılmasına, düzenli deneme sınavları uygulanmasına karar verildi.",
     "default_gorusmeler": [
@@ -2682,6 +2902,29 @@
       }
     ]
   },
+  "gundem_yilsonu_egitim_yili_degerlendirme": {
+    "displayName": "Eğitim-Öğretim Yılının Genel Değerlendirmesi",
+    "applicable_levels": [
+      "ilkokul",
+      "ortaokul",
+      "lise"
+    ],
+    "applicable_phases": [
+      "sene_sonu"
+    ],
+    "relationships": {
+      "depends_on": [
+        "gundem_ortak_onceki_kararlar",
+        "gundem_donem2_ilk_donem_degerlendirme"
+      ],
+      "leads_to": [
+        "gundem_yilsonu_aksayan_yonler",
+        "gundem_yilsonu_gelecek_yil_onerileri"
+      ],
+      "complements": [
+        "gundem_tymm_etki_degerlendirmesi"
+      ]
+    },
   "gundem_yilsonu_egitim_yili_degerlendirme": {
     "displayName": "Eğitim-Öğretim Yılının Genel Değerlendirmesi",
     "applicable_levels": [
